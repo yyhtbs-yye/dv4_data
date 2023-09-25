@@ -1,0 +1,2862 @@
+,Price,Make,Model,Year,Mileage,Fuel Type,Body Type,Engine Size (Litres),Power
+2,26950.0,KIA,Sportage,2019,96560.4,Diesel,SUV,1.6,115.0
+3,12690.0,Volkswagen,Golf,2013,96560.4,Petrol,Hatchback,1.4,122.0
+4,12250.0,Volkswagen,Golf,2013,125000.0,Petrol,Hatchback,1.2,85.0
+5,12950.0,Volkswagen,Golf,2013,102000.0,Petrol,Estate,1.2,105.0
+6,14995.0,Nissan,Qashqai,2016,159750.0,Diesel,Hatchback,1.5,110.0
+7,6950.0,Vauxhall,Insignia,2012,6950.0,Diesel,Hatchback,2.0,
+8,52544.0,Audi,A3,2022,16.0,Hybrid,Hatchback,1.4,
+9,10750.0,Toyota,Vitz,2015,,Petrol,Hatchback,1.0,68.0
+10,5500.0,SEAT,Leon,2012,221000.0,Diesel,Hatchback,1.6,105.0
+11,10950.0,Opel,Insignia,2016,167922.0,Diesel,Saloon,1.6,136.0
+13,11995.0,Skoda,Fabia,2017,89298.0,Petrol,Hatchback,1.0,60.0
+14,,Skoda,Octavia,2018,94364.0,Diesel,Saloon,1.6,90.0
+15,14850.0,Audi,A4,2014,177415.0,Diesel,Saloon,2.0,120.0
+16,11999.0,Audi,A5,2011,154496.64,Diesel,Hatchback,2.0,143.0
+17,14650.0,Volkswagen,Passat,2015,154300.0,Diesel,Saloon,1.6,120.0
+18,11450.0,Volkswagen,Polo,2016,120701.0,Petrol,Hatchback,1.0,60.0
+19,11000.0,Volkswagen,Polo,2013,105001.0,Petrol,Hatchback,1.2,60.0
+20,3250.0,Mazda,3,2010,217260.9,Diesel,Saloon,1.6,
+21,27253.0,Dacia,Jogger,2022,0.0,Petrol,Crossover,1.0,110.0
+22,10000.0,Renault,Master,2018,270000.0,Diesel,Van,2.3,
+23,22000.0,KIA,Ceed,2020,52303.55,Diesel,Estate,1.6,115.0
+24,40000.0,BMW,M3,1986,,Petrol,Coupe,2.3,
+25,5250.0,Citroen,Berlingo,2010,,Diesel,MPV,1.6,
+26,8950.0,Hyundai,Santa Fe,2013,318649.32,Diesel,SUV,2.2,197.0
+27,17500.0,Nissan,Juke,2018,103001.0,Petrol,MPV,1.6,94.0
+29,16500.0,BMW,3-Series,2013,136793.9,Diesel,Saloon,2.0,184.0
+30,10040.0,Ford,Transit Courier,2018,64639.1411,Diesel,Van,1.5,
+32,67140.0,Mazda,CX-60,2023,2.0,Hybrid,SUV,2.5,
+34,7995.0,Dacia,Sandero,2014,128925.8367,Diesel,Hatchback,1.5,90.0
+35,11495.0,Peugeot,208,2016,86698.0,Petrol,Hatchback,1.2,82.0
+36,18000.0,Ford,Fiesta,2018,25000.0,Petrol,Hatchback,1.1,70.0
+37,27845.0,Renault,Kadjar,2020,31582.0,Diesel,SUV,1.5,115.0
+38,15995.0,Audi,A6,2014,326696.02,Diesel,Saloon,2.0,190.0
+39,14950.0,Audi,A5,2014,273587.8,Diesel,Coupe,2.0,177.0
+40,9950.0,Nissan,Note,2014,69660.0,Petrol,Hatchback,1.2,98.0
+41,139950.0,Ferrari,Other,2010,48000.0,Petrol,Cabriolet,4.3,
+43,,Hyundai,i20,2014,148582.0,Diesel,Hatchback,1.4,90.0
+44,950.0,Chevrolet,Lacetti,2009,,Petrol,Estate,1.6,
+45,17500.0,Volkswagen,Beetle,2016,87224.0,Petrol,Hatchback,1.2,105.0
+46,8950.0,Subaru,Outback,2012,197948.82,Diesel,Estate,2.0,150.0
+47,29800.0,BMW,4-Series,2015,89129.0,Diesel,Cabriolet,2.0,184.0
+48,25950.0,SEAT,Arona,2020,16000.0,Petrol,SUV,1.0,115.0
+49,10600.0,Ford,Fiesta,2014,67122.0,Petrol,Hatchback,1.2,60.0
+50,9950.0,Nissan,Juke,2014,87000.0,Petrol,SUV,1.6,117.0
+51,25500.0,Mitsubishi,Lancer,2005,109435.12,Petrol,Saloon,2.0,
+52,5995.0,Opel,Corsa,2010,91000.0,Petrol,Hatchback,1.2,
+53,13900.0,Toyota,Yaris,2015,80467.0,Petrol,Hatchback,1.0,
+54,29440.0,Dacia,Jogger,2022,50.0,Petrol,Crossover,1.0,110.0
+55,41950.0,Hyundai,Santa Fe,2019,60086.0,Diesel,SUV,2.2,200.0
+56,2950.0,Opel,Insignia,2009,,Diesel,Hatchback,2.0,
+57,5250.0,Volkswagen,Caddy,2013,279877.1007,Diesel,MPV,1.6,
+58,12450.0,Mercedes,SL-Class,2003,170584.0,Petrol,Cabriolet,3.7,
+59,15850.0,BMW,3-Series,2013,236572.98,Diesel,Saloon,2.0,184.0
+60,109945.0,Audi,Q7,2022,14850.0,Hybrid,Estate,3.0,
+61,20250.0,Hyundai,Santa Fe,2018,183001.0,Diesel,Van,2.2,
+62,26950.0,Volkswagen,Taigo,2022,15874.0,Petrol,SUV,1.0,95.0
+64,56950.0,Porsche,Panamera,2016,150344.0,Petrol Plug-in Hybrid,Hatchback,3.0,416.0
+65,26499.0,BMW,5-Series,2017,115399.0,Diesel,Saloon,2.0,190.0
+66,23900.0,BMW,X3,2016,209397.0,Diesel,SUV,2.0,190.0
+67,11900.0,Renault,Clio,2016,55200.0,Petrol,Hatchback,1.1,75.0
+68,,Audi,A3,2018,97931.0,Diesel,Hatchback,1.6,116.0
+69,10950.0,Peugeot,2008,2016,94944.0,Petrol,SUV,1.2,82.0
+70,2750.0,Opel,Astra,2010,333133.38,Diesel,Hatchback,1.7,
+71,74995.0,BMW,M2,2020,15921.0,Petrol,Coupe,3.0,411.0
+72,14888.0,Toyota,Yaris,2015,104002.0,Hybrid,Hatchback,1.5,100.0
+73,9500.0,Peugeot,RCZ,2012,123919.18,Diesel,Coupe,2.0,163.0
+74,34110.0,Ford,Ranger,2019,113200.0,Diesel,Van,3.2,
+75,8495.0,Suzuki,Splash,2013,48000.0,Petrol,Hatchback,1.0,65.0
+76,12000.0,Hyundai,ix35,2014,99779.08,Diesel,SUV,1.7,115.0
+77,5999.0,Volkswagen,Golf,2010,262322.42,Diesel,Hatchback,2.0,
+78,4900.0,Volkswagen,CC,2011,308993.28,Diesel,Coupe,2.0,140.0
+79,21949.0,Audi,A6,2015,119621.0,Diesel,Saloon,2.0,190.0
+80,15950.0,Volkswagen,Tiguan,2014,128747.2,Diesel,SUV,2.0,110.0
+81,30203.0,Dacia,Duster,2022,0.0,Diesel,SUV,1.5,115.0
+82,6730.0,Nissan,X-Trail,2012,326213.218,Diesel,SUV,2.0,150.0
+83,1200.0,Nissan,Micra,2003,77248.32,Petrol,Hatchback,1.0,
+84,14227.0,Volkswagen,Transporter,2017,194000.0,Diesel,Van,2.0,
+85,19999.0,Nissan,Skyline,2010,117000.0,Petrol Hybrid,Saloon,3.5,
+86,13450.0,Volkswagen,Golf,2016,225307.6,Diesel,Hatchback,1.6,110.0
+87,5450.0,Peugeot,Partner,2014,280000.0,Diesel,MPV,1.6,
+88,4950.0,Renault,Megane,2013,233000.0,Diesel,Hatchback,1.5,110.0
+89,23950.0,Suzuki,Vitara,2021,19000.0,Petrol,SUV,1.4,129.0
+90,18000.0,Renault,Clio,2020,37000.0,Petrol,Hatchback,1.0,100.0
+93,19800.0,Renault,Clio,2021,26529.0,Petrol,Hatchback,1.0,100.0
+94,,SEAT,Ateca,2022,,Diesel,SUV,2.0,115.0
+95,6700.0,Hyundai,i40,2013,209.2142,Diesel,Saloon,1.7,116.0
+97,,Toyota,Camry,2022,,Hybrid,Saloon,2.487,218.0
+98,19050.0,Jaguar,XF,2016,156305.5382,Diesel,Saloon,2.0,180.0
+99,3500.0,Renault,Kangoo,2011,195000.0,Diesel,MPV,1.5,
+100,29000.0,Toyota,RAV4,2018,,Petrol Hybrid,SUV,2.5,197.0
+101,14950.0,BMW,3-Series,2016,160934.0,Diesel,Saloon,2.0,150.0
+102,4950.0,Opel,Astra,2013,236572.98,Petrol,Saloon,1.4,100.0
+103,9950.0,Audi,A3,2011,98000.0,Petrol,Hatchback,1.4,125.0
+104,3400.0,Volkswagen,Touareg,2007,,Diesel,SUV,2.5,
+105,28074.15,Nissan,Navara,2019,26634.577,Diesel,Pick Up,2.3,
+106,1500.0,Volkswagen,Polo,2006,231372.0,Petrol,Hatchback,1.2,
+107,,Nissan,Juke,2012,80000.0,Petrol,SUV,1.6,94.0
+108,19950.0,Ford,Kuga,2017,190039.0,Diesel,MPV,2.0,
+109,31700.0,KIA,Sportage,2020,43439.0,Diesel,SUV,1.6,115.0
+110,4900.0,Volkswagen,Passat,2010,212.0,Diesel,Saloon,1.6,
+111,4000.0,Ford,Transit Connect,2011,193120.8,Diesel,Van,1.8,
+112,2500.0,Mercedes,Sprinter,2005,1.0,Diesel,Van,2.1,
+113,30850.0,Audi,A4,2019,151376.0,Diesel,Saloon,2.0,
+114,13600.0,Opel,Astra,2017,132276.0,Diesel,Hatchback,1.6,
+115,49950.0,BMW,X5,2017,123226.0,Diesel,Estate,2.0,231.0
+116,15950.0,Ford,EcoSport,2017,169093.0,Diesel,Hatchback,1.5,
+117,12950.0,Opel,Insignia,2016,169781.0,Diesel,Hatchback,1.6,
+118,29950.0,Alfa Romeo,Giulia,2019,138112.0,Diesel,Saloon,2.2,
+119,25600.0,Toyota,C-HR,2018,145830.0,Hybrid,Hatchback,1.8,
+120,19950.0,Volkswagen,Passat,2017,191635.0,Diesel,Estate,2.0,
+121,23600.0,Toyota,RAV4,2017,191611.0,Diesel,Estate,2.0,
+122,15850.0,Ford,Fiesta,2018,111471.0,Diesel,Hatchback,1.5,
+123,11500.0,Dacia,Duster,2016,125000.0,Diesel,SUV,1.5,110.0
+124,14950.0,Opel,Movano,2017,139000.0,Diesel,MPV,2.3,
+125,12900.0,Audi,A7,2011,297727.9,Diesel,Hatchback,3.0,204.0
+126,13850.0,SEAT,Ibiza,2018,74685.0,Petrol,Hatchback,1.0,
+127,19700.0,Audi,A4,2016,164578.0,Petrol,Saloon,1.4,
+128,16600.0,Ford,Focus,2018,157348.0,Diesel,Hatchback,1.5,
+129,18850.0,Volkswagen,Passat,2017,188125.0,Diesel,Saloon,2.0,
+130,5950.0,Toyota,Passo,2013,90000.0,Petrol,Hatchback,1.0,87.0
+131,31900.0,Mercedes,E-Class,2017,160768.0,Diesel,Saloon,2.0,
+132,16900.0,Skoda,Octavia,2018,187651.0,Diesel,Hatchback,1.6,
+133,15949.0,Skoda,Superb,2016,201502.0,Diesel,Estate,1.6,120.0
+134,26950.0,Mercedes,A-Class,2018,80450.0,Diesel,Hatchback,1.5,109.0
+135,16800.0,Skoda,Octavia,2017,174882.0,Diesel,Estate,1.6,
+136,18600.0,Mercedes,A-Class,2016,200883.0,Diesel,Hatchback,1.5,
+137,24600.0,Audi,A4,2018,195454.0,Diesel,Estate,2.0,
+138,16950.0,Audi,A3,2017,118026.0,Diesel,Hatchback,1.6,
+139,14850.0,SEAT,Ibiza,2018,148944.0,Petrol,Hatchback,1.0,
+140,15750.0,Audi,A3,2016,164864.0,Diesel,Hatchback,1.6,
+141,5995.0,SEAT,Ibiza,2011,250290.0,Diesel,MPV,1.2,75.0
+142,26800.0,Audi,A6,2017,159529.0,Diesel,Saloon,2.0,
+143,46750.0,Audi,A4,2021,27227.0,Diesel,Saloon,2.0,
+144,15950.0,Volvo,V40,2016,81000.0,Diesel,Hatchback,2.0,120.0
+145,20600.0,Nissan,Qashqai,2018,187895.0,Diesel,SUV,1.5,
+146,24800.0,Mercedes,CLA-Class,2017,191975.0,Diesel,Saloon,2.1,
+148,19600.0,BMW,3-Series,2017,249253.0,Hybrid,Saloon,2.0,
+149,17950.0,Mazda,CX-5,2017,168445.0,Diesel,Estate,2.2,
+150,24800.0,Mitsubishi,Outlander,2017,128583.0,Hybrid,Estate,2.0,203.0
+151,49900.0,Volvo,XC90,2018,172005.0,Diesel,MPV,2.0,235.0
+152,14850.0,Ford,Fiesta,2018,160543.0,Diesel,Hatchback,1.5,
+153,13950.0,Opel,Astra,2017,87453.0,Diesel,Hatchback,1.6,
+154,16600.0,Volvo,V40,2018,117672.0,Diesel,Hatchback,2.0,
+155,8995.0,Peugeot,Expert,2012,172559.8722,Diesel,MPV,2.0,120.0
+156,5750.0,Renault,Megane,2011,125842.3413,Petrol,Coupe,1.4,
+157,59990.0,BMW,5-Series,2021,27358.78,Petrol Plug-in Hybrid,Saloon,2.0,
+158,13500.0,Ford,Transit Custom,2016,142000.0,Diesel,Van,2.2,
+159,32680.0,Fiat,Ducato,2022,0.0,Diesel,Van,2.2,
+161,12500.0,Opel,Vivaro,2016,,Diesel,Van,1.6,
+163,8950.0,BMW,1-Series,2013,130000.0,Diesel,Hatchback,2.0,116.0
+164,1.0,Volkswagen,Tiguan,2019,64465.0,Diesel,MPV,2.0,150.0
+165,11000.0,Volkswagen,Polo,2017,79000.0,Petrol,Hatchback,1.0,60.0
+166,15500.0,Nissan,NV300,2018,160000.0,Diesel,Van,1.6,
+167,16400.0,Mini,Cooper,2017,135790.0,Diesel,Hatchback,1.5,
+168,21800.0,Volkswagen,Passat,2018,178442.0,Diesel,Saloon,2.0,
+169,15600.0,Toyota,Avensis,2017,183722.0,Diesel,Saloon,1.6,
+170,15850.0,Mazda,6,2017,166864.0,Diesel,Saloon,2.2,
+171,20950.0,Volkswagen,Passat,2018,190724.0,Diesel,Estate,1.6,
+172,19900.0,Ford,Mondeo,2018,184730.0,Diesel,Hatchback,2.0,
+173,18400.0,Jaguar,XE,2016,204209.0,Diesel,Saloon,2.0,
+174,18950.0,Volkswagen,Golf,2017,181952.0,Diesel,Hatchback,1.6,
+175,32800.0,BMW,5-Series,2018,169734.0,Hybrid,Saloon,2.0,
+176,16600.0,KIA,Ceed,2018,90281.0,Diesel,Hatchback,1.6,
+177,17950.0,Skoda,Yeti,2017,174996.0,Diesel,Hatchback,2.0,
+178,8600.0,KIA,RIO,2014,102997.76,Petrol,Hatchback,1.2,84.0
+179,16950.0,Volvo,S60,2017,165707.0,Diesel,Saloon,2.0,
+180,26900.0,KIA,Sportage,2018,59213.0,Diesel,SUV,1.7,141.0
+181,18495.0,Volkswagen,Polo,2020,27670.0,Petrol,Hatchback,1.0,80.0
+182,18700.0,SEAT,Leon,2018,143783.0,Diesel,Hatchback,1.6,
+183,18950.0,Volkswagen,Golf,2018,169155.0,Diesel,Hatchback,2.0,
+184,17600.0,BMW,2-Series,2017,147364.0,Diesel,MPV,1.5,
+185,15850.0,Mini,Cooper,2017,142892.0,Diesel,Hatchback,1.5,
+186,15950.0,Volvo,V40,2017,176765.0,Diesel,Hatchback,2.0,
+187,27600.0,Peugeot,3008,2019,112457.0,Diesel,MPV,1.5,
+188,20995.0,Suzuki,Vitara,2021,29500.0,Petrol,SUV,1.4,129.0
+189,2000.0,Skoda,Octavia,2009,300000.0,Petrol,Hatchback,1.4,
+190,11950.0,Nissan,Qashqai,2015,108000.0,Diesel,Hatchback,1.5,110.0
+191,25950.0,Peugeot,3008,2017,72143.0,Diesel,Hatchback,1.6,
+192,7400.0,Opel,Insignia,2014,222050.0,Diesel,Hatchback,2.0,
+193,15600.0,Ford,Focus,2017,169383.0,Diesel,Hatchback,1.5,
+194,17900.0,Renault,Kadjar,2017,171955.0,Diesel,Hatchback,1.5,
+195,15750.0,Volvo,V60,2017,178257.0,Diesel,Estate,2.0,
+196,15000.0,BMW,5-Series,2013,210000.0,Diesel,Estate,2.0,177.0
+197,19950.0,Volvo,V60,2018,187103.0,Diesel,Estate,2.0,
+198,25995.0,Nissan,Qashqai,2019,90578.0,Diesel,MPV,1.5,110.0
+199,17700.0,Audi,A3,2017,184776.0,Diesel,Hatchback,1.6,
+200,14850.0,Ford,Fiesta,2018,171618.0,Diesel,Hatchback,1.5,
+201,29600.0,Land Rover,Range Rover Evoque,2017,165928.0,Diesel,Estate,2.0,
+202,24600.0,Peugeot,3008,2018,156030.0,Diesel,Hatchback,1.6,
+203,15950.0,Audi,A3,2016,176714.0,Diesel,Hatchback,1.6,
+204,22800.0,Honda,CR-V,2018,130765.0,Diesel,Estate,1.6,
+205,17950.0,Hyundai,Tucson,2016,171947.0,Diesel,Estate,1.7,
+206,14600.0,Ford,Focus,2016,188505.0,Diesel,Hatchback,1.5,
+207,16600.0,Volkswagen,Passat,2017,188885.0,Diesel,Saloon,1.6,
+208,33600.0,Audi,A5,2018,171784.0,Diesel,Hatchback,2.0,
+209,22600.0,Nissan,Qashqai,2019,151722.0,Diesel,Hatchback,1.5,
+210,8555.0,Audi,A4,2011,281681.0,Diesel,Saloon,2.0,136.0
+211,19800.0,Skoda,Superb,2018,178027.0,Diesel,Estate,2.0,
+212,39950.0,BMW,5-Series,2019,164798.0,Diesel,Estate,2.0,
+213,18700.0,Ford,Focus,2019,111838.0,Petrol,Hatchback,1.0,
+214,17700.0,SEAT,Leon,2018,159510.0,Diesel,Hatchback,1.6,
+215,19000.0,Lincoln,Continental,1965,2000.0,Petrol,Saloon,7.0,
+217,15995.0,Volkswagen,Polo,2018,47703.0,Petrol,Hatchback,1.0,65.0
+218,13800.0,Hyundai,i30,2018,199170.0,Diesel,Hatchback,1.6,110.0
+219,8600.0,Audi,A4,2011,229759.0,Diesel,Saloon,2.0,143.0
+220,5950.0,BMW,3-Series,2004,144840.6,Petrol,Coupe,2.5,
+221,17800.0,Peugeot,508,2018,140045.0,Diesel,Saloon,1.6,
+223,44995.0,BMW,X3,2018,59955.0,Diesel,SUV,2.0,190.0
+224,3250.0,Nissan,Qashqai,2009,20000.0,Diesel,Hatchback,1.5,
+225,28750.0,Audi,A6,2016,93341.72,Diesel,Saloon,2.0,190.0
+226,46950.0,Volkswagen,Tiguan Allspace,2021,45061.52,Diesel,SUV,2.0,150.0
+227,14950.0,Mini,Cooper,2014,115940.0,Petrol,Hatchback,2.0,
+229,6500.0,Volkswagen,Golf,2011,298000.0,Diesel,Hatchback,1.6,105.0
+230,,Opel,Grandland X,2021,54961.0,Diesel,MPV,1.5,130.0
+231,23950.0,Volkswagen,T-Roc,2018,76500.0,Diesel,SUV,1.6,115.0
+234,22495.0,Dacia,Duster,2020,12079.0,Petrol,SUV,1.0,100.0
+235,15151.5,Toyota,Hilux,2014,154496.64,Diesel,Pick Up,2.5,
+237,2600.0,Renault,Fluence,2011,270000.0,Diesel,Saloon,1.5,110.0
+238,22800.0,BMW,4-Series,2017,149668.62,Diesel,Coupe,2.0,190.0
+239,23495.0,Nissan,Qashqai,2018,36624.0,Petrol,Crossover,1.2,115.0
+240,3550.0,BMW,5-Series,2007,2704590.0,Diesel,Saloon,2.0,
+241,17500.0,Ford,Ranger,2014,124401.982,Diesel,Crew Cab,2.2,
+242,3700.0,Toyota,Yaris,2008,,Petrol,Hatchback,1.0,
+243,2106.0,Toyota,Celica,2005,125000.0,Petrol,Coupe,1.8,
+244,1850.0,Ford,Focus,2008,318250.2037,Diesel,Hatchback,1.6,
+245,65950.0,Mercedes,E-Class,2021,29825.89822,Diesel Hybrid,Saloon,2.0,
+246,4500.0,Nissan,Qashqai,2010,29906179.0,Diesel,Hatchback,1.5,
+248,36950.0,Mercedes,GLC-Class,2017,46901.0,Diesel,SUV,2.1,170.0
+249,21950.0,Renault,Kadjar,2018,81093.0,Diesel,SUV,1.5,110.0
+250,21500.0,SEAT,Leon,2017,122000.0,Diesel,Estate,2.0,150.0
+251,14950.0,Volkswagen,Golf,2015,216256.0,Diesel,Hatchback,1.6,110.0
+252,6450.0,Volkswagen,Passat,2011,252666.38,Diesel,Saloon,2.0,140.0
+253,10950.0,Volkswagen,Golf,2013,195225.8167,Diesel,Hatchback,1.6,105.0
+254,6000.0,Volkswagen,Golf,2010,275000.0,Diesel,Hatchback,1.6,
+255,4250.0,Vauxhall,Insignia,2012,244629.336,Diesel,Saloon,2.0,
+256,9990.0,Opel,Astra,2016,167585.0,Diesel,Hatchback,1.6,110.0
+257,6490.0,Nissan,Qashqai,2012,197580.0,Diesel,Hatchback,1.5,106.0
+258,10990.0,Renault,Megane,2016,77095.0,Diesel,Hatchback,1.5,95.0
+259,4990.0,Ford,Focus,2011,212059.5131,Diesel,Hatchback,1.6,109.0
+260,27950.0,Land Rover,Discovery,2015,173105.0,Diesel,SUV,3.0,211.0
+261,16995.0,Renault,Clio,2019,38000.0,Petrol,Hatchback,0.9,90.0
+262,10300.0,Opel,Astra,2015,176705.532,Petrol,Hatchback,1.4,
+263,21700.0,Audi,A4,2018,198431.622,Diesel,Saloon,2.0,
+264,12800.0,SEAT,Ibiza,2017,158359.056,Diesel,Hatchback,1.4,
+265,35168.0,Renault,Captur,2022,0.0,Petrol,Crossover,1.0,90.0
+266,100000.0,Tesla,MODEL X,2019,41660.0,Electric,Hatchback,,443.0
+267,,Nissan,NV200,2017,190000.0,Diesel,Van,1.5,
+268,6000.0,Volkswagen,Jetta,2011,239000.0,Diesel,Saloon,1.6,105.0
+269,32500.0,Mercedes,CL-Class,2011,128000.0,Petrol,Coupe,4.7,435.0
+270,6429.15,BMW,X1,2011,289681.2,Diesel,Hatchback,2.0,
+271,23950.0,Skoda,Octavia,2019,58000.0,Diesel,Saloon,1.6,115.0
+272,27950.0,SEAT,Arona,2021,9644.0,Petrol,SUV,1.0,110.0
+273,25450.0,Volkswagen,Polo,2022,100.0,Petrol,Hatchback,1.0,95.0
+275,3000.0,Volkswagen,Golf,2008,267000.0,Diesel,Hatchback,1.9,
+276,56990.0,BMW,X3,2019,33000.0,Diesel,SUV,2.0,190.0
+277,25950.0,Volkswagen,Touareg,2013,179000.0,Diesel,SUV,3.0,204.0
+278,25945.0,Nissan,Qashqai,2019,72436.0,Petrol,MPV,1.3,160.0
+279,7750.0,BMW,1-Series,2012,257494.4,Diesel,Hatchback,2.0,184.0
+280,4500.0,Nissan,Micra,2008,95252.0,Petrol,Hatchback,1.2,
+281,12950.0,Honda,Fit,2016,83260.0,Hybrid,Hatchback,1.5,
+282,12450.0,Ford,Focus,2014,169920.0,Diesel,Hatchback,1.6,95.0
+283,29500.0,Mercedes,GLA-Class,2018,48243.0,Diesel,SUV,1.5,109.0
+284,46500.0,BMW,5-Series,2020,30000.0,Diesel,Saloon,2.0,184.0
+285,3000.0,Renault,Grand Modus,2010,218287.6589,Petrol,MPV,1.1,
+286,3450.0,Toyota,Yaris,2008,125528.52,Petrol,Hatchback,1.0,
+287,1234.0,Skoda,Octavia,2015,241401.0,Diesel,Hatchback,1.6,105.0
+288,34995.0,Volkswagen,Tiguan,2019,46591.0,Diesel,SUV,2.0,150.0
+289,1500.0,Skoda,Octavia,2007,,Petrol,Hatchback,1.4,
+290,4450.0,Opel,Astra,2012,169430.0,Diesel,MPV,1.2,95.0
+292,27495.0,Nissan,Qashqai,2019,51210.0,Diesel,Crossover,1.5,110.0
+293,35945.0,Volkswagen,Golf,2018,91402.0,Petrol,Hatchback,2.0,245.0
+294,12995.0,Audi,A4,2014,165000.0,Diesel,Estate,2.0,150.0
+295,16350.0,Audi,A6,2012,202776.84,Diesel,Estate,3.0,204.0
+296,26950.0,Mercedes,B-Class,2018,64300.0,Diesel,MPV,1.5,90.0
+299,3850.0,Audi,A6,2008,273587.8,Diesel,Saloon,2.0,
+300,19750.0,Ford,Focus,2019,110642.125,Petrol,Hatchback,1.0,
+301,,Nissan,Micra,2022,,Petrol,Hatchback,1.0,
+303,64950.0,Land Rover,Range Rover,2016,59545.58,Diesel,SUV,3.0,
+304,1500.0,Ford,Transit,2008,245956.0,Diesel,Van,2.4,
+305,8950.0,Volkswagen,Touran,2013,209214.2,Diesel,MPV,1.6,105.0
+306,18900.0,BMW,5-Series,2014,162832.0,Diesel,Saloon,2.0,
+307,6000.0,Peugeot,Partner,2010,168497.898,Diesel,MPV,1.6,
+308,45900.0,Ford,Kuga,2022,5.0,Hybrid,Crossover,2.5,190.0
+309,1.0,Audi,e-tron,2022,,Electric,SUV,,
+310,36000.0,Audi,S3,2017,148369.8826,Petrol,Saloon,2.0,
+311,8950.0,Opel,Insignia,2016,152887.3,Diesel,Saloon,1.6,136.0
+312,600.0,Ford,Fiesta,2007,190000.0,Petrol,Hatchback,1.2,
+314,34995.0,Nissan,X-Trail,2019,72000.0,Diesel,SUV,1.6,130.0
+315,13995.0,Hyundai,i10,2021,41389.0,Petrol,Hatchback,1.0,67.0
+316,25950.0,Volkswagen,Touareg,2013,179000.0,Diesel,SUV,3.0,204.0
+317,16900.0,Ford,Fiesta,2018,31911.0,Petrol,Hatchback,1.1,
+318,9500.0,Citroen,Berlingo,2016,67125.0,Diesel,MPV,1.6,
+319,29950.0,Ford,Mondeo,2018,47884.0,Diesel,Hatchback,2.0,150.0
+322,19831.5,Mercedes,E-Class,2016,151277.96,Diesel,Saloon,2.0,
+323,14750.0,Volkswagen,Golf,2016,222088.92,Diesel,Hatchback,1.6,110.0
+324,63900.0,Mercedes,E-Class,2021,22846.0,Hybrid,Saloon,2.0,306.0
+325,45400.0,Audi,A6,2020,46671.0,Diesel,Saloon,2.0,
+326,29800.0,Volkswagen,Golf,2018,79854.0,Diesel,Hatchback,2.0,184.0
+327,74900.0,Volvo,XC90,2020,33460.0,Diesel,MPV,2.0,235.0
+328,58900.0,BMW,5-Series,2021,7987.0,Hybrid,Saloon,2.0,
+329,23495.0,Opel,Grandland X,2018,71797.0,Petrol,MPV,1.2,130.0
+330,16950.0,Toyota,Yaris,2016,96419.0,Hybrid,Hatchback,1.5,100.0
+332,9950.0,Toyota,Aqua,2016,115872.48,Petrol Hybrid,Hatchback,1.5,112.0
+333,9301.5,Mercedes,E-Class,2012,140633.7852,Diesel,Saloon,2.1,136.0
+334,7250.0,Hyundai,Veloster,2012,116000.0,Petrol,Hatchback,1.6,140.0
+336,47225.0,MG,HS PHEV,2022,0.0,Hybrid,SUV,1.5,
+338,3700.0,Hyundai,i10,2010,135.0,Petrol,Hatchback,1.2,
+339,11950.0,Mercedes,Other,2017,265541.1,Diesel,Van,1.6,
+340,26100.0,Mitsubishi,L200,2019,111044.46,Diesel,Pick Up,2.4,
+341,34950.0,Volkswagen,Arteon,2019,82500.0,Diesel,Hatchback,2.0,150.0
+342,2750.0,Ford,Focus,2009,250000.0,Diesel,Hatchback,1.6,
+343,8500.0,Ford,Focus,2013,106.0,Petrol,Hatchback,1.0,100.0
+344,1.0,Audi,Q5,2022,,Diesel,SUV,2.0,
+346,12500.0,BMW,1-Series,2015,241401.0,Diesel,Hatchback,1.5,116.0
+347,26960.0,Skoda,KAMIQ,2021,20.0,Petrol,SUV,1.0,
+348,9995.0,Citroen,Dispatch,2016,168000.0,Diesel,Van,1.6,
+349,11499.0,Volkswagen,Polo,2015,149668.62,Petrol,Hatchback,1.2,90.0
+350,34950.0,BMW,5-Series,2018,104607.1,Diesel,Saloon,2.0,190.0
+351,8750.0,Mercedes,E-Class,2010,261000.0,Diesel,Saloon,2.1,
+352,150.0,Mercedes,200,1990,123568.0,Petrol,Estate,2.0,
+353,17900.0,Ford,Fiesta,2019,55919.0,Petrol,Hatchback,1.1,85.0
+354,10000.0,Vauxhall,Astra,2016,160934.0,Diesel,Hatchback,1.6,
+355,9750.0,Volkswagen,Polo,2015,209214.2,Diesel,Hatchback,1.4,75.0
+356,6750.0,Ford,Transit,2014,380.0,Diesel,Van,2.2,
+357,12995.0,Hyundai,i20,2017,160766.6286,Diesel,Hatchback,1.4,
+358,21995.0,Renault,Kadjar,2018,88465.0,Diesel,SUV,1.5,110.0
+359,8000.0,Nissan,Other,1991,95000.0,Petrol,Coupe,1.0,
+360,8000.0,BMW,5-Series,2011,227552.0,Diesel,Saloon,2.0,184.0
+361,29950.0,BMW,5-Series,2016,104607.1,Diesel,Saloon,2.0,190.0
+362,5000.0,Volkswagen,Caddy,2012,204000.0,Diesel,MPV,1.6,
+363,6950.0,Mini,Cooper,2010,96000.0,Diesel,Hatchback,1.6,
+364,17100.0,Nissan,NV300,2017,97505.0,Diesel,Van,1.6,
+365,1000.0,Volkswagen,Golf,1996,,Petrol,Hatchback,1.6,
+366,7500.0,Volkswagen,Golf,2011,312750.0,Diesel,Hatchback,2.0,140.0
+367,10500.75,Toyota,Aygo X,2018,21943.3509,Petrol,Hatchback,1.0,
+368,10400.0,Volkswagen,Golf,2014,159324.66,Diesel,Hatchback,1.6,105.0
+369,22000.0,Volkswagen,Passat,2017,207000.0,Diesel,Saloon,2.0,150.0
+370,82950.0,Mercedes,GLE-Class,2019,90611.0,Diesel,SUV,2.0,245.0
+371,19995.0,Nissan,X-Trail,2017,185000.0,Diesel,SUV,1.6,130.0
+372,66890.0,Volkswagen,ID.4,2022,1.0,Electric,SUV,,
+373,9999.0,Volkswagen,Jetta,2014,163000.0,Diesel,Saloon,1.6,105.0
+374,12999.0,Mitsubishi,Outlander,2014,252000.0,Petrol Plug-in Hybrid,SUV,2.0,203.0
+375,44900.0,Mercedes,E-Class,2019,70160.0,Diesel,Estate,2.0,194.0
+376,1900.0,Toyota,Avensis,2008,330000.0,Petrol,Saloon,1.6,
+377,21950.0,Mercedes,C-Class,2016,91165.0,Diesel,Saloon,1.6,116.0
+379,5800.0,Hyundai,i40,2011,204386.18,Diesel,Estate,1.7,136.0
+380,3750.0,Ford,Transit,2009,121000.0,Diesel,Van,2.2,
+381,89950.0,BMW,X5,2019,56000.0,Diesel,SUV,3.0,265.0
+382,29000.0,Renault,Captur,2022,,Petrol,Hatchback,1.0,90.0
+383,,Renault,Master,2014,,Diesel,Van,2.3,
+384,24900.0,Land Rover,Range Rover Evoque,2014,94357.0,Diesel,Estate,2.2,150.0
+385,64900.0,Mercedes,E-Class,2022,3899.0,Diesel,Saloon,2.0,194.0
+386,15200.0,Ford,Fiesta,2018,65211.0,Petrol,Hatchback,1.1,70.0
+387,3000.0,Citroen,C4,2009,235429.0,Diesel,Hatchback,1.6,
+389,18000.0,Mitsubishi,L200,2016,160934.0,Diesel,Pick Up,2.4,
+390,18000.0,Mitsubishi,L200,2016,160934.0,Diesel,Pick Up,2.4,
+391,11500.0,Volkswagen,Polo,2013,144840.6,Petrol,Hatchback,1.2,60.0
+392,12950.0,Volkswagen,Golf,2013,114263.14,Petrol,Hatchback,1.2,85.0
+393,11750.0,Volkswagen,Touran,2012,160934.0,Petrol,MPV,1.4,90.0
+394,13750.0,Volvo,V40,2013,125528.52,Petrol,Hatchback,1.6,150.0
+395,9950.0,Volkswagen,Golf,2011,160934.0,Petrol,Hatchback,1.4,122.0
+396,11250.0,Volkswagen,Touran,2011,128747.2,Petrol,MPV,1.4,90.0
+397,,Opel,Vivaro,2015,,Diesel,Van,1.6,
+398,13950.0,Volkswagen,Golf,2013,75638.98,Petrol,Hatchback,1.4,122.0
+399,5950.0,Audi,A3,2010,225307.6,Diesel,Hatchback,1.6,
+400,17950.0,Ford,Focus,2019,130356.54,Diesel,Estate,1.5,120.0
+401,6900.0,Citroen,Grand C4 Picasso,2011,139002.0,Diesel,MPV,1.6,
+402,10950.0,Volkswagen,Golf,2012,80467.0,Petrol,Hatchback,1.2,85.0
+403,11250.0,Volkswagen,Polo,2014,96560.4,Petrol,Hatchback,1.2,60.0
+404,10500.0,Skoda,Octavia,2014,225307.6,Diesel,Saloon,1.6,105.0
+405,13750.0,Volvo,V40,2013,112653.8,Petrol,Hatchback,1.6,150.0
+407,5000.0,Citroen,C4,2011,,Diesel,Hatchback,1.6,92.0
+408,29950.0,Volkswagen,T-Roc,2020,119551.0,Diesel,SUV,2.0,150.0
+409,11500.0,Volkswagen,Golf,2013,80467.0,Petrol,Estate,1.2,85.0
+410,35500.0,Ford,Kuga,2021,33796.14,Diesel,SUV,1.5,120.0
+411,,Ford,Transit Custom,2017,167000.0,Diesel,Van,2.0,
+412,9995.0,Peugeot,208,2015,64000.0,Petrol,Hatchback,1.0,68.0
+413,14995.0,Renault,Trafic,2016,90000.0,Diesel,Van,1.6,
+414,17495.0,Ford,Transit Custom,2018,177027.4,Diesel,Van,2.0,
+415,39995.0,Opel,Grandland X,2019,44047.0,Petrol,MPV,1.2,
+416,2995.0,Nissan,Bluebird,1986,157715.32,Petrol,Saloon,1.6,
+417,1234.0,Renault,Master,2017,244500.0,Diesel,Crew Cab,2.3,
+418,800.0,Ford,Focus,2006,260000.0,Petrol,Hatchback,1.4,
+419,4950.0,SEAT,Leon,2011,210823.54,Diesel,Hatchback,1.6,105.0
+420,5995.0,Honda,CR-V,2012,271.97846,Diesel,SUV,2.2,150.0
+421,52990.0,Audi,A4,2022,15.0,Diesel,Saloon,2.0,
+422,28995.0,Land Rover,Range Rover Evoque,2015,95207.0,Diesel,Estate,2.2,150.0
+423,21495.0,Opel,Grandland X,2018,52489.0,Petrol,MPV,1.2,130.0
+424,2999.0,Ford,Fiesta,2007,36679.0,Petrol,Hatchback,1.2,
+425,1250.0,Vauxhall,Astra,2008,,Diesel,Hatchback,1.2,
+426,8500.0,Volvo,V40,2013,192000.0,Diesel,Hatchback,1.6,115.0
+427,26900.0,Ford,Kuga,2019,41000.0,Diesel,SUV,1.5,120.0
+428,7750.0,BMW,5-Series,2011,354054.8,Diesel,Saloon,2.0,184.0
+430,19831.5,Mercedes,E-Class,2016,151277.96,Diesel,Saloon,2.0,
+431,1250.0,Nissan,Almera,2006,109858.0,Petrol,Saloon,1.5,
+432,17000.0,Ford,Fiesta,2020,96000.0,Petrol,Hatchback,1.0,95.0
+434,35895.0,Mercedes,GLA-Class,2018,39000.0,Diesel,SUV,2.1,
+435,43449.0,Toyota,Camry,2021,22950.0,Hybrid,Saloon,2.5,218.0
+436,78450.0,Toyota,Landcruiser,2022,10.0,Diesel,SUV,2.8,177.0
+437,60949.0,Toyota,Landcruiser,2020,66950.0,Diesel,SUV,2.8,
+439,10950.0,Mercedes,E-Class,2011,145003.0,Diesel,Saloon,2.1,136.0
+441,48849.0,BMW,3-Series,2021,29950.0,Hybrid,Saloon,2.0,
+442,22949.0,Toyota,Prius,2016,44950.0,Hybrid,Saloon,1.8,136.0
+443,42949.0,Lexus,NX,2019,109850.0,Hybrid,Estate,2.5,197.0
+444,20949.0,Ford,Fiesta,2019,9950.0,Petrol,Hatchback,1.0,100.0
+445,19449.0,SEAT,Ibiza,2019,36950.0,Petrol,Hatchback,1.0,95.0
+446,53949.0,Lexus,RX,2017,59950.0,Hybrid,SUV,3.5,313.0
+447,50115.0,Toyota,Camry,2022,2.0,Hybrid,Saloon,2.5,218.0
+448,44637.0,Toyota,Landcruiser,2022,3.0,Diesel,SUV,2.8,177.0
+449,44650.0,Toyota,Landcruiser,2022,10.0,Diesel,SUV,2.8,
+450,46045.0,Toyota,Landcruiser,2022,0.0,Diesel,SUV,2.8,177.0
+451,19949.0,Toyota,Proace,2021,19950.0,Diesel,Van,1.5,
+452,23449.0,Toyota,Yaris,2022,6.0,Petrol,Hatchback,1.0,72.0
+453,51795.0,BMW,7-Series,2018,48950.0,Hybrid,Saloon,2.0,
+454,21949.0,Toyota,Corolla,2019,39950.0,Petrol,Saloon,1.6,132.0
+455,18449.0,Toyota,Auris,2017,43950.0,Petrol,Hatchback,1.2,116.0
+456,51949.0,Toyota,Landcruiser,2018,108950.0,Diesel,SUV,2.8,177.0
+457,68449.0,Toyota,Highlander,2021,29950.0,Hybrid,MPV,2.5,246.0
+458,19949.0,Toyota,Avensis,2016,64950.0,Petrol,Saloon,1.8,147.0
+459,22449.0,Mitsubishi,Eclipse Cross,2019,51950.0,Petrol,Estate,1.5,163.0
+460,27449.0,Nissan,Qashqai,2020,49950.0,Petrol,MPV,1.3,160.0
+461,16249.0,Hyundai,i10,2021,7950.0,Petrol,Hatchback,1.0,67.0
+462,48849.0,BMW,3-Series,2021,29950.0,Hybrid,Saloon,2.0,
+463,29950.0,Land Rover,Range Rover,2011,186683.44,Diesel,SUV,4.4,
+464,22949.0,Toyota,C-HR,2017,44950.0,Petrol,SUV,1.2,116.0
+465,40949.0,Lexus,NX,2018,109950.0,Hybrid,SUV,2.5,197.0
+466,115949.0,Lexus,LC,2021,14950.0,Hybrid,Coupe,3.5,359.0
+467,16949.0,Toyota,Corolla,2016,74950.0,Diesel,Saloon,1.4,90.0
+468,28749.0,Toyota,RAV4,2018,89950.0,Hybrid,SUV,2.5,197.0
+469,16949.0,Peugeot,2008,2018,56950.0,Petrol,SUV,1.2,82.0
+470,25449.0,SEAT,Arona,2020,21950.0,Petrol,SUV,1.0,115.0
+471,13981.5,Audi,Q5,2013,170013.8963,Diesel,Estate,2.0,
+472,19850.0,Dacia,Sandero,2022,50.0,Dual Fuel,Hatchback,1.0,100.0
+473,18949.0,Toyota,Auris,2017,19950.0,Petrol,Hatchback,1.2,116.0
+474,33749.0,Toyota,Landcruiser,2019,99000.0,Diesel,SUV,2.8,
+476,13949.0,Toyota,Aygo,2019,27000.0,Petrol,Hatchback,1.0,72.0
+477,51795.0,BMW,7-Series,2018,48950.0,Petrol,Saloon,2.0,326.0
+478,18949.0,Toyota,Yaris,2020,5950.0,Petrol,Hatchback,1.0,72.0
+479,33749.0,Toyota,Landcruiser,2019,58950.0,Diesel,SUV,2.8,
+480,,Volvo,XC40,2018,67576.0,Petrol,SUV,1.5,156.0
+481,44019.0,Audi,A3,2022,15.0,Diesel,Hatchback,2.0,
+482,32500.0,Volkswagen,T-Roc,2021,37290.0,Petrol,SUV,1.5,150.0
+483,,Renault,Megane,2016,112522.0,Diesel,Hatchback,1.5,110.0
+484,13500.0,Mini,ONE,2014,111044.46,Diesel,Hatchback,1.5,
+485,33450.0,BMW,5-Series,2017,157000.0,Diesel,Saloon,2.0,190.0
+486,7990.0,Nissan,Micra,2016,82152.0,Petrol,Hatchback,1.2,80.0
+487,25995.0,Volkswagen,Passat,2018,49450.0,Petrol,Saloon,1.4,125.0
+488,27950.0,Ford,Ranger,2017,81000.0,Diesel,Pick Up,3.2,
+489,,Ford,Transit,2021,53000.0,Diesel,Van,1.5,
+490,13250.0,Renault,Captur,2016,72618.24882,Petrol,SUV,0.9,
+491,29500.0,Lexus,NX,2016,70000.0,Petrol Hybrid,SUV,2.5,197.0
+492,14500.0,Volkswagen,Caddy,2019,75000.0,Diesel,MPV,2.0,
+493,2995.0,Ford,Focus,2009,281750.0,Diesel,Hatchback,1.8,
+494,36000.0,Toyota,Hilux,2018,77000.0,Diesel,Pick Up,2.4,
+495,32000.0,Ford,Transit Custom,2022,100.0,Diesel,Van,2.0,
+496,3550.0,Peugeot,308,2010,164152.68,Diesel,Hatchback,1.6,
+497,24000.0,Hyundai,Tucson,2018,79581.863,Diesel,SUV,1.7,115.0
+498,11500.0,Hyundai,i10,2019,59240.0,Petrol,Hatchback,1.0,66.0
+499,5300.0,Opel,Astra,2011,291000.0,Diesel,Hatchback,1.2,95.0
+500,5700.0,Peugeot,308,2011,201111.0,Diesel,Hatchback,1.6,92.0
+501,35000.0,Volkswagen,Arteon,2019,74000.0,Diesel,Hatchback,2.0,190.0
+502,58000.0,BMW,E30 M3,1986,222000.0,Petrol,Coupe,2.3,
+503,3950.0,Opel,Corsa,2010,104000.0,Petrol,Hatchback,1.2,
+504,,Citroen,Berlingo,2022,35.0,Diesel,Van,1.5,
+505,32950.0,Hyundai,Tucson,2019,68000.0,Diesel,SUV,1.6,115.0
+506,25950.0,Toyota,Corolla,2020,42799.0,Hybrid,Saloon,1.8,122.0
+507,9250.0,Opel,Astra,2014,78600.0,Diesel,Hatchback,1.2,95.0
+508,8900.0,Dacia,Sandero,2015,91000.0,Petrol,Hatchback,1.1,75.0
+509,4900.0,Peugeot,207,2010,277400.0,Diesel,Hatchback,1.4,
+510,7900.0,Renault,Fluence,2012,192413.0,Diesel,Saloon,1.5,90.0
+511,5995.0,BMW,3-Series,2010,255000.0,Petrol,Saloon,2.0,
+512,4600.0,Mini,Cooper,2008,204000.0,Petrol,Hatchback,1.6,
+514,29995.0,Mazda,CX-5,2019,43000.0,Diesel,SUV,2.2,150.0
+515,10900.0,Opel,Adam,2015,112000.0,Petrol,Hatchback,1.4,100.0
+516,21995.0,Audi,A4,2017,136793.9,Diesel,Saloon,2.0,150.0
+517,11450.0,Volkswagen,Polo,2014,74000.0,Petrol,Hatchback,1.2,
+518,25250.0,Volkswagen,Golf,2016,63000.0,Petrol,Hatchback,2.0,300.0
+519,14950.0,Toyota,Aqua,2019,86000.0,Petrol Hybrid,Hatchback,1.5,
+520,13750.0,Nissan,Note,2017,100000.0,Petrol Hybrid,Hatchback,1.2,
+521,12250.0,Honda,Fit,2015,60000.0,Petrol Hybrid,Hatchback,1.5,
+522,8750.0,Mazda,2,2014,105000.0,Petrol,Hatchback,1.3,63.0
+523,16995.0,Opel,Insignia,2017,115872.48,Diesel,Saloon,1.6,
+524,23495.0,BMW,4-Series,2016,165762.02,Diesel,Coupe,2.0,190.0
+525,11495.0,Toyota,Yaris,2017,92000.0,Petrol,Hatchback,1.0,68.0
+526,4500.0,Ford,Focus,2011,231744.96,Diesel,Hatchback,1.6,109.0
+527,18300.0,Opel,Vivaro,2019,49000.0,Diesel,Van,1.6,
+528,7995.0,Mazda,2,2013,36000.0,Petrol,Hatchback,1.3,
+529,28500.0,Lexus,NX,2015,74000.0,Petrol Hybrid,SUV,2.5,197.0
+530,14495.0,Honda,Fit,2017,76000.0,Petrol Hybrid,Hatchback,1.5,
+533,38000.0,Volkswagen,Caddy,2022,,Diesel,MPV,2.0,
+534,23500.0,BMW,4-Series,2016,149669.0,Diesel,Saloon,2.0,190.0
+535,12950.0,Nissan,Micra,2019,29000.0,Petrol,Hatchback,1.2,80.0
+536,899.0,Citroen,Xsara,2005,298127.0,Petrol,MPV,1.6,
+537,6700.0,Volkswagen,Golf,2011,241401.0,Diesel,Hatchback,1.6,105.0
+538,35500.0,BMW,5-Series,2018,93536.45014,Diesel,Saloon,2.0,190.0
+539,25500.0,Ford,Kuga,2018,73521.0,Diesel,SUV,1.5,120.0
+540,28942.0,Volkswagen,Polo,2023,,Petrol,Hatchback,1.0,
+541,4200.0,Opel,Combo,2014,202776.84,Diesel,Van,1.2,
+542,2800.0,Audi,A4,2008,340000.0,Diesel,Saloon,2.0,
+543,13995.0,Volkswagen,Polo,2015,119000.0,Petrol,Hatchback,1.2,90.0
+544,23450.0,Nissan,Qashqai,2019,46085.0,Petrol,SUV,1.3,160.0
+545,8750.0,Ford,C-MAX,2014,157715.32,Diesel,MPV,1.6,95.0
+546,29950.0,Land Rover,Range Rover,2011,186683.44,Diesel,SUV,4.4,
+547,19950.0,Toyota,Proace,2019,69000.0,Diesel,MPV,2.0,
+548,14500.0,BMW,1-Series,2013,137000.0,Petrol,Hatchback,1.6,136.0
+549,42950.0,BMW,5-Series,2019,110239.79,Diesel,Saloon,2.0,190.0
+550,39946.0,Mercedes,E-Class,2017,57400.0,Diesel,Coupe,2.0,194.0
+551,,Nissan,NV300,2019,57161.0,Diesel,Van,1.6,
+552,22750.0,KIA,Optima,2019,112353.0,Diesel,Saloon,1.6,136.0
+553,16990.0,Toyota,Vitz,2019,69700.5154,Petrol,Hatchback,1.0,68.0
+554,16499.0,Fiat,500,2019,24944.77,Petrol,Hatchback,1.2,
+555,18500.0,Nissan,Qashqai,2016,73000.0,Diesel,Hatchback,1.5,110.0
+556,38950.0,Volkswagen,Tiguan,2021,19500.0,Diesel,SUV,2.0,150.0
+557,18950.0,Mazda,6,2018,142320.3736,Diesel,Saloon,2.2,150.0
+559,28900.0,Ford,Galaxy,2017,112000.0,Diesel,MPV,2.0,180.0
+560,31000.0,Ford,Focus,2022,100.0,Petrol,Estate,1.0,125.0
+562,45950.0,Land Rover,Discovery,2019,73249.0,Diesel,SUV,3.0,
+563,28950.0,BMW,4-Series,2015,167371.36,Diesel,Coupe,3.0,313.0
+564,9600.0,Nissan,Note,2017,79201.0,Petrol,MPV,1.2,80.0
+565,1350.0,KIA,RIO,2006,310602.62,Diesel,Hatchback,1.5,
+566,,Suzuki,SX4 S-Cross,2022,,Hybrid,Crossover,1.4,
+567,25495.0,Nissan,Qashqai,2018,39500.0,Petrol,MPV,1.2,
+570,2150.0,Renault,Kangoo,2006,193000.0,Petrol,MPV,1.1,
+572,,BMW,2-Series,2022,,Petrol,Saloon,1.5,140.0
+573,16900.0,Ford,Kuga,2016,144800.0,Diesel,SUV,2.0,120.0
+574,24950.0,Land Rover,Defender,2008,144840.6,Diesel,SUV,2.4,
+575,2899.0,Citroen,Grand C4 Picasso,2007,193121.0,Diesel,MPV,1.6,
+576,12500.0,Toyota,Aqua,2016,95000.0,Petrol Hybrid,Hatchback,1.5,
+577,10950.0,KIA,ProCeed,2013,148059.28,Diesel,Hatchback,1.6,128.0
+578,27995.0,Audi,A5,2017,132000.0,Diesel,Coupe,2.0,190.0
+579,3700.0,Vauxhall,Corsa,2010,104832.0,Petrol,Hatchback,1.0,
+580,,Opel,Crossland X,2021,34720.0,Petrol,SUV,1.2,83.0
+582,13250.0,Scania,144 460,2003,100000.0,Diesel,Van,8.0,
+583,12945.0,Ford,Fiesta,2016,136237.0,Diesel,Hatchback,1.5,85.0
+584,20995.0,Renault,Master,2022,64000.0,Diesel,Van,2.3,
+585,35950.0,BMW,X5,2015,145000.0,Diesel,SUV,2.0,231.0
+586,35000.0,Ford,Focus,2003,138403.24,Petrol,Hatchback,2.0,
+587,60950.0,BMW,5-Series,2022,270.0,Diesel,Saloon,2.0,190.0
+588,2350.0,Opel,Astra,2008,202650.0,Petrol,Hatchback,1.4,
+589,43950.0,Land Rover,Discovery Sport,2018,72000.0,Diesel,SUV,2.0,150.0
+590,18750.0,Honda,Integra,2003,120000.0,Petrol,Coupe,2.0,
+591,7950.0,Nissan,Qashqai,2013,210269.927,Diesel,Hatchback,1.5,110.0
+592,98900.0,Jaguar,I-PACE,2022,1000.0,Electric,Estate,,
+593,18000.0,Ford,Fiesta,2019,22000.0,Petrol,Hatchback,1.1,85.0
+594,12495.0,Volkswagen,Passat,2014,90886.0,Diesel,Saloon,1.6,105.0
+595,11450.0,Ford,Focus,2015,212000.0,Diesel,Hatchback,1.6,95.0
+597,10950.0,Ford,Transit,2017,195455.0,Diesel,Van,1.5,
+598,,Volkswagen,Golf,2017,217000.0,Diesel,Van,1.6,
+599,5999.0,Suzuki,SX4,2010,160934.0,Diesel,SUV,1.6,
+601,29295.0,Hyundai,Kona,2022,0.0,Petrol,Crossover,1.0,
+602,15999.0,Skoda,Octavia,2017,150000.0,Diesel,Estate,1.6,115.0
+603,3295.0,Ford,Focus,2008,201000.0,Petrol,Hatchback,1.4,
+604,2995.0,Nissan,Note,2008,162000.0,Petrol,MPV,1.4,
+605,,Volkswagen,Golf,2017,217074.0,Diesel,Van,1.6,90.0
+606,14000.0,Ford,Fiesta,2017,55494.0,Petrol,Hatchback,1.2,60.0
+607,34900.0,KIA,Sportage,2022,12000.0,Diesel,SUV,1.6,115.0
+608,34950.0,Audi,A4,2019,38500.0,Diesel,Saloon,2.0,150.0
+609,1750.0,Toyota,Yaris,2006,207000.0,Petrol,Hatchback,1.0,
+611,11900.0,Ford,Mondeo,2015,178000.0,Diesel,Hatchback,1.6,115.0
+613,21950.0,Ford,Transit,2017,70810.96,Diesel,Van,2.0,
+614,16750.0,BMW,5-Series,2015,,Diesel,Saloon,2.0,190.0
+615,16000.0,Land Rover,Defender,2006,343024.0,Diesel,SUV,2.5,
+616,15500.0,Vauxhall,Mokka,2018,71000.0,Petrol,Hatchback,1.4,
+617,36950.0,Honda,CR-V,2019,71870.0,Hybrid,SUV,2.0,
+618,11995.0,Mini,First,2013,85787.0,Petrol,Hatchback,1.6,
+619,39995.0,Hyundai,Tucson,2022,,Diesel,SUV,1.6,115.0
+620,2450.0,Ford,Transit,2004,281352.8655,Diesel,Van,2.4,
+621,7450.0,Ford,Transit Custom,2013,210352.0,Diesel,Van,2.2,
+622,7750.0,Citroen,Berlingo,2015,166083.888,Diesel,Van,1.6,
+623,2450.0,Mercedes,E-Class,2007,236000.0,Petrol,Saloon,1.8,
+624,11950.0,Toyota,Hilux,2009,195680.0,Diesel,Crew Cab,3.0,
+625,2950.0,Lexus,IS,2009,351000.0,Diesel,Saloon,2.2,
+626,2950.0,Ford,Focus,2008,292899.88,Diesel,Hatchback,1.8,
+627,5950.0,Ford,Transit,2013,194718.0,Diesel,Van,2.2,
+628,7495.0,Volkswagen,Golf,2008,324000.0,Petrol,Hatchback,2.0,
+629,12950.0,BMW,7-Series,2011,256000.0,Diesel,Saloon,3.0,245.0
+630,,Ford,Transit,2009,0.0,Diesel,Van,2.2,
+632,2950.0,Nissan,Tiida,2010,185083.0,Diesel,Saloon,1.5,
+633,18000.0,Ford,Fiesta,2018,6000.0,Petrol,Hatchback,1.1,85.0
+634,16900.0,KIA,Ceed,2016,57000.0,Diesel,Hatchback,1.6,136.0
+635,19945.0,Ford,Focus,2019,53931.0,Petrol,Hatchback,1.0,
+636,19950.0,Hyundai,Tucson,2018,198000.0,Diesel,SUV,1.7,115.0
+637,1995.0,Citroen,C8,2006,240000.0,Diesel,MPV,2.0,
+639,5900.0,Nissan,Juke,2012,225307.6,Diesel,SUV,1.5,110.0
+640,1795.0,Ford,Focus,2005,229000.0,Petrol,Hatchback,1.4,
+641,14495.0,Dacia,Duster,2017,132000.0,Diesel,SUV,1.5,110.0
+642,9000.0,Mazda,3,2015,192712.0,Diesel,Saloon,2.2,150.0
+643,34950.0,Volkswagen,Tiguan,2019,72358.0,Diesel,SUV,2.0,115.0
+644,4999.0,Peugeot,Partner,2014,230135.62,Diesel,Van,1.6,
+645,25900.0,Volvo,XC60,2017,147622.0,Diesel,SUV,2.0,150.0
+646,29995.0,Mazda,CX-5,2018,80228.0,Diesel,SUV,2.2,150.0
+648,5950.0,Mercedes,Sprinter,2011,506942.1,Diesel,Van,2.1,
+650,48500.0,Ford,Mustang,2018,22283.0,Petrol,Coupe,2.3,317.0
+651,7500.0,Toyota,Prius,2011,,Petrol Hybrid,Hatchback,1.8,136.0
+652,9900.0,Audi,Q7,2008,223698.26,Diesel,SUV,3.0,
+653,23750.0,Audi,A5,2014,151277.96,Diesel,Hatchback,2.0,177.0
+654,10950.0,Hyundai,i30,2015,152533.2452,Diesel,Hatchback,1.6,110.0
+655,5250.0,Peugeot,Partner,2013,181356.5246,Diesel,MPV,1.6,
+656,9500.0,Peugeot,308,2017,174000.0,Diesel,Van,1.6,
+657,25000.0,BMW,5-Series,2016,80000.0,Diesel,Saloon,2.0,190.0
+658,5995.0,Hyundai,ix35,2010,288000.0,Diesel,SUV,2.0,
+659,16995.0,Audi,A3,2016,171000.0,Diesel,Saloon,1.6,110.0
+660,9995.0,Honda,Jazz,2014,61813.14006,Petrol,Hatchback,1.3,99.0
+661,4995.0,Opel,Meriva,2012,202000.0,Diesel,MPV,1.2,95.0
+662,6995.0,Hyundai,i30,2012,231744.96,Diesel,Hatchback,1.6,90.0
+663,12495.0,Audi,A4,2014,245000.0,Diesel,Saloon,2.0,120.0
+664,7995.0,Hyundai,ix35,2012,225000.0,Diesel,SUV,1.7,115.0
+665,12900.0,Toyota,Vitz,2017,119091.16,Petrol,Hatchback,1.5,111.0
+666,12900.0,Toyota,Vitz,2017,119091.16,Petrol,Hatchback,1.5,111.0
+667,6450.0,Mitsubishi,Lancer,2013,207604.86,Diesel,Saloon,1.8,150.0
+668,14500.0,BMW,3-Series,2015,153336.0,Diesel,Saloon,2.0,116.0
+669,8900.0,Honda,Jazz,2013,46670.86,Petrol,Hatchback,1.3,
+670,8900.0,Mazda,Demio,2014,77248.32,Petrol,Hatchback,1.3,63.0
+671,8900.0,Honda,Fit,2013,46670.86,Petrol,Hatchback,1.3,
+672,8900.0,Mazda,2,2014,77248.32,Petrol,Hatchback,1.3,63.0
+674,14500.0,Nissan,Note,2017,121001.0,Hybrid,Hatchback,1.2,
+675,17950.0,Mercedes,A-Class,2014,91732.38,Petrol,Hatchback,1.6,156.0
+676,15500.0,Ford,Fiesta,2017,62000.0,Petrol,Hatchback,1.1,85.0
+677,9400.0,Volkswagen,Polo,2013,64373.6,Petrol,Hatchback,1.2,60.0
+678,6900.0,Nissan,Micra,2013,94951.06,Petrol,Hatchback,1.2,80.0
+679,30750.0,Mitsubishi,L200,2018,120701.0,Diesel,Van,2.4,
+680,38540.0,Nissan,Leaf,2022,0.0,Electric,Hatchback,,
+681,4999.0,Peugeot,Partner,2014,230135.62,Diesel,Van,1.6,
+682,11950.0,Audi,A3,2012,159324.66,Diesel,Hatchback,2.0,170.0
+683,25558.0,Renault,Clio,2022,0.0,Petrol,Hatchback,1.0,72.0
+684,27900.0,KIA,Sportage,2021,32163.0,Hybrid,SUV,1.6,136.0
+685,23950.0,Renault,Captur,2020,18000.0,Petrol,Hatchback,1.0,100.0
+687,5500.0,Volkswagen,Passat,2012,313748.8797,Diesel,Saloon,1.6,105.0
+688,,BMW,5-Series,2022,12874.72,Hybrid,Saloon,2.0,
+689,13500.0,BMW,3-Series,2013,143657.7351,Diesel,Estate,2.0,116.0
+690,16900.0,Volkswagen,Touareg,2011,217349.4137,Diesel,SUV,3.0,204.0
+691,17500.0,KIA,Sportage,2017,222000.0,Diesel,SUV,1.7,115.0
+692,4250.0,BMW,X5,2005,362101.5,Diesel,SUV,3.0,
+693,10500.0,Volkswagen,Golf,2013,160111.6273,Diesel,Hatchback,1.6,90.0
+694,10500.0,Audi,A5,2011,207009.4042,Diesel,Hatchback,2.0,143.0
+695,9250.0,Opel,Astra,2014,80922.44322,Petrol,Hatchback,1.6,
+696,3200.0,Volkswagen,Golf,2008,,Diesel,Hatchback,1.9,
+697,19129.5,Mercedes,C-Class,2016,56326.9,Petrol,Saloon,2.0,
+698,18900.0,Nissan,Qashqai,2018,90000.0,Diesel,Hatchback,1.5,110.0
+699,26000.0,Ford,Kuga,2019,63000.0,Diesel,SUV,1.5,120.0
+700,12000.0,Jaguar,XF,2013,210823.54,Diesel,Saloon,2.2,
+701,,Volkswagen,Amarok,2020,64458.89502,Diesel,Pick Up,3.0,
+702,1850.0,Opel,Astra,2006,136249.0,Petrol,Hatchback,1.4,
+703,27000.0,Dacia,Jogger,2022,10.0,Petrol,MPV,1.0,110.0
+704,24950.0,SEAT,Leon,2016,148059.28,Petrol,Hatchback,2.0,280.0
+705,12995.0,Audi,A1,2013,72420.3,Petrol,Hatchback,1.4,122.0
+706,18975.0,Ford,Fiesta,2020,44725.0,Petrol,Hatchback,1.0,100.0
+707,17495.0,Volkswagen,Polo,2019,35085.0,Petrol,Hatchback,1.0,65.0
+710,4950.0,Volkswagen,Caddy,2012,136793.9,Diesel,Van,1.6,
+711,7495.0,Mazda,MX-5,2007,134000.0,Petrol,Cabriolet,1.8,
+712,9950.0,Renault,Megane,2016,75000.0,Diesel,Hatchback,1.5,95.0
+713,5750.0,Mercedes,C-Class,2010,354054.8,Diesel,Saloon,2.1,
+714,8950.0,Renault,Master,2014,297727.9,Diesel,Van,2.3,
+715,27950.0,Mercedes,Sprinter,2020,96560.4,Diesel,Van,2.1,
+716,8950.0,Ford,Transit,2014,321868.0,Diesel,Van,2.2,
+717,19950.0,Volkswagen,Golf,2015,160934.0,Diesel,Estate,2.0,184.0
+719,6250.0,Volkswagen,Crafter,2010,225307.6,Diesel,Van,2.5,
+720,65950.0,Mercedes,E-Class,2021,46652.0,Hybrid,Estate,2.0,306.0
+721,17500.0,Ford,Fiesta,2019,65000.0,Petrol,Hatchback,1.1,85.0
+723,6950.0,Ford,Transit,2014,273587.8,Diesel,Van,2.2,
+724,2450.0,Ford,Focus,2009,209214.2,Petrol,Saloon,1.6,
+725,22950.0,Audi,A3,2016,80467.0,Diesel,Saloon,1.6,110.0
+726,9900.0,SEAT,Leon,2015,241401.0,Diesel,Hatchback,1.6,105.0
+727,2550.0,Ford,Mondeo,2008,231744.96,Diesel,Hatchback,1.8,
+728,4250.0,Renault,Scenic,2011,273587.8,Diesel,MPV,1.5,110.0
+729,17950.0,Volvo,V40,2018,112653.8,Diesel,Hatchback,2.0,120.0
+730,11950.0,Isuzu,Other,2014,206000.0,Diesel,Van,3.0,
+731,5950.0,Ford,Transit,2011,125000.0,Diesel,Van,2.2,
+732,11950.0,Ford,Transit Custom,2015,241401.0,Diesel,Van,2.2,
+735,5450.0,Ford,Transit,2011,225307.6,Diesel,Van,2.4,
+736,6950.0,Ford,Transit,2013,289681.2,Diesel,Van,2.2,
+737,13950.0,Volvo,S60,2015,203275.7354,Diesel,Saloon,2.0,120.0
+738,27300.0,Renault,Trafic,2021,46787.0,Diesel,Van,2.0,
+739,13499.0,Volkswagen,Golf,2014,150751.0,Diesel,Estate,1.6,105.0
+740,9450.0,Ford,Focus,2013,96560.4,Petrol,Hatchback,1.0,100.0
+741,12950.0,Toyota,Aqua,2016,131000.0,Petrol Hybrid,Hatchback,1.5,
+742,11250.0,Ford,Transit Connect,2015,249447.7,Diesel,Van,1.6,
+743,11950.0,Volkswagen,Polo,2015,41842.84,Petrol,Hatchback,1.2,90.0
+744,5995.0,Nissan,Juke,2010,209761.3756,Diesel,SUV,1.5,
+745,11950.0,Skoda,Fabia,2016,80000.0,Petrol,Hatchback,1.0,75.0
+746,6500.0,Volkswagen,Polo,2012,180277.0,Petrol,Hatchback,1.2,60.0
+747,23950.0,Volkswagen,Passat,2018,,Diesel,Saloon,1.6,120.0
+748,7450.0,Honda,Insight,2011,53000.0,Petrol Hybrid,Hatchback,1.3,98.0
+749,6500.0,BMW,3-Series,2008,300000.0,Petrol,Saloon,2.0,
+750,10950.0,Volkswagen,Golf,2011,195534.81,Petrol,Cabriolet,1.2,105.0
+751,8950.0,Ford,Kuga,2014,354054.8,Diesel,Pick Up,2.0,
+752,17950.0,Volkswagen,Transporter,2015,231744.96,Diesel,Van,2.0,
+753,3900.0,Fiat,Panda,2010,141621.92,Petrol,Hatchback,1.1,
+754,8950.0,Skoda,Octavia,2014,313821.3,Diesel,Saloon,1.6,105.0
+755,7950.0,Volkswagen,Golf,1991,305774.6,Petrol,Hatchback,1.8,
+756,30950.0,Volkswagen,Golf,2016,160934.0,Petrol,Hatchback,2.0,300.0
+757,16450.0,Toyota,Auris,2018,109435.12,Diesel,Hatchback,1.4,90.0
+758,6950.0,Mercedes,Other,2009,392678.96,Diesel,Van,2.1,
+759,3950.0,Opel,Insignia,2011,321868.0,Diesel,Hatchback,2.0,160.0
+760,3750.0,Skoda,Octavia,2012,490848.7,Diesel,Estate,2.0,140.0
+761,26950.0,Volkswagen,Golf,2015,183464.76,Petrol,Hatchback,2.0,
+762,12950.0,Renault,Trafic,2016,289681.2,Diesel,Van,1.6,
+763,6950.0,Opel,Insignia,2015,321868.0,Diesel,Hatchback,2.0,
+764,7950.0,SEAT,Altea,2015,225307.6,Diesel,MPV,1.6,105.0
+765,2950.0,Ford,Focus,2009,321868.0,Diesel,Hatchback,1.8,
+766,28945.0,Hyundai,i30,2022,16697.0,Diesel,Hatchback,1.6,110.0
+767,23950.0,Nissan,Qashqai,2018,77543.0,Diesel,MPV,1.5,110.0
+768,16950.0,Volvo,V40,2017,72000.0,Diesel,Hatchback,2.0,120.0
+769,7450.0,Peugeot,207,2017,96560.4,Diesel,Van,,
+771,28450.0,Skoda,Superb,2019,106828.0,Diesel,Hatchback,2.0,
+772,1700.0,Ford,Transit,2003,130000.0,Diesel,Van,2.0,
+773,14950.0,Volkswagen,Crafter,2017,289681.2,Diesel,Van,2.0,
+774,2450.0,Peugeot,307,2007,259103.74,Diesel,Hatchback,1.6,
+775,13950.0,Nissan,Pulsar,2015,40233.5,Petrol,Hatchback,1.2,115.0
+776,3750.0,Renault,Fluence,2012,295000.0,Diesel,Saloon,1.5,90.0
+777,9900.0,Mercedes,C-Class,2012,257494.4,Diesel,Saloon,2.1,170.0
+778,5450.0,Ford,Transit,2011,297727.9,Diesel,Van,2.4,
+779,5450.0,Opel,Insignia,2014,281634.5,Diesel,Saloon,2.0,140.0
+780,11950.0,Ford,Transit Connect,2017,114263.14,Diesel,Van,1.5,
+781,5450.0,BMW,3-Series,2010,378194.9,Diesel,Saloon,2.0,
+782,4950.0,Nissan,Qashqai,2010,181050.75,Diesel,Hatchback,1.5,
+783,19950.0,Volkswagen,Golf,2018,93341.72,Diesel,Hatchback,1.6,
+784,11450.0,Mini,ONE,2015,140012.58,Petrol,Hatchback,1.2,
+785,47000.0,BMW,5-Series,2020,60000.0,Diesel,Saloon,2.0,184.0
+787,6450.0,BMW,3-Series,2011,289681.2,Diesel,Saloon,2.0,143.0
+789,13950.0,Mini,Cooper,2015,41842.84,Petrol,Hatchback,1.5,
+790,8450.0,Toyota,Vitz,2013,94951.06,Petrol,Hatchback,1.3,99.0
+791,8950.0,Opel,Movano,2012,250252.37,Diesel,Van,2.3,
+792,7950.0,Nissan,NV200,2015,321868.0,Diesel,Van,1.5,
+794,6450.0,Ford,Focus,2012,281634.5,Diesel,Hatchback,1.6,95.0
+795,12450.0,Audi,A3,2013,265541.1,Diesel,Hatchback,1.6,105.0
+796,18950.0,Volkswagen,Crafter,2018,273587.8,Diesel,Van,2.0,
+797,16990.0,Dacia,Sandero Stepway,2020,49966.0,Diesel,Crossover,1.5,95.0
+798,8995.0,Peugeot,308,2014,101851.0,Diesel,Hatchback,1.6,92.0
+799,19950.0,Ford,Kuga,2019,195551.0,Diesel,SUV,1.5,
+800,16219.0,Ford,Kuga,2019,195551.0,Diesel,SUV,1.5,
+801,43950.0,Toyota,Landcruiser,2018,191452.0,Diesel,SUV,2.8,
+802,49900.0,BMW,X5,2018,70810.96,Diesel,SUV,3.0,
+803,49990.0,Audi,RS3,2016,66948.544,Petrol,Hatchback,2.5,340.0
+805,17950.0,Mercedes,CLA-Class,2014,138258.0,Diesel,Saloon,1.8,136.0
+806,64950.0,Lexus,RX,2019,39000.0,Hybrid,Estate,3.5,313.0
+807,29945.0,Hyundai,i30,2022,0.0,Petrol,Hatchback,1.0,
+808,15950.0,SEAT,Leon,2017,122240.6384,Diesel,Hatchback,1.6,90.0
+809,34950.0,BMW,X5,2015,179852.0,Diesel,SUV,2.0,218.0
+810,21450.0,Ford,Kuga,2019,165799.0,Diesel,SUV,1.5,
+811,22950.0,Skoda,Superb,2019,149258.0,Diesel,Saloon,2.0,150.0
+812,12950.0,Volkswagen,Golf,2014,194258.0,Diesel,Hatchback,2.0,150.0
+813,10100.0,Mitsubishi,L200,2009,313000.0,Diesel,Crew Cab,2.5,
+814,3999.0,Land Rover,Range Rover Sport,2006,299000.0,Diesel,SUV,2.7,
+815,22295.0,Renault,Clio,2022,8633.0,Petrol,Hatchback,1.0,
+816,6750.0,Hyundai,ix35,2010,260713.08,Diesel,SUV,2.0,
+817,1950.0,Vauxhall,Astra,2007,194730.14,Diesel,Hatchback,1.7,
+818,2450.0,Toyota,Avensis,2007,254275.72,Diesel,Saloon,2.0,
+819,35950.0,Mercedes,A-Class,2020,35000.0,Diesel,Saloon,1.5,116.0
+820,20000.0,Ford,Fiesta,2019,32000.0,Petrol,Hatchback,1.0,100.0
+821,7450.0,Opel,Zafira,2014,189902.12,Diesel,MPV,1.7,110.0
+822,8450.0,Volkswagen,Passat,2012,230135.62,Diesel,Saloon,1.6,105.0
+823,8450.0,Nissan,Qashqai+2,2012,164152.68,Diesel,Hatchback,1.5,110.0
+824,5950.0,Alfa Romeo,Giulietta,2011,204386.18,Diesel,Hatchback,2.0,170.0
+825,4999.0,Mazda,3,2010,175000.0,Diesel,Saloon,1.6,
+826,45475.0,Lexus,RX,2016,74000.0,Hybrid,SUV,3.5,313.0
+827,3999.0,Chevrolet,Aveo,2011,98169.74,Petrol,Hatchback,1.2,
+828,5250.0,Renault,Grand Scenic,2011,175418.06,Diesel,MPV,1.5,110.0
+829,4999.0,Opel,Insignia,2011,185074.1,Diesel,Hatchback,2.0,
+830,7450.0,Audi,A4,2010,135000.0,Petrol,Saloon,1.8,
+831,8999.0,Audi,A4,2012,267150.44,Diesel,Saloon,2.0,143.0
+832,4999.0,Nissan,Qashqai,2009,135184.56,Petrol,Hatchback,1.6,
+834,7999.0,Honda,Insight,2011,94951.06,Petrol Hybrid,Hatchback,1.3,
+835,27950.0,Mercedes,CLA-Class,2018,42001.0,Petrol,Estate,1.6,122.0
+836,57999.0,Audi,Q5,2020,29745.43122,Petrol Plug-in Hybrid,SUV,2.0,
+837,11995.0,Volkswagen,Golf,2013,189902.12,Diesel,Hatchback,1.6,105.0
+838,5750.0,Hyundai,i30,2011,180246.08,Diesel,Estate,1.6,90.0
+839,9950.0,Land Rover,Range Rover,2005,210823.54,Diesel,SUV,2.9,
+840,1.0,Iveco,Eurocargo,2012,252.0,Diesel,Van,,
+841,8450.0,Volkswagen,Scirocco,2010,220479.58,Diesel,Hatchback,2.0,
+842,9450.0,Opel,Insignia,2015,225307.6,Diesel,Hatchback,2.0,170.0
+843,9450.0,Opel,Insignia,2015,225307.6,Diesel,Hatchback,2.0,
+845,4950.0,SEAT,Altea,2011,207604.86,Diesel,MPV,1.6,105.0
+847,4999.0,Renault,Grand Megane,2010,156105.98,Diesel,Estate,1.5,
+848,3999.0,Ford,Focus,2010,246229.02,Diesel,Hatchback,1.6,
+849,13750.0,Opel,Insignia,2018,231744.96,Diesel,Estate,2.0,170.0
+850,14900.0,Opel,Combo,2019,80000.0,Diesel,Van,1.6,
+852,6750.0,Audi,A6,2010,281634.5,Diesel,Saloon,2.0,
+853,7950.0,Hyundai,ix35,2011,199558.16,Diesel,SUV,1.7,115.0
+854,6999.0,Volkswagen,CC,2009,202776.84,Diesel,Coupe,2.0,
+855,7950.0,BMW,3-Series,2010,218870.24,Diesel,Coupe,2.0,
+856,10950.0,Volvo,XC90,2011,263931.76,Diesel,Estate,2.4,200.0
+857,32950.0,Renault,Zoe,2022,100.0,Electric,Hatchback,,107.0
+858,26999.0,Audi,A4,2017,143954.0,Diesel,Estate,2.0,150.0
+859,7450.0,Toyota,Yaris,2012,188292.78,Diesel,Hatchback,1.4,90.0
+860,6999.0,Skoda,Superb,2012,271978.46,Diesel,Hatchback,1.6,105.0
+861,6950.0,Fiat,500,2011,104607.1,Petrol,Hatchback,1.2,69.0
+862,17450.0,Mitsubishi,Outlander,2015,169704.903,Petrol Plug-in Hybrid,SUV,2.0,203.0
+863,4999.0,Vauxhall,Insignia,2011,185074.1,Diesel,Hatchback,2.0,
+864,7995.0,Fiat,500,2013,56000.0,Petrol,Hatchback,0.9,85.0
+865,7450.0,Nissan,Qashqai,2012,196339.48,Diesel,Hatchback,1.5,110.0
+866,6995.0,Renault,Fluence,2011,133000.0,Diesel,Saloon,1.5,110.0
+867,4999.0,Hyundai,Santa Fe,2008,181855.42,Diesel,SUV,2.2,
+868,43950.0,Land Rover,Discovery,2019,120000.0,Diesel,Van,3.0,
+869,5450.0,Opel,Insignia,2012,278415.82,Diesel,MPV,2.0,160.0
+870,14995.0,Hyundai,i30,2016,103802.43,Diesel,Hatchback,1.6,110.0
+871,7995.0,Honda,Insight,2012,156000.0,Petrol Hybrid,Hatchback,1.3,98.0
+872,7995.0,DS Automobiles,DS 4,2015,240000.0,Diesel,Hatchback,1.6,120.0
+873,10995.0,Peugeot,508,2016,179000.0,Diesel,Saloon,1.6,120.0
+874,17750.0,Mercedes,E-Class,2014,172199.38,Diesel,Saloon,2.1,170.0
+875,1795.0,Ford,Focus,2005,345000.0,Diesel,Hatchback,1.6,
+876,45000.0,Land Rover,Defender,2009,,Diesel,SUV,2.4,
+878,19450.0,Ford,Fiesta,2019,31477.0,Petrol,Hatchback,1.0,
+879,4695.0,Toyota,Corolla,2011,245000.0,Diesel,Saloon,1.4,90.0
+880,3334.5,Nissan,X-Trail,2008,273587.8,Diesel,SUV,2.0,
+881,24950.0,Ford,Kuga,2018,120700.5,Diesel,SUV,1.5,
+882,7450.0,Peugeot,508,2013,215651.56,Diesel,Saloon,2.0,140.0
+883,17900.0,Ford,Kuga,2017,168000.0,Diesel,SUV,1.5,120.0
+884,34950.0,Volkswagen,T-Roc,2020,21000.0,Petrol,SUV,1.5,150.0
+885,10800.0,Volkswagen,Golf,2013,226000.0,Diesel,Estate,1.6,105.0
+886,9950.0,Mercedes,C-Class,2011,203258.0,Diesel,Saloon,2.1,170.0
+887,9999.0,Vauxhall,Insignia,2016,180000.0,Diesel,Hatchback,1.6,
+888,5950.0,Volkswagen,Golf,2011,292899.88,Diesel,Hatchback,1.6,90.0
+890,15950.0,Volkswagen,Golf,2015,178000.0,Diesel,Hatchback,1.6,105.0
+893,30500.0,Toyota,Corolla,2022,18000.0,Hybrid,Estate,1.8,122.0
+894,20950.0,Ford,Transit,2017,99676.08224,Diesel,Van,2.0,
+895,1995.0,Peugeot,307,2006,153000.0,Petrol,Cabriolet,1.6,
+896,10995.0,Toyota,Auris,2013,96000.0,Diesel,Hatchback,1.4,90.0
+897,450.0,Skoda,Octavia,2007,,Petrol,Hatchback,1.4,
+898,10995.0,Honda,Fit,2015,104607.1,Petrol Hybrid,Hatchback,1.5,
+901,8350.0,Audi,A1,2011,219000.0,Petrol,Hatchback,1.2,86.0
+902,31173.0,Renault,Clio,2022,0.0,Petrol,Hatchback,1.0,100.0
+903,15151.5,Mini,Cooper,2019,57080.07112,Petrol,Hatchback,1.5,
+904,14000.0,Ford,Mustang Mach ll,1974,,Petrol,Hatchback,2.3,
+905,15350.0,Volkswagen,Golf,2016,218736.6648,Diesel,Hatchback,1.6,105.0
+906,,Toyota,Landcruiser,2006,278901.0,Diesel,SUV,3.0,
+907,,Nissan,Juke,2011,100000.0,Petrol,SUV,1.6,117.0
+908,25950.0,Renault,Kadjar,2019,33419.0,Diesel,SUV,1.5,110.0
+909,10992.15,Mitsubishi,L200,2010,149668.62,Diesel,Pick Up,2.5,
+910,34950.0,Toyota,Landcruiser,2019,106000.0,Diesel,Van,2.8,
+911,16900.0,Ford,Focus,2017,101302.0,Diesel,Hatchback,1.5,95.0
+912,29495.0,Hyundai,i30,2023,0.0,Petrol,Hatchback,1.0,
+913,54950.0,Mercedes,E-Class,2020,28000.0,Diesel,Saloon,1.9,150.0
+914,23950.0,Volkswagen,T-CROSS,2019,37442.0,Petrol,Estate,1.0,95.0
+915,27450.0,Peugeot,3008,2018,44000.0,Petrol,MPV,1.2,130.0
+916,43950.0,Volkswagen,Sharan,2020,40000.0,Diesel,MPV,2.0,150.0
+917,23950.0,Toyota,Proace,2022,27120.0,Diesel,Van,1.5,
+918,25995.0,Nissan,Qashqai,2018,87161.0,Diesel,MPV,1.5,110.0
+919,31950.0,Skoda,Superb,2018,38000.0,Diesel,Saloon,2.0,150.0
+920,2395.0,Opel,Zafira,2008,160000.0,Petrol,MPV,1.6,
+921,20475.0,Volkswagen,Amarok,2016,125082.7328,Diesel,Pick Up,2.0,
+923,20950.0,Volkswagen,Polo,2021,16000.0,Petrol,Hatchback,1.0,80.0
+924,9950.0,Mitsubishi,L200,2011,321868.0,Diesel,Crew Cab,2.5,
+925,10900.0,Toyota,Prius,2017,131965.88,Petrol Hybrid,Hatchback,1.5,112.0
+926,28500.0,KIA,Sorento,2016,88250.0,Diesel,SUV,2.2,200.0
+927,5250.0,Volkswagen,Golf,2011,289681.2,Diesel,Hatchback,2.0,140.0
+928,20950.0,Audi,A4,2017,178636.74,Diesel,Estate,2.0,
+929,53995.0,BMW,X5,2016,155449.3693,Diesel,SUV,3.0,258.0
+930,34995.0,Renault,Arkana,2022,8500.0,Petrol,Hatchback,1.6,145.0
+931,28450.0,Ford,S-MAX,2017,109210.0,Diesel,MPV,2.0,
+932,12750.0,Peugeot,308,2017,92546.0,Diesel,Hatchback,1.6,100.0
+933,,Nissan,Qashqai,2013,233742.0,Diesel,MPV,1.5,110.0
+935,24950.0,Hyundai,Tucson,2018,114262.0,Diesel,MPV,1.7,115.0
+936,35950.0,Mercedes,C-Class,2019,108680.0,Diesel,Saloon,1.6,122.0
+937,13950.0,Hyundai,ix35,2015,189902.0,Diesel,SUV,1.7,115.0
+938,33950.0,Volkswagen,Passat,2020,23335.0,Diesel,Saloon,1.6,
+939,32950.0,BMW,4-Series,2018,117482.0,Diesel,Saloon,2.0,190.0
+940,40950.0,Volvo,XC60,2017,53913.0,Diesel,SUV,2.0,190.0
+943,35168.0,Renault,Captur,2022,0.0,Petrol,Crossover,1.0,90.0
+944,,KIA,Ceed,2016,139000.0,Diesel,Estate,1.6,136.0
+945,43695.0,Hyundai,Tucson,2022,0.0,Diesel,SUV,1.6,
+946,10990.0,Volkswagen,Golf,2012,88513.7,Petrol,Hatchback,1.2,85.0
+947,22750.0,Jeep,Compass,2018,77500.0,Petrol,SUV,2.4,170.0
+948,20195.0,Hyundai,i10,2022,10.0,Petrol,Hatchback,1.0,
+949,22950.0,Hyundai,Kona,2019,8477.0,Petrol,Hatchback,1.0,120.0
+950,11999.0,Volkswagen,Golf,2014,209214.2,Diesel,Hatchback,1.6,105.0
+951,12999.0,KIA,Optima,2014,167371.36,Diesel,Saloon,1.7,134.0
+952,6995.0,Audi,A5,2009,226916.94,Diesel,Coupe,3.0,
+953,18999.0,Hyundai,i30,2019,51000.0,Petrol,Hatchback,1.4,100.0
+954,15999.0,Hyundai,ix35,2015,129000.0,Diesel,SUV,2.0,136.0
+955,20999.0,Mercedes,A-Class,2017,150000.0,Diesel,Hatchback,1.5,109.0
+956,3950.0,Nissan,280ZX,1980,,Petrol,Hatchback,2.8,
+957,18490.0,Dacia,Duster,2019,107345.0,Diesel,SUV,1.5,115.0
+958,26950.0,Mercedes,Sprinter,2018,186079.9375,Diesel,Van,2.1,
+959,8999.0,Toyota,Auris,2012,110000.0,Petrol,Hatchback,1.3,101.0
+960,7900.0,Volkswagen,Golf,2012,170000.0,Petrol,Estate,1.4,122.0
+961,8999.0,Honda,Fit,2013,101000.0,Petrol Hybrid,Hatchback,1.3,
+962,9999.0,Ford,Mondeo,2014,132000.0,Diesel,Hatchback,1.6,115.0
+963,9999.0,Dacia,Sandero,2016,112000.0,Diesel,Hatchback,1.5,90.0
+964,17999.0,Audi,A4,2015,83000.0,Diesel,Saloon,2.0,136.0
+965,6999.0,Renault,Megane,2012,220000.0,Diesel,Estate,1.5,105.0
+966,6999.0,Opel,Astra,2011,135000.0,Petrol,Hatchback,1.4,100.0
+967,7900.0,Ford,Transit,2015,283243.84,Diesel,Van,1.6,
+968,5999.0,Ford,Focus,2011,193120.8,Diesel,Hatchback,1.6,109.0
+969,15999.0,Hyundai,i30,2017,140000.0,Diesel,Hatchback,1.6,110.0
+970,7999.0,Dacia,Duster,2013,130000.0,Diesel,SUV,1.5,107.0
+971,6999.0,Mitsubishi,Colt,2012,120000.0,Petrol,MPV,1.1,75.0
+972,16200.0,Ford,Kuga,2019,193120.8,Diesel,Van,1.5,
+973,8499.0,Vauxhall,Corsa,2014,101000.0,Petrol,Hatchback,1.2,
+974,3950.0,Volkswagen,Caddy,2006,299337.24,Diesel,Van,1.9,
+975,15999.0,SEAT,Leon,2017,97000.0,Diesel,Hatchback,1.6,90.0
+976,13999.0,Peugeot,308,2017,128000.0,Diesel,Estate,1.6,100.0
+977,5900.0,Renault,Fluence,2012,175005.0,Diesel,Saloon,1.5,90.0
+978,10900.0,SEAT,Toledo,2015,129000.0,Diesel,Saloon,1.6,105.0
+979,8500.0,Ford,Fiesta,2015,201100.0,Diesel,Hatchback,1.5,75.0
+980,7900.0,Skoda,Citigo,2016,228000.0,Petrol,Hatchback,1.0,60.0
+981,,Skoda,Octavia,2016,102000.0,Diesel,Hatchback,2.0,184.0
+982,23950.0,Nissan,Qashqai,2018,77000.0,Diesel,Hatchback,1.5,110.0
+983,14900.0,Renault,Megane,2017,151000.0,Diesel,Saloon,1.5,110.0
+984,23950.0,Renault,Megane,2020,10719.0,Petrol,Hatchback,1.3,140.0
+985,36.0,Opel,Movano,2022,,Diesel,Van,,
+986,19890.0,Honda,HR-V,2016,117715.1743,Hybrid,Crossover,1.5,
+987,30900.0,BMW,5-Series,2018,121600.0,Diesel,Saloon,2.0,190.0
+989,16900.0,Opel,Crossland X,2018,59500.0,Petrol,SUV,1.2,81.0
+990,13004.0,Renault,Kangoo,2019,130181.0,Diesel,Van,1.5,
+991,20995.0,Ford,Focus,2019,99376.745,Diesel,Hatchback,1.5,
+992,14900.0,SEAT,Ibiza,2018,75150.0,Petrol,Hatchback,1.0,95.0
+993,6750.0,Ford,Fiesta,2017,170000.0,Diesel,Van,1.5,
+994,12500.0,Renault,Clio,2017,65247.0,Petrol,Hatchback,1.1,75.0
+995,14500.0,Mercedes,S-Class,2012,242651.0,Diesel,Saloon,3.0,
+996,8900.0,Peugeot,208,2015,67600.0,Petrol,Hatchback,1.0,68.0
+997,32900.0,Nissan,X-Trail,2018,18225.0,Diesel,SUV,1.6,
+998,7800.0,Opel,Zafira,2014,181000.0,Diesel,MPV,1.7,110.0
+999,41950.0,Volkswagen,Tiguan,2020,57000.0,Diesel,SUV,2.0,150.0
+1001,10900.0,Toyota,Aqua,2017,131965.88,Petrol Hybrid,Hatchback,1.5,112.0
+1003,13900.0,Honda,Jazz,2017,119100.0,Petrol,Hatchback,1.3,102.0
+1004,12250.0,Nissan,Navara,2011,305774.6,Diesel,Crew Cab,2.5,
+1005,1575.0,Toyota,Yaris,2005,191511.46,Petrol,Hatchback,1.3,
+1006,16995.0,Renault,Captur,2018,81854.25108,Diesel,Hatchback,1.5,90.0
+1007,1950.0,Ford,Focus,2007,180339.0,Petrol,Hatchback,1.4,
+1008,,Ford,Fiesta,2012,185156.0,Diesel,Hatchback,1.4,70.0
+1009,24950.0,Nissan,Qashqai,2019,123012.0,Diesel,MPV,1.5,
+1010,64593.0,Audi,A6,2022,15.0,Diesel,Saloon,2.0,
+1012,14450.0,KIA,Optima,2015,122000.0,Diesel,Saloon,1.7,134.0
+1013,8250.0,Ford,Focus,2013,179000.0,Diesel,Hatchback,1.6,95.0
+1014,12700.0,Opel,Astra,2016,114000.0,Diesel,Hatchback,1.6,110.0
+1015,15500.0,Volkswagen,Transporter,2018,241401.0,Diesel,Van,2.0,
+1016,25995.0,Audi,A6,2017,166000.0,Diesel,Saloon,2.0,150.0
+1018,5750.0,Opel,Astra,2013,210239.3496,Diesel,MPV,1.7,110.0
+1019,5200.0,Audi,S3,2002,241000.0,Petrol,Hatchback,1.8,
+1020,19773.0,Nissan,Navara,2018,122309.84,Diesel,Pick Up,2.3,
+1021,4250.0,BMW,5-Series,2007,265541.1,Diesel,Saloon,3.0,
+1022,12500.0,BMW,5-Series,2012,162543.34,Diesel,Saloon,2.0,184.0
+1023,10950.0,Honda,Fit,2015,112653.8,Petrol,Hatchback,1.3,
+1024,10950.0,Nissan,Qashqai,2014,199558.16,Diesel,Hatchback,1.5,110.0
+1025,18999.0,Volvo,XC60,2015,186683.44,Diesel,SUV,2.0,190.0
+1026,13950.0,Vauxhall,Insignia,2017,197948.82,Diesel,Hatchback,1.6,
+1027,9450.0,Hyundai,i30,2014,196339.48,Diesel,Hatchback,1.6,110.0
+1028,19950.0,BMW,3-Series,2016,160773.066,Petrol Plug-in Hybrid,Saloon,2.0,
+1029,18999.0,Mercedes,C-Class,2016,194730.14,Diesel,Estate,2.1,
+1030,8450.0,Renault,Megane,2015,195534.81,Diesel,Estate,1.5,110.0
+1031,14999.0,Renault,Megane,2018,154496.64,Diesel,Hatchback,1.5,110.0
+1032,21500.0,BMW,X1,2017,162543.34,Diesel,Estate,2.0,
+1033,21500.0,Mitsubishi,Outlander,2017,170590.04,Petrol Hybrid,Estate,2.0,
+1034,28950.0,Opel,Grandland X,2020,56000.0,Diesel,SUV,1.5,130.0
+1035,1850.0,Toyota,Avensis,2007,257494.4,Petrol,Saloon,1.6,
+1036,10500.0,Peugeot,Partner,2018,150000.0,Diesel,Van,1.6,
+1037,17500.0,Skoda,Octavia,2017,135000.0,Diesel,Hatchback,2.0,150.0
+1038,14995.0,Nissan,Figaro,1991,96044.0,Petrol,Cabriolet,1.0,
+1039,25990.0,Nissan,Qashqai,2019,80537.81096,Diesel,SUV,1.5,
+1040,16900.0,Peugeot,2008,2019,20882.0,Petrol,Estate,1.2,
+1041,14650.0,Volkswagen,Passat,2015,154300.0,Diesel,Saloon,1.6,120.0
+1043,11950.0,Volkswagen,Jetta,2016,263931.76,Diesel,Saloon,2.0,110.0
+1044,4500.0,Land Rover,Discovery,2007,312000.0,Diesel,SUV,2.7,
+1046,39995.0,Volvo,XC40,2018,75000.0,Diesel,Estate,2.0,150.0
+1047,25290.0,Dacia,Jogger,2022,0.0,Petrol,Crossover,1.0,110.0
+1048,31995.0,Volkswagen,Tiguan,2018,87535.0,Diesel,SUV,2.0,150.0
+1049,1950.0,Hyundai,Tucson,2006,270000.0,Diesel,SUV,2.0,
+1051,2950.0,Isuzu,D-Max,2004,295667.9448,Diesel,Crew Cab,3.0,
+1052,36609.0,Volkswagen,Transporter,2023,1.0,Diesel,Van,2.0,
+1053,21900.0,Ford,Grand C-MAX,2017,99800.0,Diesel,MPV,2.0,150.0
+1054,2995.0,BMW,3-Series,2007,172000.0,Petrol,Saloon,1.6,
+1055,7650.0,SEAT,Ibiza,2013,219276.0,Diesel,Estate,1.2,75.0
+1056,1234.0,Mini,Cooper,2005,119640.0,Petrol,Hatchback,1.6,
+1057,5750.0,Skoda,Octavia,2010,177027.4,Diesel,Hatchback,1.6,
+1058,19250.0,Vauxhall,Vivaro,2020,62844.727,Diesel,Van,1.5,
+1059,26000.0,Volkswagen,Tiguan,2017,126985.0,Diesel,SUV,2.0,115.0
+1060,1550.0,Toyota,Avensis,2007,273587.8,Petrol,Saloon,1.6,
+1062,3250.0,BMW,5-Series,2007,283243.84,Diesel,Saloon,2.0,
+1063,23950.0,Opel,Grandland X,2019,56149.0,Petrol,MPV,1.2,130.0
+1064,,BMW,X3,2018,62518.0,Diesel,SUV,2.0,
+1065,8950.0,Nissan,Juke,2012,140000.0,Petrol,SUV,1.6,117.0
+1066,43950.0,BMW,5-Series,2018,95000.0,Diesel,Saloon,3.0,265.0
+1067,15450.0,Mini,Cooper,2016,115872.48,Diesel,Hatchback,1.5,
+1068,14999.0,SEAT,Alhambra,2014,224000.0,Diesel,MPV,2.0,115.0
+1069,26999.0,Skoda,Superb,2018,135000.0,Diesel,Saloon,2.0,150.0
+1070,7999.0,Volkswagen,Scirocco,2009,224000.0,Diesel,Hatchback,2.0,
+1071,14000.0,Nissan,ZX,1992,112653.8,Petrol,Coupe,3.0,
+1072,12500.0,Isuzu,Forward N75.190 Auto,2011,260.0,Diesel,Van,5.2,
+1073,0.0,Ford,Focus,2006,1.0,Diesel,Van,1.6,
+1074,22950.0,Mercedes,C-Class,2015,125000.0,Petrol,Saloon,2.0,184.0
+1075,7950.0,Opel,Mokka,2013,114000.0,Diesel,SUV,1.7,130.0
+1076,8950.0,Dacia,Sandero Stepway,2015,64000.0,Diesel,Hatchback,1.5,90.0
+1077,12000.0,Renault,Master,2015,,Diesel,Van,2.3,
+1078,7950.0,Nissan,Qashqai,2012,181855.42,Petrol,Hatchback,1.6,115.0
+1079,10900.0,Toyota,Yaris,2013,105000.0,Petrol Hybrid,Hatchback,1.5,100.0
+1080,7400.0,Volkswagen,Jetta,2012,196339.48,Diesel,Saloon,1.6,105.0
+1081,29950.0,Volkswagen,Touareg,2014,113000.0,Diesel,SUV,3.0,204.0
+1082,34500.0,Audi,A6,2019,206494.0,Diesel,Estate,2.0,204.0
+1083,13500.0,Toyota,Corolla,2015,109791.0,Diesel,Saloon,1.4,90.0
+1084,11500.0,Hyundai,i30,2013,170868.4558,Diesel,Hatchback,1.6,110.0
+1085,19000.0,Toyota,Prius,2017,124255.0,Petrol Hybrid,Hatchback,1.8,122.0
+1086,5999.0,Renault,Master,2011,200335.0,Diesel,Van,2.3,
+1087,59995.0,Volkswagen,ID.5,2022,20.0,Electric,Hatchback,,174.0
+1088,6250.0,Toyota,Auris,2009,76671.0,Petrol,Hatchback,1.6,
+1089,15999.0,Volkswagen,Golf,2014,121335.0,Petrol,Hatchback,1.4,
+1090,1750.0,Nissan,Almera,2004,156482.5656,Petrol,Hatchback,1.5,
+1091,11950.0,KIA,Carens,2014,201909.4057,Diesel,MPV,1.7,115.0
+1092,13999.0,Volkswagen,Polo,2013,92533.0,Petrol,Hatchback,1.4,
+1093,5750.0,SEAT,Ibiza,2010,220956.0,Diesel,Hatchback,1.4,
+1094,13999.0,Nissan,Qashqai+2,2014,129657.0,Diesel,MPV,1.6,130.0
+1095,10999.0,Hyundai,i30,2013,107042.0,Petrol,MPV,1.4,100.0
+1096,11999.0,Volkswagen,Polo,2013,100805.0,Petrol,Hatchback,1.2,105.0
+1097,14999.0,Toyota,Avensis,2017,167902.0,Diesel,Saloon,1.6,112.0
+1098,7500.0,Peugeot,208,2013,157715.32,Diesel,Hatchback,1.4,68.0
+1099,16500.0,KIA,Sportage,2016,155203.0,Diesel,SUV,1.7,
+1100,4250.0,Renault,Grand Scenic,2010,208673.0,Diesel,MPV,1.5,
+1101,3000.0,Volvo,V50,2008,320070.0,Diesel,Estate,2.0,
+1102,17999.0,Skoda,Octavia,2019,149800.0,Petrol,Saloon,1.0,115.0
+1103,2300.0,Honda,Civic,2008,333794.0,Petrol,Hatchback,1.8,
+1104,22900.0,Toyota,Hilux,2014,191511.46,Diesel,Pick Up,3.0,
+1105,5199.0,Citroen,C3,2012,124000.0,Petrol,Hatchback,1.4,75.0
+1106,17200.0,Ford,Focus,2019,177000.0,Diesel,Estate,1.5,120.0
+1107,14999.0,Ford,Focus,2015,87468.0,Diesel,Hatchback,1.6,95.0
+1108,3750.0,Mazda,3,2010,291000.0,Diesel,Saloon,1.6,
+1109,13499.0,Volkswagen,Polo,2016,78751.0,Petrol,Hatchback,1.2,
+1110,12499.0,Volkswagen,Golf,2013,142607.0,Petrol,Hatchback,1.2,
+1111,15999.0,Volkswagen,Golf,2015,99051.0,Petrol,Hatchback,1.2,
+1112,14999.0,Volkswagen,Golf,2014,111101.0,Petrol,Hatchback,1.2,
+1113,15999.0,Volkswagen,Golf,2015,89237.0,Petrol,Hatchback,1.2,
+1114,21000.0,Toyota,Prius,2016,120213.0,Petrol Hybrid,Estate,1.8,
+1115,15999.0,Volkswagen,Polo,2016,17000.0,Petrol,SUV,1.2,
+1116,24750.0,KIA,Sorento,2015,184910.0,Diesel,SUV,2.2,200.0
+1118,14499.0,Volkswagen,Polo,2016,96066.0,Petrol,Hatchback,1.2,90.0
+1119,7950.0,Nissan,Qashqai+2,2012,239226.0,Diesel,MPV,1.5,110.0
+1120,15000.0,Toyota,Prius,2015,,Petrol Hybrid,Hatchback,1.8,
+1121,14750.0,Dacia,Sandero,2019,34198.475,Petrol,Hatchback,1.0,
+1123,20999.0,Ford,Focus,2018,46235.0,Petrol,Hatchback,1.0,125.0
+1124,24999.0,Mitsubishi,Outlander,2016,113987.9429,Petrol Plug-in Hybrid,SUV,2.0,203.0
+1125,8999.0,Honda,Fit,2013,,Petrol Hybrid,Hatchback,1.3,
+1126,8500.0,Peugeot,508,2014,282894.0,Diesel,Estate,1.6,115.0
+1127,11750.0,Volkswagen,Golf,2014,262284.0,Diesel,Hatchback,1.6,105.0
+1128,11990.0,Honda,Fit,2016,90571.0,Hybrid,Hatchback,1.5,
+1129,20888.0,Renault,Captur,2019,62041.0,Diesel,Hatchback,1.5,90.0
+1130,54995.0,BMW,X5,2017,122229.0,Diesel,SUV,2.0,231.0
+1132,8482.5,Vauxhall,Vivaro,2017,162865.208,Diesel,Van,1.6,
+1133,22000.0,BMW,5-Series,2014,164000.0,Diesel,Saloon,2.0,184.0
+1134,8450.0,Volkswagen,Golf,2011,205638.2465,Petrol,Hatchback,1.4,
+1135,3000.0,Volkswagen,Golf,2008,249179.0,Diesel,Hatchback,1.9,
+1136,28950.0,Opel,Crossland X,2022,1.0,Petrol,SUV,1.2,83.0
+1137,25000.0,Audi,TT,2016,108744.0,Diesel,Coupe,2.0,184.0
+1138,45840.0,Mercedes,SL-Class,2014,112010.064,Petrol,Cabriolet,3.5,306.0
+1139,19890.0,Volkswagen,Amarok,2016,,Diesel,Pick Up,2.0,
+1140,26319.15,Jaguar,F-Pace,2017,131965.88,Diesel,SUV,2.0,
+1142,26450.0,Mercedes,A-Class,2018,76001.0,Petrol,Estate,1.6,102.0
+1143,6750.0,Nissan,Qashqai,2011,106532.0,Diesel,Hatchback,1.5,106.0
+1144,11950.0,Peugeot,2008,2015,103001.0,Diesel,Hatchback,1.6,92.0
+1145,13450.0,Renault,Clio,2018,94002.0,Diesel,Hatchback,1.5,90.0
+1146,5950.0,Opel,Insignia,2012,229787.0,Diesel,MPV,2.0,130.0
+1147,19450.0,Audi,A4,2015,123002.0,Diesel,Saloon,2.0,120.0
+1148,27950.0,Mercedes,E-Class,2016,133002.0,Diesel,Saloon,2.0,194.0
+1149,20950.0,Audi,A4,2016,103379.0,Diesel,Saloon,2.0,150.0
+1150,22295.0,Mazda,6,2017,122000.0,Diesel,Saloon,2.2,175.0
+1151,29320.0,Renault,Captur,2022,0.0,Petrol,Hatchback,1.0,
+1152,27450.0,BMW,X3,2016,111003.0,Diesel,Estate,2.0,150.0
+1153,2950.0,Suzuki,SX4,2009,275000.0,Petrol,SUV,1.5,
+1154,24950.0,Volkswagen,T-Roc,2018,53000.0,Petrol,Estate,1.0,115.0
+1155,39950.0,Land Rover,Discovery Sport,2018,65001.0,Diesel,SUV,2.0,150.0
+1156,26950.0,Ford,Kuga,2019,105001.0,Diesel,Hatchback,1.5,120.0
+1157,27500.0,Volkswagen,Transporter,2017,44767.0,Diesel,Van,2.0,
+1158,15950.0,Opel,Insignia,2016,82001.0,Diesel,Hatchback,1.6,136.0
+1159,28950.0,Mercedes,E-Class,2016,102002.0,Diesel,Saloon,2.0,194.0
+1160,4950.0,Opel,Insignia,2011,214854.0,Diesel,Saloon,2.0,130.0
+1161,11950.0,Ford,Mondeo,2014,130002.0,Diesel,Hatchback,1.6,115.0
+1162,7950.0,Mazda,3,2012,193340.0,Diesel,Hatchback,1.6,115.0
+1163,8900.0,Mazda,2,2014,107825.78,Petrol,Hatchback,1.3,63.0
+1164,7950.0,Opel,Astra,2012,155857.0,Petrol,Hatchback,1.4,100.0
+1165,7950.0,Opel,Insignia,2013,237000.0,Diesel,MPV,2.0,130.0
+1166,6950.0,SEAT,Ibiza,2012,158122.0,Petrol,Hatchback,1.2,70.0
+1167,7950.0,Honda,Civic,2010,139000.0,Petrol,Hatchback,1.3,
+1168,21350.0,Land Rover,Discovery,2013,332397.0,Diesel,SUV,3.0,209.0
+1169,23995.0,Suzuki,Vitara,2020,19500.0,Petrol,SUV,1.0,111.0
+1170,2950.0,Renault,Fluence,2011,248.0,Diesel,Saloon,1.5,90.0
+1171,,Opel,Crossland X,2022,5.0,Diesel,MPV,1.5,
+1173,10250.0,Volkswagen,Passat,2015,285000.0,Diesel,Saloon,1.6,120.0
+1174,9490.0,Ford,Fiesta,2014,124044.7085,Petrol,Hatchback,1.2,60.0
+1175,8900.0,Mazda,Demio,2014,107825.78,Petrol,Hatchback,1.3,63.0
+1176,11450.0,Volkswagen,Polo,2015,116000.0,Petrol,Hatchback,1.0,60.0
+1178,12250.0,Nissan,Qashqai,2015,154000.0,Diesel,Hatchback,1.5,110.0
+1179,12950.0,Toyota,Auris,2016,264488.0,Diesel,Hatchback,1.4,90.0
+1180,34409.0,Mazda,MX-30,2022,26.0,Electric,SUV,,
+1181,12750.0,Citroen,C3,2017,72420.3,Petrol,Hatchback,1.2,82.0
+1182,20990.0,BMW,5-Series,2015,151176.5716,Diesel,Saloon,2.0,190.0
+1183,15500.0,Hyundai,Tucson,2017,170630.0,Diesel,SUV,1.7,
+1184,2450.0,Toyota,Hilux,2000,274321.659,Diesel,Pick Up,2.4,
+1185,11999.0,Skoda,Superb,2015,305774.6,Diesel,Saloon,2.0,150.0
+1186,28777.0,KIA,Sportage,2019,,Diesel,SUV,1.6,115.0
+1187,9995.0,Volkswagen,Polo,2013,136793.9,Petrol,Hatchback,1.2,60.0
+1188,3250.0,Mercedes,Other,2009,209214.2,Diesel,Van,2.1,
+1190,1150.0,Volkswagen,Golf,2004,225307.6,Petrol,Hatchback,1.4,
+1191,4450.0,Vauxhall,Zafira,2011,,Diesel,MPV,1.7,
+1192,26900.0,Audi,A3,2018,99779.08,Diesel,Saloon,1.6,
+1195,28995.0,Nissan,X-Trail,2018,98680.0,Diesel,SUV,1.6,130.0
+1196,15250.0,Ford,Transit Custom,2017,185074.1,Diesel,Van,2.0,
+1197,15950.0,Toyota,Corolla,2017,149500.0,Diesel,Saloon,1.4,90.0
+1198,18500.0,Ford,Transit,2018,120000.0,Diesel,Van,2.0,
+1199,18500.0,Ford,Transit,2017,143231.26,Diesel,Van,2.0,
+1200,8716.5,Volkswagen,Jetta,2015,168980.7,Diesel,Saloon,2.0,
+1202,8250.0,Vauxhall,Vivaro,2015,289681.2,Diesel,Van,1.6,
+1203,43290.0,Land Rover,Range Rover Velar,2018,36266.4769,Diesel,SUV,2.0,180.0
+1204,19999.0,Ford,Transit,2018,193120.8,Diesel,Van,2.0,
+1205,29120.0,Renault,Captur,2022,0.0,Petrol,Hatchback,1.0,
+1206,14500.0,Ford,Transit Custom,2017,222088.92,Diesel,Van,2.0,
+1207,,Citroen,C5,2009,,Diesel,Saloon,2.0,
+1208,14950.0,Nissan,Qashqai,2016,163956.3405,Diesel,SUV,1.5,110.0
+1209,15950.0,Vauxhall,Insignia,2018,174645.5768,Diesel,Hatchback,1.6,
+1210,11950.0,Vauxhall,Astra,2017,174595.6873,Diesel,Hatchback,1.6,
+1211,12950.0,Vauxhall,Insignia,2017,197160.2434,Diesel,Hatchback,1.6,
+1212,7950.0,Vauxhall,Astra,2015,230473.5814,Diesel,Hatchback,1.6,
+1213,15950.0,Ford,Mondeo,2018,174146.6814,Diesel,Hatchback,1.5,120.0
+1214,15650.0,Vauxhall,Insignia,2018,176256.5261,Diesel,Hatchback,1.6,
+1215,8950.0,Vauxhall,Astra,2015,161537.5025,Diesel,Hatchback,1.6,
+1216,8950.0,Vauxhall,Astra,2015,181116.7329,Diesel,Hatchback,1.6,
+1217,22450.0,BMW,X1,2017,158000.0,Diesel,SUV,2.0,150.0
+1218,19900.0,Volkswagen,Golf,2016,170003.0,Hybrid,Hatchback,1.4,204.0
+1219,47500.0,Audi,A6,2020,35380.0,Diesel,Saloon,2.0,204.0
+1220,18900.0,Citroen,Grand C4 Picasso,2016,96560.0,Diesel,MPV,1.6,112.0
+1221,595.0,Ford,Focus,2006,270.0,Petrol,Hatchback,1.6,
+1222,18950.0,Renault,Grand Scenic,2018,181181.1065,Diesel,MPV,1.5,110.0
+1223,11950.0,Ford,Focus,2016,162945.675,Diesel,Hatchback,1.5,120.0
+1224,19900.0,Citroen,Grand C4 Picasso,2017,80467.0,Diesel,MPV,1.6,120.0
+1225,16950.0,Nissan,Qashqai,2018,170928.0014,Diesel,SUV,1.5,
+1226,11950.0,Ford,Fiesta,2017,198351.155,Diesel,Hatchback,1.5,120.0
+1227,7900.0,Renault,Grand Scenic,2012,160934.0,Diesel,MPV,1.5,
+1228,10950.0,Vauxhall,Insignia,2017,199751.2808,Diesel,Estate,1.6,
+1230,10950.0,Nissan,Note,2015,96002.0,Petrol,MPV,1.2,80.0
+1231,12950.0,Nissan,Qashqai,2015,213012.2424,Diesel,SUV,1.5,
+1232,12900.0,Nissan,Qashqai+2,2013,128747.0,Diesel,MPV,1.6,
+1233,13950.0,Nissan,Qashqai,2017,179468.7688,Diesel,SUV,1.5,110.0
+1234,15950.0,Nissan,Qashqai,2018,192348.3168,Diesel,SUV,1.5,110.0
+1235,6900.0,Audi,Q7,2007,321868.0,Diesel,MPV,3.0,
+1236,14950.0,Nissan,Qashqai,2016,190561.9494,Diesel,SUV,1.6,
+1237,4900.0,KIA,Venga,2010,128747.0,Diesel,MPV,1.4,
+1238,11500.0,Hyundai,i40,2016,166000.0,Diesel,Saloon,1.7,115.0
+1239,4900.0,Ford,Fiesta,2010,128747.0,Diesel,MPV,1.4,
+1240,9900.0,Volkswagen,Golf,2013,209214.0,Diesel,Estate,1.6,
+1241,9900.0,Honda,Fit,2014,120002.0,Hybrid,Hatchback,1.5,
+1243,22900.0,Hyundai,Santa Fe,2016,160934.0,Diesel,Estate,2.0,197.0
+1244,31900.0,Volkswagen,Touran,2019,107002.0,Diesel,MPV,2.0,150.0
+1245,7895.0,Toyota,Yaris,2012,122000.0,Petrol,Hatchback,1.0,69.0
+1246,27900.0,Audi,Q5,2015,112654.0,Diesel,Estate,2.0,
+1247,16900.0,Citroen,Grand C4 Picasso,2016,179004.0,Diesel,MPV,1.6,92.0
+1248,21000.0,Ford,Focus,2019,105000.0,Diesel,Hatchback,1.5,120.0
+1249,5000.0,Jeep,Cherokee,1998,160934.0,Diesel,SUV,2.5,
+1250,36900.0,BMW,7-Series,2016,110002.0,Diesel,Saloon,3.0,265.0
+1251,34900.0,Skoda,Kodiaq,2019,70001.0,Diesel,Estate,2.0,150.0
+1252,12999.0,Ford,Fiesta,2014,114880.0,Petrol,Hatchback,1.2,60.0
+1253,56950.0,Skoda,Kodiaq,2021,14000.0,Diesel,SUV,2.0,200.0
+1254,12900.0,Citroen,Grand C4 Picasso,2014,96002.0,Diesel,MPV,1.6,
+1255,12700.0,Peugeot,5008,2015,160934.0,Diesel,MPV,1.6,
+1256,15900.0,Citroen,Grand C4 Picasso,2015,100001.0,Diesel,MPV,1.6,92.0
+1257,9900.0,BMW,5-Series,2010,144841.0,Diesel,Saloon,2.0,
+1258,18900.0,Mitsubishi,Outlander,2014,160757.0,Diesel,Estate,2.0,150.0
+1259,14900.0,Ford,S-MAX,2014,128747.0,Diesel,MPV,2.0,
+1260,19900.0,SEAT,Alhambra,2015,128747.0,Diesel,MPV,2.0,
+1261,6450.0,Audi,A5,2011,320258.66,Diesel,Coupe,2.0,170.0
+1262,30297.0,Hyundai,Tucson,2020,20917.0,Diesel,SUV,1.6,116.0
+1263,8990.0,Volkswagen,Up!,2013,62545.38976,Petrol,Hatchback,1.0,75.0
+1264,10900.0,Toyota,Verso,2013,159309.0,Diesel,MPV,2.0,126.0
+1265,20900.0,Volkswagen,Sharan,2015,128747.0,Diesel,MPV,2.0,
+1266,4900.0,Hyundai,ix20,2010,128747.0,Diesel,MPV,1.4,
+1267,2900.0,Opel,Zafira,2008,177027.0,Diesel,MPV,1.8,
+1268,35168.0,Dacia,Jogger,2022,0.0,Petrol,Crossover,1.0,110.0
+1269,10800.0,KIA,Sorento,2011,225308.0,Diesel,MPV,2.0,
+1270,42995.0,BMW,2-Series,2021,12558.0,Petrol,Coupe,1.5,140.0
+1271,6900.0,Opel,Zafira,2013,107826.0,Diesel,MPV,1.7,
+1272,4900.0,Honda,Stream,2008,176004.0,Petrol,MPV,1.8,
+1273,9900.0,Toyota,Verso,2014,199005.0,Diesel,MPV,1.6,112.0
+1275,19000.0,BMW,5-Series,2014,277000.0,Diesel,Saloon,2.0,184.0
+1276,23000.0,Audi,A6,2015,215973.428,Diesel,Saloon,2.0,
+1277,8750.0,SEAT,Ibiza,2014,83612.0,Diesel,MPV,1.2,75.0
+1278,9750.0,Nissan,Juke,2014,160000.0,Petrol,SUV,1.6,117.0
+1279,19900.0,KIA,Optima,2018,96560.0,Diesel,Estate,1.7,141.0
+1280,24995.0,Skoda,Karoq,2018,81000.0,Petrol,Estate,1.0,115.0
+1281,29495.0,Skoda,Karoq,2021,31583.2975,Diesel,SUV,2.0,115.0
+1282,16900.0,Ford,Galaxy,2014,144841.0,Diesel,MPV,2.0,140.0
+1283,39950.0,Volvo,V90,2019,55000.0,Diesel,Estate,2.0,150.0
+1284,,BMW,4-Series,2017,81745.0,Diesel,Coupe,2.0,
+1285,22900.0,Mitsubishi,Outlander,2015,93342.0,Diesel,SUV,2.0,
+1286,15750.0,Hyundai,Tucson,2016,172000.0,Diesel,SUV,1.7,115.0
+1288,20950.0,Audi,A3,2018,162543.34,Diesel,Hatchback,1.6,
+1289,13950.0,Volvo,S60,2015,177000.0,Diesel,Saloon,2.0,181.0
+1290,11950.0,Hyundai,i30,2016,120000.0,Diesel,Hatchback,1.4,90.0
+1291,29320.0,Renault,Captur,2022,0.0,Petrol,Hatchback,1.0,100.0
+1292,22450.0,Hyundai,Kona,2019,25742.0,Petrol,MPV,1.0,120.0
+1293,8700.0,Ford,Focus,2013,195.0,Diesel,Hatchback,1.6,95.0
+1294,1500.0,Toyota,Starlet,1989,82000.0,Petrol,Hatchback,1.0,
+1295,27950.0,Audi,Q2,2019,54256.0,Petrol,Estate,1.0,116.0
+1297,10822.5,Mitsubishi,L200,2014,133092.418,Diesel,Pick Up,2.5,
+1299,4950.0,Volkswagen,Passat,2011,262000.0,Diesel,Saloon,1.6,105.0
+1300,18995.0,Ford,Focus,2018,121096.3976,Diesel,Hatchback,1.5,
+1301,4500.0,Hyundai,Tucson,2010,238000.0,Diesel,SUV,2.0,
+1302,10000.0,Land Rover,Discovery,2011,196.33948,Diesel,SUV,3.0,
+1303,6450.0,Mitsubishi,L200,2009,340708.5434,Diesel,Crew Cab,2.5,
+1304,10450.0,Hyundai,i10,2018,120000.0,Petrol,Hatchback,1.0,65.0
+1305,38410.0,Citroen,Grand C4 Spacetourer,2022,0.0,Diesel,MPV,1.5,
+1307,10500.0,Renault,Megane,2016,160000.0,Diesel,Hatchback,1.5,95.0
+1308,4500.0,Ford,Focus,2010,119.0,Diesel,Hatchback,1.6,
+1309,16490.0,Nissan,Micra,2019,45616.0,Petrol,Hatchback,1.0,100.0
+1310,45900.0,Ford,Kuga,2022,5.0,Hybrid,Hatchback,2.5,190.0
+1311,13004.0,Renault,Kangoo,2019,83873.0,Diesel,Van,1.5,
+1312,3449.0,Toyota,Corolla,2006,231072.0,Petrol,Hatchback,1.4,
+1313,17950.0,Mercedes,A-Class,2014,88788.89714,Diesel,Hatchback,1.5,90.0
+1314,4950.0,Vauxhall,Astra,2010,212798.2002,Petrol,Hatchback,1.6,
+1315,70.0,Ford,Escort,1978,,Petrol,Coupe,,
+1316,11995.0,Renault,Scenic,2016,135000.0,Diesel,MPV,1.5,110.0
+1317,14495.0,Opel,Zafira Tourer,2015,63767.0,Diesel,MPV,2.0,101.0
+1318,10950.0,Volkswagen,Caddy,2016,258000.0,Diesel,Van,2.0,
+1319,14950.0,Citroen,C4 Picasso,2015,178000.0,Diesel,MPV,1.6,90.0
+1321,11980.0,Toyota,Hilux,2010,199558.16,Diesel,Pick Up,2.5,
+1322,8950.0,Peugeot,508,2012,96560.4,Diesel,Saloon,1.6,112.0
+1323,2450.0,Toyota,Yaris,2003,114263.14,Petrol,Hatchback,1.0,
+1324,10950.0,Opel,Insignia,2015,122000.0,Diesel,Saloon,2.0,170.0
+1326,12450.0,Nissan,Other,2019,80467.0,Petrol,Van,1.0,
+1327,89999.0,Land Rover,Range Rover,2020,33796.14,Petrol Plug-in Hybrid,SUV,2.0,
+1328,10000.0,Toyota,Other,1996,138000.0,Diesel,Estate,3.0,
+1330,10499.0,Toyota,Prius,2013,143000.0,Petrol Hybrid,Hatchback,1.8,136.0
+1331,14950.0,Citroen,C4,2017,102000.0,Diesel,Hatchback,1.6,92.0
+1332,9950.0,Toyota,Verso,2012,225000.0,Diesel,MPV,2.0,126.0
+1333,10900.0,Toyota,Corolla,2014,140012.58,Petrol Hybrid,Estate,1.5,110.0
+1335,21950.0,Nissan,X-Trail,2016,201167.5,Diesel,SUV,1.6,130.0
+1336,15500.0,Volkswagen,Golf,2016,212432.88,Diesel,Hatchback,1.6,105.0
+1337,29249.0,Dacia,Jogger,2022,0.0,Petrol,Crossover,1.0,110.0
+1338,4999.0,Ford,C-MAX,2011,283243.84,Diesel,MPV,1.6,95.0
+1339,33735.0,Nissan,Leaf,2023,10.0,Electric,Hatchback,,
+1340,11950.0,Ford,Transit,2017,161333.0,Diesel,Van,1.5,
+1341,20995.0,Nissan,Qashqai,2018,97043.202,Diesel,SUV,1.5,
+1342,4750.0,Renault,Clio,2012,84280.0,Ethanol Petrol,Hatchback,1.1,75.0
+1343,14500.0,Toyota,RAV4,2014,160000.0,Diesel,SUV,2.0,124.0
+1344,3999.0,Nissan,Qashqai,2010,209214.2,Diesel,Hatchback,1.5,
+1345,4495.0,Honda,Accord,2009,283243.84,Diesel,Saloon,2.2,
+1346,23950.0,BMW,5-Series,2016,182000.0,Diesel,Saloon,2.0,190.0
+1348,14950.0,Volkswagen,Passat,2015,209214.2,Diesel,Saloon,1.6,120.0
+1349,5250.0,Volkswagen,Passat,2010,215651.56,Diesel,Saloon,2.0,
+1350,42950.0,Volvo,XC90,2016,193120.8,Diesel,SUV,2.0,190.0
+1351,24950.0,Audi,A4,2018,156105.98,Diesel,Saloon,2.0,122.0
+1352,19831.5,Audi,A6,2015,118146.4774,Diesel,Saloon,2.0,
+1353,5950.0,Ford,Focus,2011,231744.96,Diesel,Hatchback,2.0,115.0
+1354,29000.0,Mercedes,E-Class,2017,68000.0,Diesel,Saloon,2.0,194.0
+1355,10500.0,Ford,Fiesta,2015,120700.5,Petrol,Hatchback,1.2,
+1356,23945.0,Honda,HR-V,2017,93000.0,Diesel,SUV,1.6,
+1357,11500.0,Hyundai,i40,2012,148059.28,Diesel,Estate,1.7,136.0
+1359,5000.0,Volkswagen,Passat,2010,360000.0,Diesel,Saloon,1.6,
+1360,55750.0,Ford,S-MAX,2022,0.0,Hybrid,MPV,2.5,
+1361,43995.0,Toyota,Landcruiser,2020,26549.0,Diesel,Van,2.8,
+1362,8495.0,Audi,TT,2009,265000.0,Diesel,Coupe,2.0,
+1363,12500.0,Toyota,Auris,2014,160000.0,Diesel,Hatchback,1.4,90.0
+1364,7450.0,Opel,Insignia,2014,188000.0,Diesel,Saloon,2.0,140.0
+1365,24950.0,Toyota,C-HR,2019,66787.61,Petrol Hybrid,Hatchback,1.8,122.0
+1366,5800.0,Peugeot,5008,2010,209620.0,Diesel,MPV,1.6,
+1367,10750.0,Mazda,6,2015,250000.0,Diesel,Saloon,2.2,150.0
+1368,12500.0,Ford,Transit Custom,2016,166000.0,Diesel,Van,2.2,
+1369,34950.0,Renault,Zoe,2022,9000.0,Electric,Hatchback,,134.0
+1370,7750.0,Volkswagen,CC,2010,177027.4,Diesel,Coupe,2.0,
+1371,16000.0,Mitsubishi,Outlander,2014,193120.8,Diesel,SUV,2.3,150.0
+1372,28900.0,Volkswagen,Arteon,2018,71501.0,Petrol,Hatchback,1.5,150.0
+1373,13795.0,Toyota,Corolla,2015,161500.0,Diesel,Saloon,1.4,90.0
+1374,8950.0,Opel,Insignia,2015,134700.0,Diesel,Saloon,2.0,170.0
+1381,8775.0,Porsche,Boxster,2006,154496.64,Petrol,Coupe,3.4,
+1382,6500.0,KIA,RIO,2013,289681.2,Petrol,Hatchback,1.4,89.0
+1385,4950.0,Volkswagen,Golf,2008,275197.14,Diesel,Hatchback,1.9,
+1386,29950.0,Mercedes,B-Class,2018,41000.0,Diesel,MPV,2.1,136.0
+1387,9500.0,Nissan,Qashqai,2013,223698.26,Diesel,Hatchback,1.5,110.0
+1388,12600.0,Volkswagen,Crafter,2016,258749.6852,Diesel,Van,2.0,
+1389,5950.0,Nissan,Qashqai,2010,171039.0,Diesel,Hatchback,1.5,
+1390,69995.0,Audi,Q7,2018,69943.0,Diesel,SUV,3.0,218.0
+1391,24950.0,Peugeot,3008,2018,105000.0,Petrol,MPV,1.2,130.0
+1392,28250.0,Opel,Mokka,2022,10.0,Petrol,SUV,1.2,
+1393,2750.0,Daihatsu,Sirion,2009,123655.0,Petrol,Hatchback,1.0,
+1394,33000.0,Opel,Astra,2022,0.0,Petrol,Hatchback,1.2,
+1395,26250.0,Opel,Grandland X,2019,51000.0,Diesel,MPV,1.5,130.0
+1396,31750.0,KIA,Sportage,2019,88505.6533,Diesel,SUV,1.6,
+1397,,Opel,Other,2022,0.0,Electric,Hatchback,,
+1399,6500.0,Ford,Focus,2012,260000.0,Diesel,Hatchback,1.6,95.0
+1400,25000.0,Nissan,NV300,2018,86239.0,Diesel,Crew Cab,1.6,
+1401,13950.0,Ford,Focus,2016,122000.0,Diesel,Hatchback,1.5,120.0
+1402,17500.0,Mercedes,Sprinter,2017,,Diesel,Van,2.1,
+1403,3000.0,Peugeot,508,2011,340000.0,Diesel,Saloon,1.6,112.0
+1406,16495.0,Nissan,Qashqai,2015,138371.0,Diesel,Hatchback,1.5,110.0
+1407,5595.0,Vauxhall,Zafira,2013,203259.642,Diesel,MPV,1.7,
+1409,9500.0,Audi,A6,2011,205190.85,Diesel,Saloon,2.0,136.0
+1410,32995.0,Mercedes,CLS-Class,2016,59802.0,Diesel,Coupe,2.1,170.0
+1411,2950.0,Ford,Transit,2011,260.0,Diesel,Van,2.4,
+1412,12000.0,BMW,5-Series,2013,252666.38,Diesel,Saloon,2.0,184.0
+1413,4800.0,Mercedes,E-Class,2000,166666.4691,Petrol,Saloon,2.8,
+1414,7600.0,Mazda,6,2013,172.0,Diesel,Saloon,2.2,150.0
+1415,2950.0,Hyundai,i10,2010,,Petrol,Hatchback,1.2,
+1416,16500.0,Ford,Focus,2017,151000.0,Diesel,Hatchback,1.5,120.0
+1417,13999.0,Hyundai,ix35,2015,136793.9,Diesel,SUV,1.7,115.0
+1418,16990.0,Volkswagen,Touran,2014,68001.0,Petrol,MPV,1.4,
+1419,26075.0,Hyundai,Bayon,2023,0.0,Petrol,Hatchback,1.2,
+1420,43.0,Opel,Movano,2022,,Diesel,Van,2.2,
+1422,12950.0,Volkswagen,Polo,2014,181050.75,Petrol,Hatchback,1.2,90.0
+1425,6950.0,Volkswagen,Caddy,2012,245533.7851,Diesel,MPV,1.6,
+1426,17500.0,Mitsubishi,Outlander,2015,207604.86,Petrol Plug-in Hybrid,SUV,2.0,203.0
+1427,17495.0,Opel,Corsa,2020,26501.0,Petrol,Hatchback,1.2,75.0
+1428,16500.0,BMW,5-Series,2014,148000.0,Diesel,Saloon,2.0,184.0
+1429,17950.0,Nissan,X-Trail,2016,119895.83,Diesel,SUV,1.6,130.0
+1431,18995.0,Renault,Megane,2019,69000.0,Petrol,Saloon,1.3,140.0
+1435,3200.0,Ford,Fusion,2008,177712.0,Diesel,Hatchback,1.4,
+1436,13995.0,Volkswagen,Sharan,2013,233354.3,Diesel,MPV,2.0,115.0
+1437,3950.0,Ford,Mondeo,2011,306333.041,Diesel,Hatchback,2.0,140.0
+1438,2000.0,Mercedes,S-Class,2003,234963.64,Diesel,Saloon,3.2,
+1440,28995.0,Ford,Focus,2020,31000.0,Diesel,Hatchback,1.5,
+1441,29249.0,Dacia,Jogger,2022,0.0,Petrol,Crossover,1.0,110.0
+1442,43.0,Opel,Movano,2022,,Diesel,Van,2.2,
+1443,17995.0,Volvo,S60,2017,149237.0,Diesel,Saloon,2.0,150.0
+1444,32000.0,Peugeot,RIFTER,2022,0.0,Diesel,MPV,1.5,
+1445,22700.0,Mercedes,C-Class,2015,233354.3,Diesel,Estate,2.1,170.0
+1446,7495.0,Volkswagen,Polo,2011,180000.0,Petrol,Hatchback,1.2,60.0
+1447,22500.0,Skoda,Octavia,2019,143874.996,Diesel,Hatchback,1.6,
+1450,1950.0,Vauxhall,Insignia,2009,303338.0592,Diesel,Hatchback,2.0,
+1451,8450.0,Volkswagen,Golf,2011,193.1208,Diesel,Hatchback,1.6,105.0
+1452,35490.0,Nissan,X-Trail,2019,75645.0,Diesel,SUV,1.6,
+1453,3950.0,Renault,Megane,2009,105323.2563,Diesel,Hatchback,1.5,
+1454,13900.0,Nissan,Juke,2017,99458.0,Petrol,SUV,1.2,116.0
+1455,2250.0,Ford,Focus,2009,304165.26,Diesel,Hatchback,1.8,
+1457,15950.0,Mercedes,Sprinter,2017,260713.08,Diesel,Van,2.1,
+1458,2632.5,Volkswagen,Golf,2009,270369.12,Diesel,Hatchback,2.0,
+1459,2350.0,Lexus,GS,2007,328000.0,Petrol Hybrid,Saloon,3.5,
+1460,22750.0,KIA,Sportage,2017,140173.514,Diesel,SUV,1.7,
+1464,8500.0,Audi,A5,2010,227000.0,Diesel,Coupe,2.0,
+1465,52000.0,Audi,A6,2020,48500.0,Diesel,Saloon,2.0,204.0
+1470,21100.0,Ford,Kuga,2018,124000.0,Diesel,SUV,1.5,
+1471,11950.0,Fiat,Doblo,2018,136117.0,Diesel,MPV,1.6,
+1472,14945.0,Renault,Clio,2018,23000.0,Petrol,Hatchback,1.1,75.0
+1473,27995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.3,
+1474,17000.0,Hyundai,i10,2022,7650.0,Petrol,Hatchback,1.0,67.0
+1475,13950.0,Renault,Trafic,2018,142596.0,Diesel,Van,1.6,
+1477,4500.0,Mini,Cooper,2010,230135.62,Diesel,Cabriolet,1.6,
+1479,3450.0,Opel,Zafira,2010,206120.0,Diesel,MPV,1.7,
+1480,22760.0,Renault,Master,2020,107486.0,Diesel,Van,2.3,
+1481,15800.0,Mini,Countryman,2012,133048.0,Diesel,Hatchback,1.6,
+1482,23950.0,Land Rover,Range Rover Evoque,2014,118286.49,Diesel,SUV,2.2,150.0
+1483,12500.0,Volkswagen,Golf,2014,150000.0,Diesel,Hatchback,2.0,150.0
+1484,17000.0,Audi,A7,2012,119116.0,Diesel,Hatchback,3.0,204.0
+1485,94995.0,BMW,M5,2018,76000.0,Petrol,Saloon,4.4,560.0
+1486,4950.0,Mercedes,Other,2011,254547.6985,Diesel,Van,2.1,
+1487,37950.0,Skoda,Superb,2020,39300.0,Diesel,Saloon,2.0,150.0
+1488,44750.0,Audi,A7,2018,86013.0,Diesel,Hatchback,3.0,218.0
+1489,3000.0,Audi,A4,2002,44510.0,Petrol,Saloon,2.0,
+1490,21999.0,Skoda,Superb,2016,112400.0,Diesel,Hatchback,2.0,150.0
+1492,69555.0,Volkswagen,ID.4,2023,,Electric,SUV,,
+1493,20445.0,Renault,Clio,2022,10629.0,Petrol,Hatchback,1.0,90.0
+1494,12499.0,Volkswagen,Golf,2014,166999.6025,Petrol,Hatchback,1.4,140.0
+1495,34950.0,Ford,Kuga,2020,25805.0,Diesel,SUV,1.5,
+1496,26900.0,Nissan,Qashqai,2019,28162.0,Petrol,MPV,1.3,160.0
+1497,19900.0,Ford,C-MAX,2018,49000.0,Diesel,MPV,1.5,95.0
+1498,115000.0,Audi,SQ7,2020,62500.0,Diesel,SUV,4.0,435.0
+1500,19960.0,Renault,Megane,2019,60000.0,Petrol,Hatchback,1.3,140.0
+1501,32995.0,Jaguar,F-Pace,2017,161634.0629,Diesel,SUV,2.0,180.0
+1502,8300.0,Mitsubishi,Space Star,2015,61000.0,Petrol,Hatchback,1.2,80.0
+1503,4200.0,Ford,S-MAX,2010,110000.0,Diesel,MPV,1.8,
+1504,29500.0,Ford,Transit,2022,300.0,Diesel,Van,2.0,
+1505,3000.0,Citroen,C4,2009,235429.0,Diesel,Hatchback,1.6,
+1506,25950.0,Citroen,Dispatch,2021,6025.0,Diesel,Van,2.0,
+1507,11500.0,Fiat,500,2016,28000.0,Petrol,Hatchback,1.2,69.0
+1508,9350.0,Ford,Courier,2017,193120.8,Diesel,Van,1.6,
+1509,47950.0,Audi,Q3,2021,22598.0,Diesel,SUV,2.0,150.0
+1510,38950.0,BMW,5-Series,2018,116940.0,Diesel,Saloon,2.0,184.0
+1511,57950.0,BMW,5-Series,2021,50480.0,Diesel,Saloon,2.0,190.0
+1512,22495.0,BMW,5-Series,2016,122000.0,Diesel,Saloon,2.0,150.0
+1513,15500.0,Volkswagen,Scirocco,2015,215973.428,Diesel,Coupe,2.0,150.0
+1514,17000.0,Nissan,Juke,2019,40000.0,Diesel,SUV,1.5,110.0
+1515,71200.0,Volkswagen,ID.4,2022,100.0,Electric,Estate,,204.0
+1516,6950.0,Honda,Fit,2011,110150.0,Petrol Hybrid,Hatchback,1.3,
+1517,17990.0,Audi,A3,2015,88513.7,Petrol,Hatchback,1.4,125.0
+1518,12490.0,Volkswagen,Golf,2013,120700.5,Petrol,Hatchback,1.4,85.0
+1519,12500.0,Hyundai,ix35,2014,183112.0,Diesel,SUV,1.7,115.0
+1520,12990.0,Honda,Fit,2016,99779.08,Petrol Hybrid,Hatchback,1.5,
+1521,31950.0,BMW,5-Series,2017,160129.33,Petrol Plug-in Hybrid,Saloon,2.0,252.0
+1522,33950.0,Renault,Koleos,2019,48631.0,Diesel,SUV,2.0,190.0
+1523,13005.0,Volkswagen,Golf,2018,162000.0,Diesel,Van,1.6,
+1524,1100.0,Toyota,Corolla,2005,236000.0,Petrol,Saloon,1.4,
+1525,14490.0,Volkswagen,Polo,2015,62764.26,Petrol,Hatchback,1.2,90.0
+1526,10790.0,Volkswagen,Polo,2013,78857.66,Petrol,Hatchback,1.2,60.0
+1528,16000.0,Toyota,Landcruiser,2008,306461.7882,Diesel,SUV,3.0,
+1529,17450.0,Skoda,Octavia,2017,95667.0,Diesel,Estate,1.6,110.0
+1530,14950.0,Volkswagen,Golf,2014,59213.0,Petrol,Hatchback,1.2,105.0
+1531,22750.0,Ford,Focus,2019,78857.66,Diesel,Hatchback,1.5,120.0
+1532,61450.0,Tesla,MODEL 3,2022,5250.0,Electric,Saloon,,283.0
+1533,27000.0,Renault,Captur,2022,10.0,Petrol,Hatchback,1.0,90.0
+1534,15000.0,Volkswagen,Caddy,2017,89000.0,Diesel,MPV,2.0,102.0
+1535,20899.0,KIA,Stonic,2019,85295.02,Diesel,Hatchback,1.6,
+1536,52900.0,BMW,X3,2019,68000.0,Diesel,SUV,2.0,190.0
+1537,10950.0,Opel,Insignia,2017,274000.0,Diesel,Saloon,1.6,136.0
+1538,20000.0,Volkswagen,Golf,2016,159324.66,Diesel,Hatchback,2.0,184.0
+1539,6950.0,Renault,Kangoo,2016,140000.0,Diesel,Van,1.5,
+1540,15895.0,Toyota,Aygo,2021,36522.36196,Petrol,Hatchback,1.0,
+1541,22950.0,Honda,Civic,2018,120000.0,Petrol,Hatchback,1.0,
+1542,23000.0,Peugeot,Partner,2018,44256.85,Diesel,MPV,1.6,100.0
+1543,17888.0,Hyundai,ix20,2018,36548.0,Petrol,MPV,1.4,90.0
+1544,6999.0,Audi,A4,2011,374976.22,Diesel,Estate,2.0,120.0
+1545,3500.0,Ford,Transit,2011,269000.0,Diesel,Van,1.8,
+1546,5500.0,Volkswagen,Up!,2012,118670.0,Petrol,Hatchback,1.0,75.0
+1547,9750.0,Lexus,IS,2012,162543.34,Diesel,Saloon,2.2,150.0
+1548,16500.0,Hyundai,Tucson,2015,128747.2,Diesel,SUV,1.7,115.0
+1550,1950.0,Nissan,Qashqai,2007,299000.0,Petrol,Hatchback,1.6,
+1551,24690.0,Volkswagen,Polo,2023,19.0,Petrol,Hatchback,1.0,
+1552,3900.0,Volkswagen,Other,2006,390000.0,Diesel,Van,2.5,
+1553,2200.0,Volkswagen,Golf,2008,257.4944,Diesel,Hatchback,1.9,
+1555,38550.0,Volkswagen,Golf,2022,100.0,Petrol,Estate,1.5,130.0
+1556,31063.0,Renault,Captur,2022,0.0,Petrol,Crossover,1.0,90.0
+1557,19449.0,Renault,Kadjar,2018,69947.0,Diesel,SUV,1.5,110.0
+1558,20950.0,Mercedes,Sprinter,2018,202776.84,Diesel,Van,2.1,
+1559,20500.0,Peugeot,Partner,2018,32991.47,Diesel,MPV,1.6,
+1560,27950.0,Volkswagen,Taigo,2022,9688.0,Petrol,SUV,1.0,95.0
+1561,44800.0,BMW,M3,2016,37014.82,Petrol,Saloon,3.0,
+1562,32000.0,Peugeot,RIFTER,2022,0.0,Diesel,MPV,1.5,
+1563,15500.0,Opel,Zafira,2016,157453.0,Diesel,MPV,1.6,101.0
+1565,8500.0,Nissan,Juke,2011,120000.0,Petrol,SUV,1.6,117.0
+1566,9950.0,Hyundai,ix35,2012,124003.0,Diesel,SUV,2.0,184.0
+1567,14950.0,Nissan,Qashqai,2015,64000.0,Petrol,MPV,1.2,115.0
+1568,6950.0,Nissan,Qashqai,2012,201168.0,Diesel,MPV,1.6,130.0
+1569,10750.0,Toyota,Yaris,2016,170003.0,Petrol,Hatchback,1.0,69.0
+1570,47950.0,BMW,X3,2018,43000.0,Diesel,Estate,2.0,190.0
+1571,55950.0,Audi,Q7,2017,174003.0,Diesel,Estate,3.0,218.0
+1572,21950.0,Mercedes,CL-Class,2016,170590.0,Diesel,Saloon,2.1,
+1573,12450.0,Peugeot,208,2015,34001.0,Petrol,Hatchback,1.2,
+1574,16995.0,Nissan,Qashqai,2015,137000.0,Diesel,Hatchback,1.5,110.0
+1575,8888.0,KIA,Ceed,2013,178637.0,Diesel,Hatchback,1.6,128.0
+1576,12450.0,Peugeot,208,2015,66001.0,Petrol,Hatchback,1.2,
+1577,2200.0,Suzuki,Jimny,2003,249447.7,Petrol,SUV,1.3,
+1578,650.0,Renault,Clio,2007,193008.0,Petrol,Hatchback,1.1,
+1579,12950.0,BMW,1-Series,2013,111003.0,Petrol,Hatchback,1.6,
+1580,8500.0,Toyota,Landcruiser,2006,217150.0,Diesel,SUV,3.0,
+1581,15250.0,Toyota,Prius,2015,128002.0,Hybrid,Hatchback,1.8,
+1582,13950.0,SEAT,Leon,2014,171004.0,Diesel,Hatchback,2.0,150.0
+1583,13450.0,Volkswagen,Touran,2013,82001.0,Petrol,MPV,1.4,
+1585,13450.0,Volkswagen,Touran,2013,86002.0,Petrol,MPV,1.2,
+1586,19950.0,Mercedes,A-Class,2017,167003.0,Diesel,Hatchback,1.5,109.0
+1587,65950.0,Audi,S8,2016,56000.0,Petrol,Saloon,4.0,
+1588,30750.0,Mercedes,E-Class,2017,45061.52,Diesel,Saloon,2.0,194.0
+1589,4450.0,Toyota,Avensis,2010,225005.0,Diesel,Saloon,2.0,
+1590,11950.0,Skoda,Octavia,2013,138788.0,Diesel,Hatchback,2.0,150.0
+1592,16500.0,Volkswagen,Golf,2017,133575.22,Diesel,Hatchback,1.6,115.0
+1593,10950.0,Toyota,Avensis,2016,269006.0,Diesel,Saloon,1.6,112.0
+1594,41950.0,Land Rover,Discovery,2017,177003.0,Diesel,Estate,2.0,180.0
+1595,9950.0,Land Rover,Range Rover,2008,243006.0,Diesel,Estate,3.6,
+1596,13945.0,Skoda,Superb,2014,123431.55,Diesel,Saloon,1.6,105.0
+1597,26000.0,Peugeot,Partner,2017,23335.43,Diesel,MPV,1.6,
+1598,13950.0,Audi,A3,2014,187004.0,Petrol,Hatchback,1.2,105.0
+1599,9950.0,Nissan,Pulsar,2015,95001.0,Petrol,Hatchback,1.2,115.0
+1600,6950.0,Vauxhall,Astra,2012,161003.0,Diesel,Hatchback,1.7,
+1601,16056.0,Ford,Ranger,2014,180246.08,Diesel,Pick Up,2.2,
+1602,4650.0,Ford,Fiesta,2009,121811.0,Petrol,Hatchback,1.2,
+1603,9995.0,Ford,Focus,2013,190000.0,Diesel,Hatchback,1.6,95.0
+1604,31000.0,Audi,Q5,2016,101500.0,Diesel,SUV,2.0,190.0
+1605,6500.0,Fiat,Doblo,2010,217404.0,Diesel,MPV,1.6,
+1606,9950.0,Volkswagen,Polo,2012,75329.0,Petrol,Hatchback,1.2,60.0
+1608,22078.0,Mercedes,V-Class,2019,126927.0,Diesel,Van,1.6,
+1609,7250.0,Volkswagen,Passat,2012,,Diesel,Saloon,1.6,105.0
+1610,23950.0,SEAT,Ateca,2019,69750.0,Petrol,SUV,1.0,115.0
+1611,1350.0,Volkswagen,Golf,2007,346077.0,Petrol,Hatchback,1.4,
+1612,20450.0,Hyundai,Tucson,2016,72420.3,Diesel,SUV,1.7,115.0
+1613,35168.0,Renault,Captur,2022,0.0,Petrol,Crossover,1.0,90.0
+1614,3950.0,Audi,A4,2008,234000.0,Diesel,Estate,2.0,
+1615,29750.0,Peugeot,5008,2018,92800.0,Petrol,MPV,1.2,130.0
+1616,8190.0,Mercedes,E-Class,2013,165808.6909,Diesel,Saloon,2.1,
+1617,9150.0,Volkswagen,Polo,2012,137237.0,Petrol,Hatchback,1.2,105.0
+1618,30550.0,Nissan,Juke,2023,10.0,Petrol,SUV,1.0,
+1619,9949.0,Citroen,Berlingo,2016,223252.0,Diesel,Van,1.6,
+1620,8950.0,Volkswagen,Golf,2012,265541.1,Diesel,Hatchback,1.6,105.0
+1621,13950.0,Honda,Shuttle,2017,156003.0,Hybrid,MPV,1.5,
+1622,21490.0,Toyota,Prius,2018,89585.52044,Hybrid,Hatchback,1.8,122.0
+1623,1500.0,Ford,Fiesta,2004,156427.848,Petrol,Hatchback,1.2,
+1624,1450.0,Nissan,Almera,2005,198129.0,Petrol,Hatchback,1.5,
+1625,11200.0,Nissan,Juke,2013,45061.52,Petrol,SUV,1.6,117.0
+1627,27900.0,Nissan,Qashqai,2019,72806.5416,Diesel,SUV,1.5,
+1628,11990.0,KIA,Sportage,2014,240006.0,Diesel,MPV,1.7,115.0
+1629,45480.0,KIA,Niro,2022,6.0,Electric,MPV,,
+1632,7750.0,Audi,A3,2011,225307.6,Diesel,Hatchback,1.6,105.0
+1633,159900.0,BMW,M4,2022,4000.0,Petrol,Coupe,3.0,431.0
+1634,22995.0,Audi,Q5,2016,275000.0,Diesel,SUV,2.0,150.0
+1635,899.0,KIA,Picanto,2007,62417.0,Petrol,Hatchback,1.0,
+1636,24995.0,Nissan,Qashqai,2018,85423.0,Petrol,Hatchback,1.2,115.0
+1637,47500.0,Skoda,Kodiaq,2020,50927.5643,Diesel,SUV,2.0,150.0
+1638,34400.0,Volkswagen,Golf,2022,100.0,Petrol,Estate,1.5,130.0
+1640,595.0,Ford,Focus,2007,163000.0,Petrol,Saloon,1.4,
+1641,1650.0,Volkswagen,Golf,2004,109000.0,Petrol,Hatchback,1.4,
+1642,38495.0,BMW,5-Series,2018,69201.62,Petrol Plug-in Hybrid,Saloon,2.0,
+1643,10750.0,Renault,Master,2016,,Diesel,Van,2.3,
+1644,17000.0,Renault,Trafic,2019,104607.1,Diesel,MPV,1.6,
+1645,13950.0,BMW,3-Series,2008,84600.0,Petrol,Cabriolet,3.0,
+1646,30.0,Toyota,Landcruiser,2005,,Diesel,SUV,3.0,
+1647,19995.0,Nissan,Micra,2021,3862.0,Petrol,Hatchback,1.0,100.0
+1648,30995.0,Nissan,Qashqai,2020,30607.0,Petrol,MPV,1.3,160.0
+1649,18950.0,Renault,Master,2017,125000.0,Diesel,MPV,2.3,
+1650,21490.0,Toyota,Prius,2018,104227.2958,Hybrid,Hatchback,1.8,122.0
+1651,7500.0,Volkswagen,Passat,2013,254275.72,Diesel,Estate,1.6,105.0
+1652,49950.0,Audi,Q3,2022,24318.0,Diesel,SUV,2.0,150.0
+1654,71.0,Toyota,Hilux,2008,,Diesel,Crew Cab,2.5,
+1656,29499.0,Hyundai,Tucson,2017,36600.0,Diesel,SUV,1.7,115.0
+1657,15000.0,Volkswagen,Caddy,2017,89000.0,Diesel,MPV,2.0,102.0
+1658,8500.0,Toyota,Yaris,2015,128000.0,Petrol,Hatchback,1.0,69.0
+1661,,Skoda,Karoq,2022,,Diesel,Crossover,2.0,
+1662,20990.0,Renault,Clio,2021,11335.0,Petrol,Hatchback,1.0,100.0
+1663,35975.0,Volkswagen,Tiguan,2017,101780.0,Diesel,SUV,2.0,150.0
+1664,1800.0,Toyota,RAV4,2004,201972.17,Petrol,SUV,1.8,
+1665,18290.0,Citroen,Dispatch,2020,109200.0,Diesel,Van,1.5,
+1666,28950.0,Skoda,Octavia,2022,8000.0,Petrol,Saloon,1.0,110.0
+1667,35168.0,Renault,Captur,2022,0.0,Petrol,Crossover,1.0,90.0
+1668,34400.0,Volkswagen,Golf,2022,100.0,Petrol,Estate,1.5,130.0
+1670,3150.0,Vauxhall,Insignia,2012,,Diesel,Hatchback,2.0,
+1671,4000.0,Toyota,Hilux,2005,268759.78,Diesel,Pick Up,2.5,
+1673,33500.0,Toyota,Proace,2022,0.0,Diesel,Van,2.0,
+1674,,BMW,X1,2022,0.0,Diesel,Estate,2.0,148.0
+1675,10950.0,Honda,Fit,2015,137500.0,Petrol Hybrid,Hatchback,1.5,
+1679,9990.0,Volkswagen,Polo,2012,122002.0,Petrol,Hatchback,1.2,105.0
+1680,4500.0,Nissan,Qashqai,2011,240000.0,Diesel,Hatchback,1.5,106.0
+1682,24950.0,Volkswagen,Golf,2019,26319.0,Petrol,Hatchback,1.0,115.0
+1683,12950.0,Nissan,Note,2018,85600.0,Petrol,MPV,1.2,98.0
+1684,3500.0,Volkswagen,Passat,2010,337961.4,Diesel,Saloon,1.6,
+1685,1350.0,Ford,Mondeo,2008,315112.0,Diesel,Saloon,2.0,
+1686,22900.0,BMW,7-Series,2014,17900.0,Diesel,Saloon,3.0,258.0
+1687,43263.0,Audi,A3,2022,15.0,Petrol,Saloon,1.0,
+1688,17450.0,Nissan,Micra,2019,8176.0,Petrol,Hatchback,1.0,100.0
+1689,29995.0,Peugeot,RIFTER,2020,30522.0,Diesel,MPV,1.5,100.0
+1690,20900.0,Nissan,Navara,2017,195000.0,Diesel,Pick Up,2.3,
+1691,10995.0,BMW,5-Series,2012,248000.0,Diesel,Saloon,2.0,184.0
+1692,16900.0,BMW,2-Series,2015,83000.0,Diesel,Jeep,2.0,150.0
+1693,13950.0,BMW,5-Series,2015,268759.78,Diesel,Saloon,2.0,150.0
+1694,20900.0,BMW,5-Series,2016,159324.66,Diesel,Saloon,2.0,190.0
+1695,5900.0,Mercedes,C-Class,2008,242000.0,Petrol,Saloon,1.8,
+1696,59900.0,Bentley,Continental,2007,99000.0,Petrol,Cabriolet,6.0,
+1697,5995.0,Mercedes,CLK-Class,2007,147300.0,Petrol,Coupe,1.8,
+1698,99900.0,Land Rover,Range Rover,2021,24140.1,Petrol Plug-in Hybrid,SUV,2.0,404.0
+1699,14900.0,BMW,7-Series,2009,217260.9,Diesel,Saloon,3.0,
+1700,9950.0,Suzuki,Swift,2013,105000.0,Petrol,Hatchback,1.2,
+1701,32950.0,Hyundai,Tucson,2019,,Diesel,SUV,1.6,115.0
+1702,24995.0,BMW,1-Series,2019,143231.26,Diesel,Hatchback,1.5,116.0
+1703,,Vauxhall,Vivaro,2015,138932.7129,Diesel,Van,1.6,
+1704,,Volkswagen,T-Roc,2022,11.0,Diesel,SUV,2.0,116.0
+1705,,Ford,Kuga,2019,,Diesel,SUV,1.5,120.0
+1706,24900.0,Land Rover,Range Rover,2010,194730.14,Diesel,SUV,3.6,
+1707,10900.0,BMW,6-Series,2008,178475.806,Petrol,Coupe,3.0,
+1708,6995.0,Opel,Astra,2012,194000.0,Diesel,Hatchback,1.7,110.0
+1709,12900.0,Volvo,S60,2014,175418.06,Diesel,Saloon,2.0,181.0
+1711,14995.0,Volvo,S80,2014,131965.88,Diesel,Saloon,2.0,181.0
+1712,14900.0,BMW,7-Series,2011,255885.06,Diesel,Saloon,3.0,
+1713,3995.0,Nissan,Qashqai,2009,321381.9793,Diesel,Hatchback,1.5,
+1714,28900.0,Audi,A3,2018,68000.0,Diesel,Saloon,1.6,116.0
+1715,9250.0,Volkswagen,Scirocco,2010,124735.1154,Petrol,Coupe,1.4,
+1716,26900.0,Land Rover,Discovery Sport,2016,148000.0,Diesel,SUV,2.0,150.0
+1717,11950.0,Toyota,Landcruiser,2002,370148.2,Diesel,SUV,3.0,
+1718,21700.0,Skoda,Superb,2016,109862.0,Diesel,Saloon,2.0,150.0
+1720,44900.0,BMW,M3,2013,62764.26,Petrol,Cabriolet,4.0,420.0
+1721,8900.0,Land Rover,Discovery,2007,344000.0,Diesel,SUV,2.7,
+1722,5900.0,BMW,3-Series,2008,159324.66,Petrol,Saloon,2.0,
+1723,12900.0,Mercedes,C-Class,2013,279000.0,Diesel,Coupe,2.1,170.0
+1725,2750.0,Renault,Grand Modus,2008,140500.0,Petrol,MPV,1.1,
+1726,20900.0,BMW,5-Series,2015,219000.0,Diesel,Saloon,2.0,190.0
+1727,2350.0,Ford,Fiesta,2008,205.0,Petrol,Hatchback,1.2,
+1728,6450.0,Honda,Civic,2010,136920.0,Petrol Hybrid,Saloon,1.3,
+1729,84900.0,Land Rover,Range Rover Sport,2019,89000.0,Petrol Plug-in Hybrid,SUV,2.0,404.0
+1730,102900.0,BMW,X5,2021,11000.0,Petrol Plug-in Hybrid,SUV,3.0,394.0
+1731,21995.0,Nissan,Qashqai,2016,118564.0,Diesel,Hatchback,1.6,130.0
+1732,102900.0,BMW,X5,2021,11000.0,Petrol Plug-in Hybrid,SUV,3.0,394.0
+1733,33900.0,BMW,5-Series,2018,140000.0,Diesel,Saloon,2.0,190.0
+1734,54400.0,Volkswagen,Tiguan,2022,100.0,Diesel,SUV,2.0,150.0
+1735,5000.0,Honda,Civic,1998,244000.0,Petrol,Hatchback,1.5,
+1736,19900.0,Toyota,Yaris,2019,56000.0,Petrol Hybrid,MPV,1.5,100.0
+1737,24900.0,BMW,5-Series,2017,255885.06,Diesel,Saloon,2.0,190.0
+1738,5995.0,Volvo,S40,2011,154000.0,Diesel,Saloon,1.6,115.0
+1739,2550.0,Vauxhall,Corsa,2009,269187.8644,Diesel,Hatchback,1.7,
+1740,32500.0,Mercedes,E-Class,2017,106136.0,Diesel,Saloon,2.0,194.0
+1741,9243.0,SEAT,Leon,2013,105000.0,Diesel,Hatchback,2.0,
+1742,9750.0,Toyota,Levin,1994,204000.0,Petrol,Coupe,1.6,
+1743,8999.0,Renault,Grand Scenic,2013,172000.0,Diesel,MPV,1.5,110.0
+1745,1750.0,Audi,A3,2005,300141.91,Petrol,Hatchback,1.6,
+1746,2750.0,Opel,Corsa,2007,167100.0,Petrol,Hatchback,1.2,
+1747,14850.0,Mini,ONE,2016,118000.0,Petrol,Hatchback,1.2,
+1748,27995.0,Volvo,V90,2017,111389.0,Diesel,Hatchback,2.0,
+1755,18495.0,Audi,A3,2016,118180.0,Petrol,Hatchback,1.4,125.0
+1756,35500.0,Audi,A5,2018,55289.0,Diesel,Coupe,2.0,190.0
+1757,12900.0,Ford,Fiesta,2016,51400.0,Petrol,Hatchback,1.0,65.0
+1758,15999.0,Volkswagen,Polo,2018,43452.18,Petrol,Hatchback,1.0,65.0
+1759,35168.0,Renault,Captur,2022,0.0,Petrol,Crossover,1.0,90.0
+1760,28950.0,Volkswagen,T-Roc,2020,28001.0,Petrol,SUV,1.0,115.0
+1761,,Volkswagen,Polo,2022,11.0,Petrol,Hatchback,1.0,95.0
+1762,26495.0,Peugeot,208,2022,8000.0,Petrol,Hatchback,1.2,101.0
+1763,10900.0,Mercedes,A-Class,2013,267000.0,Diesel,Hatchback,1.5,90.0
+1764,9000.0,Audi,A4,2013,292899.88,Diesel,Saloon,2.0,120.0
+1765,75495.0,BMW,X3,2023,,Hybrid,SUV,2.0,
+1767,,Peugeot,Partner,2016,116298.9551,Diesel,MPV,1.6,
+1768,29950.0,Audi,A1,2022,16538.0,Petrol,Hatchback,1.0,110.0
+1769,6950.0,Nissan,Qashqai,2012,188336.2322,Diesel,Hatchback,1.5,110.0
+1770,6000.0,Opel,Astra,2013,212000.0,Diesel,Hatchback,1.2,95.0
+1771,7650.0,Suzuki,Swift,2012,76000.0,Petrol,Hatchback,1.2,94.0
+1773,14950.0,BMW,1-Series,2013,69000.0,Petrol,Hatchback,1.6,
+1774,1000.0,Mercedes,E-Class,2004,347.61744,Diesel,Saloon,2.7,
+1775,5950.0,Volkswagen,Golf,2010,,Diesel,Hatchback,1.6,
+1776,2450.0,Renault,Trafic,2013,418.4284,Diesel,MPV,2.0,
+1778,20950.0,Skoda,SCALA,2020,39500.0,Petrol,Hatchback,1.0,116.0
+1779,1275.0,Ford,Focus,2006,228.52628,Petrol,Hatchback,1.4,
+1781,6450.0,BMW,5-Series,2010,263000.0,Diesel,Saloon,2.0,
+1782,16500.0,Nissan,Qashqai,2015,149668.62,Diesel,Hatchback,1.5,110.0
+1783,8899.0,Volkswagen,Polo,2012,93341.72,Petrol,Hatchback,1.2,
+1784,8799.0,Volkswagen,Golf,2011,80467.0,Petrol,Hatchback,1.2,
+1786,10799.0,Volkswagen,Golf,2013,91732.38,Petrol,Hatchback,1.2,
+1787,11199.0,Volkswagen,Golf,2013,25749.44,Petrol,Hatchback,1.2,
+1788,2500.0,Mitsubishi,Other,1993,,Diesel,Estate,2.5,
+1789,,BMW,X4,2022,,Diesel,SUV,2.0,
+1790,30950.0,Hyundai,Tucson,2020,101596.0,Diesel,SUV,1.6,115.0
+1791,6899.0,Volkswagen,Up!,2012,88513.7,Petrol,Hatchback,1.0,75.0
+1792,9999.0,Volkswagen,Polo,2013,77248.32,Petrol,Hatchback,1.2,60.0
+1793,10299.0,Volkswagen,Polo,2013,62764.26,Petrol,Hatchback,1.2,60.0
+1794,2100.0,Volkswagen,Passat,2004,228526.28,Diesel,Estate,1.9,
+1795,8399.0,Volkswagen,Polo,2011,90123.04,Petrol,Hatchback,1.2,
+1796,10299.0,Volkswagen,Polo,2013,86904.36,Petrol,Hatchback,1.2,
+1798,10299.0,Volkswagen,Polo,2013,43452.18,Petrol,Hatchback,1.2,
+1799,10599.0,Audi,A1,2012,85295.02,Petrol,Hatchback,1.4,122.0
+1800,10499.0,Volkswagen,Up!,2016,77248.32,Petrol,Hatchback,1.0,
+1801,9899.0,Volkswagen,Golf,2012,65982.94,Petrol,Hatchback,1.2,
+1802,69950.0,BMW,i8,2017,62000.0,Hybrid,Coupe,1.5,362.0
+1803,31900.0,Ford,Transit,2022,90.0,Diesel,Van,2.0,
+1804,10299.0,Volkswagen,Polo,2013,96560.4,Petrol,Hatchback,1.2,60.0
+1806,20500.0,Hyundai,Tucson,2018,121600.0,Diesel,SUV,1.7,115.0
+1807,2950.0,Renault,Fluence,2011,202512.0,Diesel,Saloon,1.5,110.0
+1809,9499.0,Audi,A1,2011,80467.0,Petrol,Hatchback,1.4,122.0
+1810,7699.0,Nissan,Note,2013,111044.46,Petrol,Hatchback,1.2,
+1811,8299.0,Volkswagen,Polo,2011,106216.44,Petrol,Hatchback,1.2,
+1812,7199.0,Volkswagen,Up!,2013,71998.65292,Petrol,Hatchback,1.0,
+1813,8999.0,Volkswagen,Up!,2015,41842.84,Petrol,Hatchback,1.0,
+1814,2999.0,Peugeot,1007,2006,96560.4,Petrol,Hatchback,1.6,
+1815,42995.0,Volkswagen,Tiguan,2020,27001.0,Petrol,SUV,1.5,150.0
+1816,25995.0,Volkswagen,Golf,2019,16001.0,Petrol,Hatchback,1.0,115.0
+1819,19995.0,Volkswagen,Polo,2019,42001.0,Petrol,Hatchback,1.0,65.0
+1820,19995.0,Volkswagen,Polo,2019,55001.0,Petrol,Hatchback,1.0,65.0
+1821,26995.0,Volkswagen,Golf,2019,50001.0,Petrol,Hatchback,1.0,115.0
+1823,30995.0,Volkswagen,Passat,2019,51001.0,Diesel,Saloon,2.0,150.0
+1824,31495.0,Volkswagen,Tiguan,2019,41001.0,Diesel,SUV,2.0,115.0
+1825,12950.0,SEAT,Ibiza,2016,83383.0,Petrol,MPV,1.0,110.0
+1826,985.0,Toyota,Corolla,1999,,Petrol,Hatchback,1.8,
+1827,45995.0,Lexus,NX,2019,55732.0,Hybrid,SUV,2.5,197.0
+1828,49000.0,Toyota,Camry,2022,1.0,Hybrid,Saloon,2.5,218.0
+1829,18950.0,Hyundai,i20,2019,,Petrol,Hatchback,1.2,75.0
+1830,1200.0,Volkswagen,Golf,2007,340000.0,Petrol,Hatchback,1.4,
+1831,,Ford,Transit Custom,2016,216387.0284,Diesel,Van,2.0,
+1832,30995.0,Volkswagen,Passat,2019,61001.0,Diesel,Saloon,2.0,150.0
+1835,9945.0,Audi,A6,2011,243010.34,Diesel,Estate,3.0,
+1836,15995.0,Volkswagen,Polo,2016,47174.0,Petrol,Hatchback,1.2,90.0
+1837,30995.0,Volkswagen,Golf,2020,10001.0,Petrol,Hatchback,1.5,130.0
+1838,48495.0,Audi,A4,2022,,Diesel,Saloon,2.0,136.0
+1839,30995.0,Volkswagen,Golf,2020,17001.0,Petrol,Hatchback,1.5,130.0
+1840,1234.0,Toyota,Corolla,2021,54848.0,Petrol Hybrid,Hatchback,1.8,122.0
+1841,26995.0,Volkswagen,Golf,2019,47001.0,Petrol,Hatchback,1.0,115.0
+1842,27995.0,Volkswagen,Golf,2019,36001.0,Petrol,Hatchback,1.0,115.0
+1843,8950.0,Ford,Fiesta,2014,,Petrol,Hatchback,1.2,60.0
+1844,24495.0,Volkswagen,Golf,2019,77000.0,Diesel,Hatchback,1.6,115.0
+1845,25995.0,Volkswagen,Golf,2019,75001.0,Diesel,Hatchback,1.6,115.0
+1846,17495.0,Volkswagen,Polo,2018,50001.0,Petrol,Hatchback,1.0,65.0
+1847,37995.0,Volkswagen,Tiguan,2019,77001.0,Diesel,SUV,2.0,150.0
+1848,38995.0,Volkswagen,Sharan,2018,91001.0,Diesel,MPV,2.0,150.0
+1849,17949.0,Nissan,NV300,2017,133002.0,Diesel,Van,1.6,
+1850,16950.0,Hyundai,i30,2018,96400.0,Diesel,Hatchback,1.6,110.0
+1851,1234.0,Nissan,Micra,2005,548484.0,Petrol,Hatchback,1.0,
+1852,11200.0,Nissan,March,2015,15500.0,Petrol,Hatchback,1.2,
+1853,7250.0,Ford,Focus,2012,247000.0,Diesel,Saloon,1.6,95.0
+1854,42995.0,Volkswagen,Tiguan Allspace,2019,100001.0,Diesel,SUV,2.0,150.0
+1855,25900.0,Hyundai,Kona,2020,34499.0,Diesel,MPV,1.6,116.0
+1857,20495.0,Volkswagen,Golf,2017,76001.0,Petrol,Hatchback,1.2,110.0
+1858,19495.0,Volkswagen,Polo,2019,44001.0,Petrol,Hatchback,1.0,95.0
+1859,14350.0,Volkswagen,Polo,2016,116677.15,Petrol,Hatchback,1.0,60.0
+1860,23995.0,Volkswagen,Golf,2019,42501.0,Petrol,Hatchback,1.0,115.0
+1862,1443.78,Isuzu,D-Max,2014,144840.6,Diesel,Pick Up,2.5,
+1863,15750.0,Audi,S4,2004,111044.46,Petrol,Estate,4.2,
+1864,14950.0,Volkswagen,Passat,2016,217260.9,Diesel,Saloon,1.6,120.0
+1865,34995.0,Volkswagen,Passat,2020,60001.0,Diesel,Saloon,2.0,150.0
+1866,6000.0,Toyota,Landcruiser,2006,385000.0,Diesel,SUV,3.0,
+1867,2750.0,Opel,Astra,1992,91732.38,Petrol,Hatchback,1.4,
+1868,63990.0,BMW,5-Series,2021,20921.42,Petrol Plug-in Hybrid,Estate,2.0,
+1869,47990.0,Audi,A6,2019,62000.0,Diesel,Saloon,2.0,204.0
+1871,3950.0,BMW,5-Series,2007,254037.5377,Diesel,Saloon,2.0,
+1872,8950.0,Audi,A4,2013,263693.5777,Diesel,Estate,2.0,120.0
+1873,3950.0,Honda,Accord,2008,366.92952,Diesel,Saloon,2.2,
+1874,3350.0,KIA,RIO,2010,192882.6177,Diesel,MPV,1.5,
+1875,4450.0,Audi,A3,2009,104056.7057,Petrol,Hatchback,1.6,
+1877,87950.0,Audi,S6,2021,,Diesel,Saloon,3.0,435.0
+1878,3750.0,Volvo,S40,2009,255325.0097,Diesel,Saloon,1.6,
+1879,23950.0,BMW,6-Series,2013,185597.1355,Diesel,Coupe,3.0,313.0
+1880,4450.0,Vauxhall,Insignia,2013,225075.855,Diesel,Hatchback,2.0,
+1881,8942.0,Opel,Combo,2019,,Diesel,Van,1.5,
+1882,6350.0,Citroen,Dispatch,2014,311973.7777,Diesel,Van,1.6,
+1883,2450.0,Honda,Civic,2008,321.868,Diesel,Hatchback,2.2,
+1884,6950.0,Hyundai,ix35,2012,289443.0177,Diesel,SUV,1.7,115.0
+1885,9950.0,BMW,5-Series,2012,220246.2257,Diesel,Saloon,2.0,184.0
+1886,4350.0,Renault,Megane,2010,128509.0177,Petrol,Hatchback,1.6,
+1887,19950.0,Skoda,Octavia,2019,111647.9625,Diesel,Saloon,1.6,115.0
+1888,1200.0,BMW,3-Series,2008,281634.5,Diesel,Saloon,2.0,
+1889,2950.0,Volkswagen,Touran,2008,321.868,Diesel,MPV,1.9,
+1890,4100.0,Peugeot,5008,2010,270000.0,Diesel,MPV,1.6,
+1891,5950.0,Nissan,NV400,2012,321868.0,Diesel,Van,2.3,
+1892,4000.0,BMW,3-Series,2006,317039.98,Diesel,Saloon,2.0,
+1893,23000.0,Toyota,Hilux,2016,136793.9,Diesel,Pick Up,3.0,
+1894,24900.0,Skoda,Octavia,2019,49437.31546,Diesel,Saloon,1.6,115.0
+1895,3450.0,Ford,Transit,2011,197710.6377,Diesel,Van,2.4,
+1896,1950.0,Ford,S-MAX,2009,402.335,Diesel,MPV,1.8,
+1897,1950.0,Ford,Galaxy,2009,402.335,Diesel,MPV,1.8,
+1898,17350.0,Hyundai,Tucson,2016,196138.3125,Diesel,SUV,1.7,115.0
+1899,4450.0,Opel,Insignia,2013,225069.4177,Diesel,Hatchback,2.0,
+1900,25950.0,Audi,A4,2018,162543.34,Diesel,Saloon,2.0,150.0
+1901,3950.0,Opel,Corsa,2011,321.868,Diesel,Hatchback,1.2,
+1902,16500.0,Nissan,X-Trail,2016,188273.4679,Diesel,SUV,1.6,130.0
+1903,4950.0,Renault,Grand Scenic,2011,204147.9977,Diesel,MPV,1.5,110.0
+1904,8950.0,Hyundai,ix35,2012,194730.14,Diesel,SUV,1.7,115.0
+1905,7850.0,Mitsubishi,Lancer,2013,231744.96,Diesel,Saloon,1.8,150.0
+1906,6950.0,Ferrari,Other,1999,305536.4177,Petrol,Coupe,2.0,
+1907,29995.0,Volkswagen,Passat,2019,90001.0,Diesel,Saloon,1.6,120.0
+1908,13950.0,Skoda,Fabia,2018,102595.425,Petrol,Hatchback,1.0,110.0
+1909,6950.0,Fiat,Coupe,1999,305224.2057,Petrol,Coupe,2.0,
+1910,25495.0,Volkswagen,Golf,2019,64501.0,Diesel,Hatchback,1.6,115.0
+1911,22950.0,Renault,Grand Scenic,2018,137839.971,Diesel,MPV,1.5,110.0
+1912,4350.0,Opel,Astra,2010,264868.3959,Diesel,Hatchback,1.7,
+1913,19450.0,Renault,Master,2020,133060.2312,Diesel,Van,2.3,
+1914,2750.0,Volkswagen,Jetta,2007,208976.0177,Petrol,Saloon,1.6,
+1915,23995.0,Volkswagen,Golf,2018,46001.0,Petrol,Hatchback,1.0,110.0
+1916,18450.0,Ford,Focus,2018,61154.92,Diesel,Hatchback,1.5,95.0
+1917,33950.0,KIA,Sportage,2020,,Diesel,SUV,1.6,115.0
+1918,42995.0,Volkswagen,Tiguan,2020,19001.0,Petrol,SUV,1.5,150.0
+1919,47900.0,Ford,Focus,2017,90000.0,Petrol,Hatchback,2.3,350.0
+1920,19450.0,SEAT,Ateca,2017,130758.875,Diesel,SUV,1.6,115.0
+1921,10750.0,Ford,Transit Connect,2017,168000.0,Diesel,Van,1.5,
+1922,26450.0,Volkswagen,Golf,2021,21565.156,Diesel,Estate,1.6,115.0
+1923,13950.0,Nissan,Qashqai,2014,202776.84,Diesel,Hatchback,1.5,110.0
+1924,33950.0,Nissan,Qashqai,2022,7748.9721,Petrol,MPV,1.3,140.0
+1925,43995.0,Volkswagen,Tiguan,2020,48001.0,Diesel,SUV,2.0,150.0
+1926,23950.0,KIA,Sportage,2019,130356.54,Diesel,SUV,1.6,115.0
+1927,11550.0,Honda,Civic,2014,163000.0,Diesel,Hatchback,1.6,120.0
+1928,13950.0,Ford,Focus,2017,180246.08,Diesel,Hatchback,1.5,95.0
+1929,16950.0,Mazda,3,2019,139207.91,Diesel,Hatchback,1.5,105.0
+1930,23950.0,Mercedes,E-Class,2016,136793.9,Diesel,Saloon,2.1,136.0
+1931,35168.0,Renault,Captur,2022,0.0,Petrol,Crossover,1.0,90.0
+1932,29950.0,Mitsubishi,Pajero,2015,168000.0,Diesel,SUV,3.2,200.0
+1933,25750.0,BMW,5-Series,2017,183062.425,Diesel,Saloon,2.0,190.0
+1934,3950.0,Volkswagen,Golf,2008,266581.0,Petrol,Hatchback,1.4,
+1935,8250.0,Volkswagen,Passat,2013,347617.44,Diesel,Saloon,1.6,105.0
+1936,17000.0,Ford,Transit Custom,2018,193120.8,Diesel,Van,2.0,
+1937,8190.0,KIA,Ceed,2015,72557.0939,Diesel,Hatchback,1.6,
+1938,47450.0,Mercedes,CLA-Class,2020,46000.0,Hybrid,Coupe,1.3,218.0
+1939,27999.0,Citroen,Berlingo Multispace,2019,67592.28,Diesel,MPV,1.5,
+1940,23495.0,Nissan,Qashqai,2018,94951.06,Diesel,Hatchback,1.5,110.0
+1941,44440.0,Mercedes,CLA-Class,2020,29000.0,Diesel,Saloon,1.5,116.0
+1942,,Mercedes,E-Class,2022,0.0,Diesel,Saloon,2.0,194.0
+1943,33895.0,Mercedes,E-Class,2018,135000.0,Diesel,Saloon,2.0,194.0
+1944,27999.0,Volkswagen,T-Roc,2020,61154.92,Petrol,SUV,1.5,150.0
+1945,9250.0,SEAT,MII,2016,125000.0,Petrol,Hatchback,1.0,75.0
+1947,22750.0,Jeep,Compass,2018,77500.0,Petrol,SUV,2.4,170.0
+1948,19999.0,Renault,Captur,2018,48280.2,Diesel,SUV,1.5,
+1949,43400.0,Volkswagen,Tiguan,2021,28269.0,Diesel,SUV,2.0,150.0
+1950,49995.0,Jaguar,F-Pace,2019,76685.0,Diesel,SUV,2.0,180.0
+1951,2995.0,Toyota,Corolla,2008,256000.0,Petrol,Saloon,1.4,
+1952,12995.0,Volkswagen,Caddy,2014,64373.6,Diesel,MPV,1.6,75.0
+1953,5995.0,Alfa Romeo,Giulietta,2011,199558.16,Diesel,Hatchback,1.6,105.0
+1954,4795.0,Hyundai,ix20,2011,220000.0,Diesel,MPV,1.4,90.0
+1955,4495.0,Peugeot,308,2011,186683.44,Petrol,Hatchback,1.4,95.0
+1956,3250.0,Renault,Grand Megane,2013,355000.0,Diesel,Estate,1.5,90.0
+1957,43950.0,BMW,5-Series,2018,41116.0,Hybrid,Saloon,2.0,252.0
+1958,9995.0,Nissan,Micra,2016,89000.0,Petrol,Hatchback,1.2,80.0
+1959,18995.0,Mercedes,SLK-Class,2013,144000.0,Diesel,Cabriolet,2.1,204.0
+1960,9995.0,Nissan,Micra,2016,89000.0,Petrol,Hatchback,1.0,80.0
+1961,12995.0,BMW,3-Series,2013,214042.22,Diesel,Estate,2.0,143.0
+1962,9995.0,Mazda,CX-5,2013,202000.0,Diesel,SUV,2.2,150.0
+1963,19850.0,Honda,HONDA CIVIC,1997,,Petrol,Hatchback,,
+1964,1234.0,Audi,A4,2008,,Diesel,Saloon,2.0,
+1966,16950.0,Renault,Trafic,2017,199199.2772,Diesel,Transporter,1.6,
+1967,19800.0,Volkswagen,Golf,1990,85000.0,Petrol,Hatchback,1.8,
+1968,28700.0,BMW,M3,1998,175418.06,Petrol,Coupe,3.2,
+1969,6995.0,Honda,Civic,2012,207000.0,Diesel,Hatchback,2.2,150.0
+1970,67800.0,BMW,M3,1987,107825.78,Petrol,Saloon,,
+1971,10995.0,Toyota,Yaris,2016,129000.0,Petrol,Hatchback,1.0,68.0
+1972,28700.0,Mitsubishi,L200,2019,143231.26,Diesel,Pick Up,2.4,
+1973,9995.0,Opel,Corsa,2016,79000.0,Petrol,Hatchback,1.2,70.0
+1975,8995.0,Chrysler,Compass,2013,80467.0,Petrol,Estate,2.0,
+1976,12900.0,Citroen,C4 Picasso,2015,112911.0,Diesel,Hatchback,1.6,115.0
+1977,13995.0,Ford,Kuga,2014,112653.8,Diesel,SUV,2.0,140.0
+1978,11995.0,Toyota,SAI,2013,149000.0,Hybrid,Saloon,2.4,
+1979,14995.0,Ford,Focus,2017,68000.0,Diesel,Saloon,1.5,95.0
+1980,9995.0,SEAT,Altea,2015,118000.0,Diesel,MPV,1.6,105.0
+1981,6995.0,Nissan,Qashqai+2,2012,229000.0,Diesel,MPV,1.5,110.0
+1982,4995.0,Citroen,C4 Picasso,2011,210000.0,Diesel,MPV,1.6,110.0
+1983,23800.0,Subaru,Impreza,1995,191511.46,Petrol,Saloon,2.0,
+1984,32700.0,Subaru,Impreza,1998,191511.46,Petrol,Saloon,2.0,
+1985,48700.0,Subaru,Impreza,1998,59000.0,Petrol,Coupe,0.2,
+1986,2295.0,Mercedes,C-Class,2009,270000.0,Petrol,Saloon,1.6,
+1987,6995.0,Honda,CR-Z,2010,189902.12,Petrol Hybrid,Coupe,1.5,
+1989,11995.0,Toyota,Auris,2013,139000.0,Diesel,Hatchback,1.4,90.0
+1990,11995.0,Nissan,Qashqai+2,2013,173808.72,Diesel,MPV,1.5,110.0
+1991,13800.0,Nissan,Navara,2012,207604.86,Diesel,Pick Up,2.5,
+1992,7995.0,BMW,5-Series,2011,321000.0,Diesel,Saloon,2.0,184.0
+1994,14995.0,Ford,Kuga,2016,208000.0,Diesel,SUV,2.0,120.0
+1995,22800.0,Mercedes,C-Class,2015,228526.28,Diesel,Saloon,2.1,
+1996,52300.0,Nissan,GT-R,2009,86904.36,Petrol,Coupe,3.8,
+1998,13800.0,Peugeot,Partner,2018,117481.82,Diesel,Van,1.6,
+1999,69750.0,Audi,Q5,2022,11.0,Diesel,SUV,2.0,
+2000,9995.0,Volkswagen,Scirocco,2011,156105.98,Diesel,Hatchback,2.0,140.0
+2001,28900.0,Skoda,Superb,2018,93341.72,Diesel,Hatchback,2.0,
+2002,29800.0,Jaguar,F-Pace,2016,127137.86,Diesel,SUV,2.0,
+2003,13800.0,Peugeot,Partner,2018,117481.82,Diesel,Van,1.6,
+2004,23700.0,BMW,5-Series,2015,157715.32,Diesel,Saloon,2.0,190.0
+2005,22900.0,Toyota,Hilux,2014,191511.46,Diesel,Pick Up,3.0,
+2006,28700.0,Mercedes,CLA-Class,2017,1.0,Diesel,Saloon,2.1,136.0
+2007,23490.0,Citroen,Relay,2022,0.0,Diesel,Van,2.2,
+2008,40995.0,Volkswagen,Golf,2018,63891.0,Petrol,Hatchback,2.0,
+2009,19700.0,Audi,A3,2017,172199.38,Diesel,Hatchback,1.6,
+2010,29800.0,Audi,A4,2018,165762.02,Diesel,Saloon,2.0,
+2011,22800.0,Mercedes,C-Class,2014,199558.16,Diesel,Saloon,2.1,
+2012,4995.0,Volkswagen,Touareg,2007,203000.0,Diesel,SUV,2.5,
+2013,26995.0,Volkswagen,Crafter,2019,98280.0,Diesel,Van,2.0,
+2014,33500.0,Mercedes,AMG,2017,61187.0,Petrol Hybrid,Saloon,2.0,
+2015,6495.0,Volkswagen,Caddy,2012,228000.0,Diesel,MPV,1.6,
+2016,12999.0,Audi,A5,2011,167000.0,Diesel,Cabriolet,2.0,170.0
+2017,695.0,Chevrolet,Lacetti,2008,177000.0,Petrol,Saloon,1.4,
+2018,7995.0,SEAT,Ibiza,2015,192000.0,Diesel,MPV,1.2,75.0
+2019,7995.0,Opel,Vivaro,2014,233354.3,Diesel,Van,1.6,
+2020,9995.0,Volvo,V40,2013,160000.0,Diesel,Hatchback,1.6,115.0
+2021,7950.0,Ford,Grand C-MAX,2012,194730.14,Diesel,MPV,1.6,95.0
+2022,,Hyundai,i20,2019,35405.48,Petrol,Hatchback,1.2,
+2023,19495.0,Nissan,Micra,2020,6900.0,Petrol,Hatchback,1.0,100.0
+2024,56965.0,Hyundai,Ioniq 5,2023,0.0,Electric,Hatchback,,
+2025,1495.0,Peugeot,307,2006,177000.0,Petrol,Hatchback,1.4,
+2026,2650.0,Ford,Transit,2013,,Diesel,Minibus,2.2,
+2027,25400.0,Mercedes,200,2017,98000.0,Diesel,Saloon,2.1,136.0
+2028,44800.0,BMW,M3,2016,37014.82,Petrol,Saloon,3.0,
+2029,22800.0,Land Rover,Range Rover Sport,2011,199558.16,Diesel,SUV,3.0,
+2030,22224.15,Nissan,Navara,2019,156105.98,Diesel,Pick Up,2.3,
+2031,17950.0,Audi,A6,2016,220479.58,Diesel,Saloon,2.0,190.0
+2032,22700.0,Mercedes,C-Class,2015,233354.3,Diesel,Estate,2.1,170.0
+2033,6250.0,Volkswagen,Passat,2011,257.4944,Diesel,Saloon,2.0,140.0
+2034,15800.0,Nissan,Navara,2014,154496.64,Diesel,Pick Up,2.5,
+2035,19600.0,Audi,A3,2016,157715.32,Diesel,Hatchback,1.6,
+2036,46800.0,BMW,X5,2015,165762.02,Diesel,SUV,3.0,
+2037,5950.0,Hyundai,ix20,2012,146000.0,Diesel,MPV,1.4,90.0
+2038,36950.0,Mercedes,GLC-Class,2017,90001.0,Diesel,Estate,2.1,204.0
+2039,27950.0,Honda,HR-V,2019,33000.0,Petrol,SUV,1.5,130.0
+2041,15000.0,Mercedes,Sprinter,2017,184116.5427,Diesel,Van,2.1,
+2043,2500.0,Toyota,Avensis,2008,158000.0,Petrol,Saloon,1.6,
+2047,19995.0,Toyota,Prius,2017,103056.0,Hybrid,Hatchback,1.8,122.0
+2048,7250.0,Dacia,Logan,2016,236.0,Diesel,Estate,1.5,90.0
+2049,64975.0,BMW,5-Series,2021,71084.0,Diesel,Saloon,3.0,265.0
+2050,15990.0,KIA,RIO,2019,128747.2,Petrol,Hatchback,1.4,
+2051,10524.15,Ford,S-MAX,2014,116640.1352,Diesel,MPV,2.0,
+2052,14990.0,SEAT,Leon,2017,110000.0,Petrol,Hatchback,1.2,
+2053,5990.0,Hyundai,i30,2011,321868.0,Diesel,Hatchback,1.6,90.0
+2054,7950.0,Honda,Jazz,2013,96560.4,Petrol,Hatchback,1.2,90.0
+2055,6750.0,Opel,Corsa,2012,87000.0,Petrol,Hatchback,1.0,65.0
+2056,33950.0,Volkswagen,T-Roc,2022,1000.0,Petrol,SUV,1.0,110.0
+2057,16945.0,Renault,Clio,2021,56180.0,Petrol,Hatchback,1.0,100.0
+2059,12994.0,Volkswagen,Golf,2014,185074.1,Diesel,Hatchback,1.6,105.0
+2060,8250.0,Nissan,Qashqai+2,2011,152195.2838,Diesel,MPV,1.5,110.0
+2061,15750.0,Volkswagen,Passat,2016,156000.0,Diesel,Saloon,2.0,150.0
+2062,5495.0,Volkswagen,Golf,2009,227713.5633,Petrol,Hatchback,1.4,
+2063,8950.0,Mitsubishi,Mirage,2015,82074.0,Petrol,Hatchback,1.0,
+2064,9999.0,Ford,Focus,2017,204000.0,Diesel,Estate,1.5,95.0
+2065,9000.0,Porsche,944,1987,207604.86,Petrol,Hatchback,2.5,
+2066,37900.0,Volkswagen,Tiguan,2018,89100.0,Diesel,SUV,2.0,150.0
+2067,49950.0,BMW,2-Series,2022,4000.0,Petrol,Coupe,2.0,184.0
+2069,26494.0,SEAT,Ateca,2019,69534.0,Petrol,SUV,1.0,115.0
+2070,29495.0,Volkswagen,Golf,2019,78140.0,Electric,Estate,,136.0
+2071,1850.0,Opel,Insignia,2010,252666.38,Diesel,Saloon,2.0,
+2073,25500.0,Skoda,Superb,2017,104000.0,Diesel,Estate,2.0,150.0
+2074,24890.0,Volkswagen,Golf,2019,73176.6898,Diesel,Hatchback,1.6,
+2075,64900.0,Audi,Q5,2020,47736.0,Hybrid,SUV,2.0,
+2076,1995.0,Nissan,Micra,2003,95000.0,Petrol,Hatchback,1.2,
+2077,9950.0,Renault,Fluence,2015,118900.0,Diesel,Saloon,1.5,95.0
+2078,8950.0,Renault,Clio,2013,99000.0,Petrol,Hatchback,1.1,75.0
+2079,12950.0,Volkswagen,Polo,2014,67400.0,Petrol,Hatchback,1.2,90.0
+2080,16500.0,Peugeot,Partner,2020,21000.0,Diesel,MPV,1.5,
+2082,24995.0,Honda,HR-V,2018,43006.0,Diesel,SUV,1.6,120.0
+2083,5750.0,Ford,Fiesta,2011,219050.0,Diesel,Hatchback,1.4,70.0
+2084,,Mercedes,Vario,2006,102391.0,Diesel,Minibus,4.2,
+2085,8500.0,Volkswagen,Golf,2013,289000.0,Diesel,Hatchback,1.6,105.0
+2086,10995.0,Nissan,Qashqai,2015,236452.2795,Diesel,Hatchback,1.5,110.0
+2087,36950.0,BMW,6-Series,2016,112653.8,Diesel,Coupe,3.0,313.0
+2088,9950.0,BMW,5-Series,2010,311536.0372,Diesel,Saloon,3.0,
+2089,13250.0,Ford,Transit Custom,2017,205000.0,Diesel,Van,2.0,
+2090,542.0,Toyota,Hilux,2012,,Diesel,Pick Up,3.0,
+2092,11990.0,Honda,Jazz,2014,92849.26196,Hybrid,Hatchback,1.5,
+2093,14250.0,Volkswagen,Golf,2014,95000.0,Petrol,Estate,1.2,110.0
+2094,,Land Rover,Range Rover Sport,2019,101003.0,Hybrid,SUV,2.0,404.0
+2095,19900.0,Mini,Cooper,2016,173808.72,Diesel,Hatchback,2.0,
+2096,18900.0,Skoda,Octavia,2018,117000.0,Diesel,Saloon,1.6,90.0
+2097,16500.0,Volkswagen,Polo,2019,49000.0,Petrol,Hatchback,1.0,65.0
+2099,8650.0,Volkswagen,Golf,2013,220479.58,Diesel,Hatchback,1.6,105.0
+2100,13950.0,Nissan,Qashqai,2014,115000.0,Petrol,Hatchback,1.2,115.0
+2101,5200.0,Nissan,Qashqai,2011,214525.022,Diesel,Hatchback,1.5,110.0
+2103,18000.0,Mitsubishi,L200,2015,180000.0,Diesel,Crew Cab,2.5,
+2104,3950.0,Opel,Vivaro,2006,276000.0,Diesel,Crew Cab,2.5,
+2105,2500.0,Toyota,Corolla,2006,321868.0,Diesel,Hatchback,1.4,
+2106,8950.0,Dacia,Duster,2015,159862.0,Diesel,SUV,1.5,110.0
+2107,15500.0,Citroen,Relay,2019,170047.6924,Diesel,Van,2.0,
+2108,11450.0,KIA,Sportage,2014,207604.86,Diesel,SUV,1.7,115.0
+2109,2200.0,Ford,Transit,2007,341931.0,Diesel,Van,1.8,
+2110,20400.0,Volkswagen,Polo,2020,15500.0,Petrol,Hatchback,1.0,
+2111,3250.0,Fiat,Doblo,2012,133.57522,Diesel,Van,1.2,
+2112,9500.0,Toyota,Vitz,2016,102997.76,Petrol,Hatchback,1.0,68.0
+2113,19500.0,Audi,A3,2016,185074.1,Diesel,Saloon,2.0,150.0
+2114,14650.0,Nissan,Serena,2014,122309.84,Petrol Hybrid,MPV,2.0,
+2115,11995.0,Nissan,Note,2016,111755.0,Petrol,MPV,1.2,
+2116,5250.0,Toyota,Auris,2010,215000.0,Diesel,Hatchback,1.4,
+2117,3950.0,Ford,Fiesta,2009,199800.0,Petrol,Hatchback,1.2,
+2118,20995.0,Honda,VEZEL,2016,80518.0,Hybrid,MPV,1.5,
+2119,79990.0,Land Rover,Range Rover Sport,2019,79203.6681,Petrol Plug-in Hybrid,SUV,2.0,
+2121,5995.0,Ford,Focus,2011,249700.3664,Diesel,Saloon,1.6,95.0
+2122,2000.0,Citroen,C4 Picasso,2007,204386.18,Diesel,MPV,1.6,
+2123,5350.0,Ford,Kuga,2011,240.0,Diesel,Van,2.0,
+2124,21001.5,Audi,RS4,2006,149993.7067,Petrol,Saloon,4.2,
+2125,29777.0,KIA,Sportage,2019,9275.0,Diesel,SUV,1.6,115.0
+2126,20995.0,Volkswagen,Scirocco,2016,59128.0,Diesel,Hatchback,2.0,150.0
+2127,7850.0,Volkswagen,Up!,2013,70810.96,Petrol,Hatchback,1.0,
+2128,7950.0,Renault,Megane,2013,217260.9,Diesel,Hatchback,1.5,110.0
+2129,27750.0,Volkswagen,Tiguan,2018,156303.9288,Diesel,SUV,2.0,150.0
+2130,1500.0,Volkswagen,Polo,2005,290000.0,Petrol,Hatchback,1.2,
+2131,9999.0,Ford,Focus,2017,204000.0,Diesel,Estate,1.5,95.0
+2132,16250.0,Nissan,Qashqai,2018,138074.9346,Diesel,Hatchback,1.5,110.0
+2133,2250.0,Mercedes,C-Class,2006,164000.0,Petrol,Coupe,1.8,
+2134,4250.0,BMW,1-Series,2008,131000.0,Petrol,Hatchback,1.6,
+2135,45900.0,Audi,A6,2019,66563.0,Diesel,Saloon,2.0,204.0
+2136,17650.0,SEAT,Ateca,2018,205995.52,Diesel,SUV,1.6,115.0
+2137,23995.0,Hyundai,Kona,2021,47217.0,Petrol,MPV,1.0,120.0
+2138,32000.0,Audi,A6,2017,45501.0,Diesel,Saloon,2.0,190.0
+2139,,Skoda,Kodiaq,2021,26000.0,Diesel,SUV,2.0,150.0
+2140,17491.5,BMW,3 series,1991,120000.0,Petrol,Coupe,2.5,
+2141,19450.0,Ford,Transit,2017,137421.5426,Diesel,Van,2.0,
+2142,29499.0,Audi,A6,2018,186856.0,Diesel,Estate,2.0,190.0
+2143,11900.0,Skoda,Octavia,2015,131066.2589,Diesel,Saloon,1.6,105.0
+2144,8250.0,Mazda,3,2013,169688.8096,Diesel,Saloon,1.6,115.0
+2145,37900.0,Audi,A8,2017,127131.4226,Diesel,Saloon,3.0,262.0
+2148,35500.0,Volkswagen,Passat,2020,60717.0,Diesel,Saloon,2.0,150.0
+2149,35950.0,KIA,Sportage,2022,11500.0,Diesel Hybrid,Van,1.6,
+2150,36950.0,Audi,A8,2016,178636.74,Diesel,Saloon,3.0,
+2151,18450.0,Dacia,Duster,2019,57500.0,Petrol,SUV,1.6,115.0
+2152,17900.0,BMW,3-Series,2015,101367.4986,Diesel,Saloon,2.0,116.0
+2154,17500.0,Citroen,Berlingo Multispace,2017,25749.44,Diesel,MPV,1.6,
+2157,37995.0,Volkswagen,Caddy,2022,0.0,Diesel,MPV,2.0,
+2158,24750.0,Land Rover,Discovery,2014,260000.0,Diesel,SUV,3.0,256.0
+2159,5800.0,KIA,Venga,2010,102997.76,Diesel,MPV,1.4,
+2160,7995.0,BMW,1-Series,2012,203581.51,Diesel,Coupe,2.0,143.0
+2161,13750.0,Subaru,GT-Series,1999,292095.21,Petrol,Saloon,2.0,
+2162,10950.0,Vauxhall,Insignia,2016,161477.0,Diesel,Hatchback,2.0,
+2163,14950.0,Land Rover,Discovery,2009,160934.0,Diesel,Estate,2.7,
+2164,31900.0,Volkswagen,Golf,2021,35000.0,Petrol,Estate,1.5,130.0
+2165,25588.0,Renault,Clio,2022,0.0,Petrol,Hatchback,1.0,72.0
+2166,1.0,Audi,Q3,2019,33365.0,Diesel,MPV,2.0,
+2167,8950.0,Opel,Mokka,2014,117000.0,Diesel,SUV,1.7,130.0
+2168,7250.0,Peugeot,508,2014,181232.6054,Diesel,Estate,1.6,115.0
+2169,21000.0,Mercedes,C-Class,2015,127300.0,Diesel,Saloon,2.1,170.0
+2170,14950.0,Mini,ONE,2016,48000.0,Diesel,Hatchback,1.5,
+2171,44750.0,BMW,5-Series,2019,56005.032,Diesel,Saloon,2.0,190.0
+2172,22950.0,BMW,5-Series,2005,95400.0,Petrol,Saloon,4.8,
+2173,32500.0,Audi,A7,2016,60000.0,Diesel,Hatchback,3.0,218.0
+2174,55950.0,BMW,5-Series,2020,67429.73666,Diesel Hybrid,Estate,2.0,
+2175,38950.0,BMW,5-Series,2018,104949.8894,Petrol Hybrid,Saloon,2.0,
+2176,31500.0,Volkswagen,Golf,2018,,Petrol,Estate,2.0,230.0
+2177,37500.0,BMW,5-Series,2019,67983.0,Diesel,Saloon,2.0,
+2178,71000.0,Porsche,911,2003,141300.052,Petrol,Coupe,3.6,
+2179,48750.0,BMW,1-Series,2020,33796.14,Petrol,Hatchback,2.0,306.0
+2181,55900.0,BMW,X5,2018,70810.96,Diesel,SUV,3.0,
+2182,31950.0,BMW,5-Series,2018,120004.0,Diesel,Saloon,2.0,190.0
+2183,29500.0,Audi,S3,2014,105000.0,Petrol,Hatchback,2.0,265.0
+2184,55950.0,BMW,5-Series,2020,67429.73666,Diesel,Estate,2.0,
+2185,37950.0,BMW,5-Series,2018,104612.0,Petrol Hybrid,Saloon,2.0,
+2186,19250.0,Ford,Mondeo,2017,157000.0,Diesel,Hatchback,2.0,150.0
+2187,36950.0,BMW,5-Series,2018,90491.0,Petrol Hybrid,Saloon,2.0,
+2188,34750.0,Opel,Movano,2022,3999.0,Diesel,Van,2.2,
+2189,12945.0,Fiat,500,2017,72000.0,Petrol,Hatchback,1.2,69.0
+2190,28950.0,Audi,A5,2017,179602.344,Diesel,Hatchback,2.0,190.0
+2191,37950.0,BMW,5-Series,2019,84862.0,Diesel,Saloon,2.0,190.0
+2192,41750.0,Audi,Q5,2018,136000.0,Diesel,SUV,2.0,190.0
+2193,16950.0,Nissan,Qashqai,2016,122473.9927,Diesel,Hatchback,1.5,110.0
+2194,22000.0,BMW,5-Series,2016,193120.8,Diesel,Saloon,2.0,190.0
+2195,,Porsche,Boxster,2004,83685.68,Petrol,Cabriolet,3.2,
+2196,44000.0,BMW,5-Series,2019,47000.0,Diesel,Saloon,2.0,190.0
+2197,43500.0,BMW,5-Series,2019,70810.96,Diesel,Saloon,2.0,190.0
+2198,15995.0,Ford,Kuga,2014,87461.19164,Diesel,SUV,2.0,140.0
+2199,25950.0,Opel,Grandland X,2020,14878.0,Petrol,MPV,1.2,130.0
+2200,3800.0,Ford,Transit,2011,196000.0,Diesel,Van,1.8,
+2203,4850.0,Mazda,5,2011,205000.0,Diesel,MPV,1.6,115.0
+2204,15495.0,Renault,Captur,2017,116402.0,Diesel,Hatchback,1.5,90.0
+2205,6999.0,Volvo,V40,2013,267150.44,Diesel,Hatchback,1.6,115.0
+2206,20000.0,SEAT,Ateca,2017,136000.0,Diesel,SUV,1.6,115.0
+2207,,Peugeot,Partner,2017,245041.3271,Diesel,MPV,1.6,
+2208,199000.0,Peugeot,5008,2021,200.0,Diesel,MPV,1.5,
+2210,16950.0,Nissan,Note,2020,104002.0,Petrol,Hatchback,1.2,
+2211,2295.0,Peugeot,207,2008,236785.4129,Petrol,Estate,1.4,
+2212,19900.0,Audi,A6,2015,196267.0,Diesel,Saloon,2.0,150.0
+2216,19995.0,Toyota,Prius,2017,108669.0,Hybrid,Hatchback,1.8,122.0
+2217,17950.0,Dacia,Sandero,2021,21000.0,Petrol,Hatchback,0.9,90.0
+2218,12450.0,Nissan,Juke,2015,105157.0,Diesel,SUV,1.5,110.0
+2221,17450.0,Toyota,Prius,2017,112858.0,Petrol Hybrid,Hatchback,1.8,
+2225,13999.0,Skoda,Octavia,2017,184495.0,Diesel,Saloon,1.6,110.0
+2226,20950.0,Ford,Transit,2017,101388.42,Diesel,Van,2.0,
+2227,29792.0,Mini,Cooper,2020,15536.56836,Petrol,Hatchback,1.5,
+2228,950.0,Nissan,Almera,2005,162143.0,Petrol,Hatchback,1.5,
+2229,10500.0,Ford,Fiesta,2016,185074.1,Petrol,Hatchback,1.0,65.0
+2230,29900.0,Volkswagen,Tiguan,2017,81000.0,Diesel,SUV,2.0,
+2231,27950.0,BMW,5-Series,2016,105970.0,Diesel,Estate,2.0,
+2232,21950.0,Audi,A3,2017,137560.0,Diesel,Hatchback,1.6,110.0
+2233,6700.0,Suzuki,Swift,2011,136793.9,Petrol,Hatchback,1.2,94.0
+2234,14499.0,Toyota,Aqua,2018,101388.42,Petrol Hybrid,Hatchback,1.5,
+2236,16950.0,Citroen,Dispatch,2018,28904.0,Diesel,Van,1.6,
+2238,16699.0,Volkswagen,Polo,2017,24140.1,Petrol,Hatchback,1.2,
+2239,16999.0,Audi,A3,2015,107825.78,Petrol,Hatchback,1.4,
+2240,17999.0,Audi,A3,2015,104607.1,Petrol,Hatchback,1.4,
+2241,14499.0,Toyota,Prius,2013,107825.78,Petrol Hybrid,MPV,1.8,136.0
+2242,52799.0,Audi,Q3,2023,,Hybrid,SUV,1.4,
+2243,11999.0,Volkswagen,Polo,2014,72420.3,Petrol,Hatchback,1.2,60.0
+2244,1150.0,Hyundai,Coupe,2006,157000.0,Petrol,Coupe,1.6,
+2248,11056.5,Volkswagen,Passat,2014,73000.0,Diesel,Coupe,2.0,
+2253,21995.0,Volkswagen,Golf,2018,58685.0,Petrol,Hatchback,1.0,110.0
+2258,32900.0,KIA,Sportage,2020,25522.0,Diesel,SUV,1.6,115.0
+2260,10500.0,Dacia,Duster,2016,123000.0,Diesel,SUV,1.5,110.0
+2261,7000.0,Suzuki,Swift,2015,119500.0,Petrol,Hatchback,1.2,94.0
+2264,12490.0,Mazda,2,2016,114224.5158,Petrol,MPV,1.3,63.0
+2267,9995.0,Ford,S-MAX,2013,214759.9856,Diesel,MPV,2.0,140.0
+2268,69888.0,Toyota,Highlander,2021,17476.0,Hybrid,Estate,2.5,246.0
+2269,10749.0,Renault,Captur,2014,97449.0,Petrol,Hatchback,1.0,90.0
+2275,5300.0,Renault,Trafic,2015,,Diesel,MPV,1.6,
+2276,29995.0,Mitsubishi,Outlander,2018,118800.0,Diesel,SUV,2.3,150.0
+2279,8995.0,SEAT,Ibiza,2014,147411.0,Diesel,MPV,1.2,75.0
+2285,32450.0,Skoda,Karoq,2018,43000.0,Diesel,Estate,2.0,150.0
+2286,18950.0,Mini,Cooper,2016,85000.0,Diesel,Cabriolet,1.5,
+2287,51950.0,Porsche,Macan,2017,137000.0,Diesel,SUV,3.0,258.0
+2288,21950.0,Mercedes,GLA-Class,2015,99000.0,Diesel,SUV,2.1,136.0
+2289,19995.0,Toyota,Camry,2016,116924.0,Hybrid,Saloon,2.5,152.0
+2291,52950.0,Land Rover,Discovery,2018,131000.0,Diesel,SUV,2.0,240.0
+2294,16950.0,SEAT,Leon,2016,167371.36,Diesel,Hatchback,2.0,184.0
+2298,16500.0,Volkswagen,Touareg,2011,265541.1,Diesel,SUV,3.0,
+2300,34995.0,Volkswagen,Golf,2018,59117.49556,Petrol,Hatchback,2.0,230.0
+2301,12995.0,Fiat,500,2017,58512.0,Petrol,Hatchback,1.2,69.0
+2302,35168.0,Renault,Captur,2022,0.0,Petrol,Crossover,1.0,90.0
+2303,35950.0,BMW,X2,2019,25700.0,Diesel,SUV,2.0,150.0
+2305,16950.0,Nissan,Micra,2019,41000.0,Petrol,Hatchback,1.0,100.0
+2306,21950.0,Hyundai,Tucson,2016,108000.0,Diesel,SUV,1.7,115.0
+2307,35995.0,BMW,X2,2018,93027.0,Diesel,SUV,2.0,150.0
+2308,4400.0,Nissan,Qashqai,2010,250461.0,Diesel,Hatchback,1.5,
+2309,44950.0,Mercedes,GLC-Class,2018,88513.7,Diesel,SUV,2.1,170.0
+2310,37995.0,BMW,5-Series,2018,62764.26,Petrol Plug-in Hybrid,Saloon,2.0,252.0
+2311,26950.0,Jaguar,XE,2017,63890.798,Diesel,Saloon,2.0,180.0
+2312,15000.0,Mitsubishi,L200,2013,294509.22,Diesel,Crew Cab,2.5,
+2313,9995.0,Volkswagen,Golf,2013,209336.5098,Diesel,Estate,1.6,105.0
+2314,23495.0,Opel,Grandland X,2018,69394.0,Diesel,Hatchback,1.6,
+2315,100.0,Opel,Corsa,2015,,Petrol,Hatchback,1.4,90.0
+2316,5495.0,Opel,Zafira,2012,118000.0,Diesel,MPV,1.7,110.0
+2317,13490.0,Ford,C-MAX,2015,29935.0,Diesel,MPV,1.5,95.0
+2319,29995.0,Volkswagen,T-CROSS,2020,18100.0,Petrol,SUV,1.0,115.0
+2320,11785.0,Subaru,Forester,2016,144000.0,Diesel,Van,2.0,
+2322,4550.0,Volkswagen,Golf,2011,302555.92,Diesel,Hatchback,1.6,105.0
+2323,19995.0,Volkswagen,Passat,2018,211895.3604,Diesel,Saloon,2.0,150.0
+2325,9959.0,Renault,Kangoo,2017,123260.9599,Diesel,Van,1.5,
+2326,13995.0,Honda,Shuttle,2016,81122.0,Hybrid,MPV,1.5,
+2327,12995.0,Ford,Fiesta,2016,79500.0,Petrol,Hatchback,1.0,
+2328,35168.0,Renault,Captur,2022,0.0,Petrol,Crossover,1.0,90.0
+2329,24950.0,Nissan,Qashqai,2019,63651.0,Diesel,MPV,1.5,110.0
+2330,14950.0,Opel,Astra,2017,26461.0,Petrol,Hatchback,1.4,100.0
+2331,23950.0,Nissan,Qashqai,2018,57948.0,Diesel,MPV,1.5,110.0
+2332,14950.0,Toyota,Yaris,2019,145464.0,Petrol,Hatchback,1.0,72.0
+2333,17950.0,Toyota,Yaris,2019,21464.0,Petrol,Hatchback,1.0,72.0
+2334,43950.0,Toyota,Landcruiser,2016,210776.0,Diesel,Van,2.8,
+2335,19950.0,Toyota,Auris,2017,47565.0,Hybrid,MPV,1.8,136.0
+2336,52845.0,Toyota,Landcruiser,2018,57561.0,Diesel,Van,2.8,
+2337,22950.0,Toyota,Prius,2018,97327.0,Hybrid,Hatchback,1.8,136.0
+2338,38950.0,Toyota,Landcruiser,2018,113093.0,Diesel,Van,2.8,
+2339,13950.0,Toyota,Auris,2015,191909.0,Diesel,Hatchback,1.4,90.0
+2340,17845.0,Toyota,Proace,2021,21765.0,Diesel,SUV,1.5,
+2341,11950.0,Skoda,Fabia,2017,38122.0,Petrol,Hatchback,1.0,60.0
+2342,9450.0,Toyota,Yaris,2014,136116.0,Petrol,Hatchback,1.0,69.0
+2343,13450.0,Toyota,Auris,2015,133829.0,Petrol,Hatchback,1.3,99.0
+2344,15449.0,Honda,Civic,2016,151560.0,Diesel,Estate,1.6,120.0
+2345,13495.0,Nissan,Note,2016,63855.0,Petrol,MPV,1.2,98.0
+2346,10950.0,Toyota,Corolla,2014,215904.0,Diesel,Saloon,1.4,90.0
+2347,19450.0,Toyota,Corolla,2018,89091.0,Petrol,Saloon,1.3,99.0
+2348,29950.0,Nissan,X-Trail,2018,70133.0,Diesel,Estate,1.6,130.0
+2349,25450.0,Toyota,RAV4,2018,108507.0,Diesel,SUV,2.0,143.0
+2350,2999.0,Nissan,Micra,1985,72420.3,Petrol,Hatchback,1.0,
+2351,4450.0,Ford,Transit,2014,150000.0,Diesel,Van,2.2,
+2352,5000.0,Toyota,Yaris,2011,126000.0,Petrol,Hatchback,1.0,69.0
+2353,17250.0,Audi,A6,2015,220000.0,Diesel,Saloon,2.0,190.0
+2354,16900.0,Volkswagen,Passat,2016,152536.0,Diesel,Saloon,1.6,120.0
+2356,50995.0,Mercedes,E-Class,2019,61000.0,Diesel,Coupe,2.0,194.0
+2357,4750.0,Volkswagen,Caddy,2012,292063.0,Diesel,MPV,1.6,
+2359,11850.0,Toyota,Aqua,2017,122309.84,Petrol Hybrid,Hatchback,1.5,112.0
+2360,3850.0,Renault,Clio,2010,85.0,Ethanol Petrol,Hatchback,1.1,
+2361,17500.0,Audi,A4,2016,202000.0,Diesel,Saloon,2.0,150.0
+2363,6800.0,Toyota,Celica,1991,250.0,Petrol,Coupe,2.0,
+2364,34950.0,Mazda,CX-5,2019,,Petrol,SUV,2.0,165.0
+2365,76950.0,Land Rover,Defender,2022,850.0,Diesel,Van,3.0,
+2366,8950.0,Toyota,Aqua,2013,113000.0,Petrol Hybrid,Hatchback,1.5,112.0
+2367,20445.0,Renault,Clio,2022,4917.0,Petrol,Hatchback,1.0,90.0
+2368,9995.0,Volkswagen,Up!,2015,58097.174,Petrol,Hatchback,1.0,
+2369,14495.0,Mercedes,B-Class,2013,72420.3,Petrol,Hatchback,1.6,
+2370,13495.0,Volkswagen,Polo,2015,101388.42,Petrol,Hatchback,1.2,
+2371,9995.0,Volkswagen,Polo,2012,88513.7,Petrol,Hatchback,1.2,
+2372,13495.0,Volkswagen,Golf,2013,109435.12,Petrol,Hatchback,1.2,
+2373,13995.0,BMW,1-Series,2014,144840.6,Petrol,Hatchback,1.6,
+2374,11495.0,Audi,A3,2012,70810.96,Petrol,Hatchback,1.4,
+2375,19995.0,Toyota,Prius,2017,90327.0,Hybrid,Hatchback,1.8,122.0
+2376,12995.0,Audi,A1,2013,96560.4,Petrol,Hatchback,1.4,
+2377,11495.0,Audi,A3,2013,140012.58,Petrol,Hatchback,1.4,
+2378,3650.0,Mercedes,E-Class,2008,468285.7532,Petrol,Saloon,1.8,
+2379,3450.0,Renault,Fluence,2012,274000.0,Diesel,Saloon,1.5,90.0
+2380,3500.0,Renault,Megane,2010,237566.0,Diesel,Hatchback,1.5,
+2381,11995.0,Volkswagen,Polo,2014,69201.62,Petrol,Hatchback,1.2,
+2382,11795.0,Toyota,Aqua,2017,123114.51,Petrol Hybrid,Hatchback,1.5,
+2383,28000.0,Volkswagen,Passat,2018,50130.941,Diesel,Saloon,2.0,150.0
+2384,14995.0,BMW,5-Series,2014,191450.0,Diesel,Saloon,2.0,143.0
+2385,25500.0,Volkswagen,Crafter,2018,182660.09,Diesel,Van,2.0,
+2386,11895.0,Toyota,Aqua,2017,104607.1,Petrol Hybrid,Hatchback,1.5,
+2387,7995.0,Peugeot,2008,2014,135221.0,Diesel,Hatchback,1.4,68.0
+2388,12995.0,Volkswagen,Polo,2015,90123.04,Petrol,Hatchback,1.2,
+2389,2100.0,Nissan,Note,2008,357000.0,Petrol,MPV,1.4,
+2390,14495.0,Volkswagen,Polo,2016,53108.22,Petrol,Hatchback,1.2,
+2391,12995.0,Volkswagen,Polo,2015,70810.96,Petrol,Hatchback,1.2,
+2392,11950.0,Citroen,C4,2016,186522.0,Diesel,Hatchback,1.6,92.0
+2393,11995.0,Toyota,Aqua,2017,111044.46,Petrol Hybrid,Hatchback,1.5,
+2395,13495.0,Volkswagen,Polo,2015,90123.04,Petrol,Hatchback,1.2,
+2396,32950.0,Volkswagen,Golf,2020,27387.0,Petrol,Hatchback,1.5,150.0
+2397,13450.0,Ford,KA,2017,25500.0,Petrol,Hatchback,1.2,85.0
+2398,12995.0,Mazda,Demio,2015,109435.12,Diesel,Hatchback,1.5,
+2399,18995.0,Toyota,Prius,2017,123919.18,Petrol Hybrid,Saloon,1.8,
+2400,12995.0,Volkswagen,Polo,2015,149668.62,Petrol,Hatchback,1.2,
+2401,35168.0,Renault,Captur,2022,0.0,Petrol,Crossover,1.0,90.0
+2402,2299.0,Nissan,Primastar,2005,209.2142,Diesel,MPV,1.9,
+2403,25895.0,Hyundai,Bayon,2022,17.70274,Petrol,Hatchback,1.2,
+2404,19950.0,Ford,Transit,2019,64712.0,Diesel,Van,2.0,
+2405,2200.0,Skoda,Octavia,2010,305774.6,Diesel,Hatchback,1.6,
+2406,16495.0,Volkswagen,Polo,2017,45061.52,Petrol,Hatchback,1.2,
+2407,10995.0,Toyota,Aqua,2016,125528.52,Petrol Hybrid,Hatchback,1.5,
+2408,8795.0,Nissan,March,2016,111044.46,Petrol,Hatchback,1.2,
+2409,11995.0,Audi,A1,2012,96560.4,Petrol,Hatchback,1.4,
+2410,7995.0,Volkswagen,Up!,2014,67592.28,Petrol,Hatchback,1.0,
+2411,6950.0,Opel,Astra,2015,289380.2534,Diesel,Hatchback,1.2,95.0
+2412,9495.0,Mazda,Demio,2014,106216.44,Petrol,Hatchback,1.3,
+2413,26995.0,BMW,3-Series,2016,79000.0,Petrol Plug-in Hybrid,Saloon,2.0,252.0
+2414,2500.0,Ford,Mondeo,2008,193121.0,Petrol,Saloon,1.6,
+2415,7495.0,Volkswagen,Up!,2013,80467.0,Petrol,Hatchback,1.0,
+2416,9495.0,Mazda,Demio,2014,114263.14,Petrol,Hatchback,1.3,
+2417,23283.0,Volkswagen,Passat,2019,65381.04684,Diesel,Saloon,2.0,150.0
+2419,8995.0,Volkswagen,Up!,2014,125528.52,Petrol,Hatchback,1.0,
+2420,11995.0,Audi,A1,2012,90123.04,Petrol,Hatchback,1.4,
+2421,8995.0,Mazda,Demio,2014,122309.84,Petrol,Hatchback,1.3,
+2422,1150.0,Toyota,Avensis,2005,200000.0,Petrol,Saloon,1.6,
+2423,12995.0,Volkswagen,Polo,2015,117481.82,Petrol,Hatchback,1.2,
+2424,12995.0,Audi,A3,2013,46670.86,Petrol,Hatchback,1.4,
+2425,13950.0,Mitsubishi,Outlander,2014,154496.64,Diesel,SUV,2.3,150.0
+2426,8750.0,Volkswagen,Up!,2015,67592.28,Petrol,Hatchback,1.0,
+2427,25950.0,Citroen,Dispatch,2021,6025.0,Diesel,Van,2.0,
+2428,27950.0,Citroen,C4,2022,14500.0,Diesel,Hatchback,1.5,131.0
+2429,8000.0,Volkswagen,Passat,2013,180529.0,Diesel,Saloon,1.6,105.0
+2430,23490.0,Citroen,Relay,2022,0.0,Diesel,Van,2.2,
+2431,8495.0,Mazda,Demio,2013,101388.42,Petrol,Hatchback,1.3,
+2432,23490.0,Citroen,Relay,2022,0.0,Diesel,Van,2.2,
+2433,18950.0,Renault,Master,2017,125000.0,Diesel,MPV,2.3,
+2434,10950.0,Volkswagen,Golf,2016,119500.0,Diesel,Van,1.6,
+2435,10950.0,Volkswagen,Golf,2016,95565.0,Diesel,Van,1.6,
+2436,13995.0,Honda,Fit,2017,94951.06,Petrol Hybrid,Hatchback,1.5,
+2437,34175.0,Opel,Movano,2022,0.0,Diesel,Van,2.2,
+2438,35780.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2439,12495.0,Peugeot,Partner,2018,89400.0,Diesel,Van,1.6,
+2440,19950.0,Opel,Vivaro,2019,69500.0,Diesel,Van,1.6,
+2441,5850.0,Mazda,6,2011,157484.0,Diesel,Hatchback,2.2,129.0
+2442,28995.0,Nissan,Qashqai,2020,24449.0,Petrol,MPV,1.3,160.0
+2443,27640.0,Opel,Movano,2022,0.0,Diesel,Van,2.2,
+2444,27640.0,Opel,Movano,2022,0.0,Diesel,Van,2.2,
+2445,14950.0,Renault,Trafic,2017,97450.0,Diesel,Van,1.6,
+2446,16950.0,Renault,Master,2017,125000.0,Diesel,Van,2.3,
+2447,8650.0,Dacia,Sandero,2015,192000.0,Diesel,Hatchback,1.5,90.0
+2448,19950.0,Toyota,Proace,2019,105000.0,Diesel,Van,2.0,
+2449,14950.0,Volkswagen,Passat,2015,237.0,Diesel,Jeep,2.0,150.0
+2450,23490.0,Citroen,Relay,2022,0.0,Diesel,Van,2.2,
+2451,14950.0,Renault,Trafic,2017,97450.0,Diesel,MPV,1.6,
+2452,14950.0,Opel,Movano,2017,139000.0,Diesel,MPV,2.3,
+2453,23490.0,Citroen,Relay,2022,0.0,Diesel,Van,2.2,
+2454,16950.0,Citroen,Dispatch,2019,49500.0,Diesel,Van,1.6,
+2455,27995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.3,
+2456,27995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2457,27995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2459,27995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2460,27995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2461,27995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2462,28995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2463,28995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2466,28995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2467,28995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2468,28995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2469,28995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2470,4999.0,Ford,C-MAX,2011,283243.84,Diesel,MPV,1.6,95.0
+2471,28.0,Opel,Vivaro,2022,,Diesel,Van,,
+2472,28995.0,MAXUS,DELIVER 9,2022,0.0,Diesel,Van,2.0,
+2473,27750.0,MAXUS,e Deliver 3,2022,1500.0,Electric,Van,,
+2474,26450.0,Land Rover,Range Rover Evoque,2017,157105.3801,Diesel,SUV,2.0,150.0
+2475,12900.0,Volkswagen,Tiguan,2014,180000.0,Diesel,SUV,2.0,110.0
+2476,16950.0,Citroen,Dispatch,2018,28904.0,Diesel,Van,1.6,
+2477,34175.0,Opel,Movano,2022,0.0,Diesel,Van,2.2,
+2478,34175.0,Opel,Movano,2022,0.0,Diesel,Van,2.2,
+2479,34175.0,Opel,Movano,2022,0.0,Diesel,Van,2.2,
+2480,34175.0,Opel,Movano,2022,0.0,Diesel,Van,2.2,
+2481,34175.0,Opel,Movano,2022,0.0,Diesel,Van,2.2,
+2482,28890.0,Citroen,Relay,2022,0.0,Diesel,Van,2.0,
+2483,28890.0,Citroen,Relay,2022,0.0,Diesel,Van,2.0,
+2484,28890.0,Citroen,Relay,2022,0.0,Diesel,Van,2.0,
+2485,28890.0,Citroen,Relay,2022,0.0,Diesel,Van,2.0,
+2486,50900.0,Volkswagen,Tiguan,2020,29000.0,Diesel,SUV,2.0,150.0
+2487,18000.0,Mercedes,A-Class,2016,110000.0,Diesel,Hatchback,1.5,109.0
+2488,19000.0,Peugeot,Partner,2018,69000.0,Diesel,MPV,1.6,100.0
+2489,12500.0,Land Rover,Discovery,2005,128747.2,Petrol,SUV,4.4,
+2490,12995.0,Audi,A1,2013,80467.0,Petrol,Hatchback,1.4,
+2491,11795.0,Audi,A1,2012,101388.42,Petrol,Hatchback,1.4,
+2492,14995.0,Volkswagen,Polo,2016,59545.58,Petrol,Hatchback,1.2,
+2493,10995.0,Volkswagen,Golf,2012,82076.34,Petrol,Hatchback,1.2,
+2494,13495.0,Volkswagen,Polo,2015,67592.28,Petrol,Hatchback,1.2,
+2495,13995.0,Honda,Fit,2017,80467.0,Petrol Hybrid,Hatchback,1.5,
+2496,12995.0,Toyota,Aqua,2017,49100.0,Petrol Hybrid,Hatchback,1.5,
+2497,39995.0,Ford,S-MAX,2019,51443.0,Diesel,MPV,2.0,150.0
+2498,12995.0,Mazda,Demio,2015,114263.14,Diesel,Hatchback,1.5,
+2499,12995.0,Mazda,Demio,2015,119252.094,Diesel,Hatchback,1.5,
+2500,16495.0,Audi,A3,2014,96560.4,Petrol,Hatchback,1.4,
+2501,60531.0,Volkswagen,Tiguan Allspace,2022,11000.0,Diesel,SUV,2.0,150.0
+2502,12500.0,SEAT,Leon,2015,166000.0,Diesel,Estate,1.6,105.0
+2504,1250.0,Volvo,90 Series,2004,,Diesel,SUV,2.4,
+2505,14995.0,Volkswagen,Golf,2017,187005.308,Diesel,Hatchback,1.6,
+2506,33995.0,BMW,5-Series,2018,,Petrol Plug-in Hybrid,Saloon,2.0,252.0
+2507,12495.0,Audi,A3,2013,83685.68,Petrol,Hatchback,1.4,
+2508,12995.0,Audi,A3,2013,74029.64,Petrol,Hatchback,1.4,
+2510,12995.0,Audi,A3,2013,106216.44,Petrol,Hatchback,1.4,
+2512,11495.0,Volkswagen,Polo,2014,74029.64,Petrol,Hatchback,1.2,
+2514,11495.0,Volkswagen,Polo,2014,115872.48,Petrol,Hatchback,,
+2515,9995.0,Volkswagen,Polo,2013,102997.76,Petrol,Hatchback,1.2,
+2516,12995.0,Mazda,Demio,2014,106216.44,Diesel,Hatchback,1.5,
+2518,25450.0,Vauxhall,Combo,2019,77586.2814,Petrol,MPV,1.2,
+2519,29900.0,Volkswagen,Arteon,2018,129792.0,Diesel,Hatchback,2.0,150.0
+2522,12600.0,Volkswagen,Golf,2016,250000.0,Diesel,Hatchback,1.6,90.0
+2523,12500.0,Nissan,Qashqai,2017,113000.0,Diesel,SUV,1.5,
+2524,9950.0,Dacia,Sandero,2019,45446.0,Petrol,Hatchback,1.0,75.0
+2526,16495.0,BMW,1-Series,2014,83685.68,Petrol,Hatchback,1.6,
+2527,15995.0,Volkswagen,Polo,2017,119091.16,Petrol,Hatchback,1.2,
+2528,14495.0,Volkswagen,Golf,2014,115872.48,Petrol,Hatchback,1.2,
+2530,9950.0,Hyundai,i40,2014,153774.0463,Diesel,Saloon,1.7,116.0
+2531,23950.0,Mercedes,CLA-Class,2015,117002.0,Petrol,Saloon,1.6,
+2532,27950.0,Citroen,C4,2022,14500.0,Diesel,Hatchback,1.5,131.0
+2533,5900.0,Hyundai,i30,2014,188000.0,Diesel,Van,1.4,
+2534,45940.0,Mercedes,E-Class,2018,80000.0,Diesel,Coupe,2.0,194.0
+2535,24950.0,Hyundai,Tucson,2018,94000.0,Diesel,SUV,1.7,115.0
+2536,5750.0,Ford,Mondeo,2013,289681.2,Diesel,Hatchback,2.0,140.0
+2537,3995.0,Ford,Focus,2011,274302.347,Diesel,Hatchback,1.6,90.0
+2538,11995.0,Volkswagen,Jetta,2015,,Diesel,Saloon,2.0,110.0
+2540,31995.0,Nissan,Qashqai,2021,51034.0,Diesel,MPV,1.5,115.0
+2541,11755.0,Mazda,6,2015,144275.0,Diesel,Saloon,2.2,150.0
+2542,17000.0,Hyundai,i10,2022,7650.0,Petrol,Hatchback,1.0,67.0
+2543,500.0,Opel,Corsa,2007,185000.0,Diesel,Hatchback,1.2,
+2544,1000.0,Honda,Civic,2008,55800.0,Petrol,Hatchback,1.3,
+2545,14800.0,KIA,Sportage,2015,,Diesel,SUV,1.7,115.0
+2546,3950.0,Nissan,Qashqai,2008,101000.0,Petrol,Hatchback,1.6,
+2547,22945.0,Volkswagen,Passat,2017,104265.0,Diesel,Saloon,2.0,150.0
+2548,9350.0,Honda,Jazz,2014,201000.0,Petrol,Hatchback,1.3,99.0
+2549,15450.0,Nissan,Juke,2017,27389.0,Petrol,SUV,1.2,116.0
+2550,47995.0,BMW,3-Series,2020,47000.0,Diesel,Saloon,2.0,190.0
+2551,14900.0,Volkswagen,Caddy,2018,91000.0,Diesel,MPV,2.0,
+2552,6950.0,Ford,Transit,2013,203296.0,Diesel,Van,2.2,
+2553,15990.0,BMW,1-Series,2015,188000.0,Petrol,Hatchback,1.6,
+2554,35800.0,BMW,X1,2018,35135.0,Diesel,SUV,2.0,150.0
+2555,7250.0,Vauxhall,Astra,2012,135267.0,Petrol,Hatchback,1.4,
+2556,4995.0,Honda,Civic,2008,130000.0,Petrol,Hatchback,1.8,
+2557,17999.0,Ford,Mondeo,2017,218870.24,Diesel,Hatchback,2.0,
+2558,1995.0,Volkswagen,Golf,2005,189000.0,Petrol,Hatchback,1.6,
+2559,4995.0,Volkswagen,Golf,2008,209000.0,Petrol,Hatchback,1.4,
+2561,9499.0,Fiat,500,2015,59219.0,Petrol,Hatchback,1.2,69.0
+2562,12499.0,Volkswagen,Golf,2014,166999.6025,Petrol,Hatchback,1.4,140.0
+2563,22000.0,Nissan,Leaf,2018,52000.0,Electric,Hatchback,,150.0
+2565,26900.0,Ford,Mondeo,2020,66835.8902,Diesel,Hatchback,2.0,
+2566,18500.0,Subaru,Impreza,2008,156000.0,Petrol,Estate,2.5,
+2568,36995.0,Peugeot,5008,2018,81005.0,Diesel,MPV,1.5,130.0
+2569,39950.0,BMW,5-Series,2017,81000.0,Diesel,Saloon,3.0,265.0
+2570,39250.0,Volkswagen,ID.3,2020,12799.0,Electric,Estate,,204.0
+2571,30495.0,BMW,5-Series,2018,128092.0,Diesel,Saloon,2.0,190.0
+2572,2450.0,Citroen,C4,2009,159712.0,Diesel,MPV,1.6,
+2573,32900.0,Volkswagen,Golf,2020,60150.0,Petrol,Estate,1.5,150.0
+2574,2750.0,Volkswagen,Polo,1999,170590.04,Petrol,Hatchback,1.4,
+2575,18995.0,SEAT,Ibiza,2020,26740.0,Petrol,Hatchback,1.0,
+2576,6400.0,Volkswagen,Passat,2012,220000.0,Diesel,Estate,1.6,105.0
+2577,9999.0,BMW,5-Series,2013,297727.9,Diesel,Saloon,2.0,184.0
+2578,27500.0,Audi,A5,2017,82000.0,Diesel,Hatchback,2.0,150.0
+2579,20.0,Mercedes,E-Class,2007,,Petrol,Saloon,1.8,
+2580,5500.0,Fiat,Punto,2012,104100.0,Petrol,Hatchback,1.2,65.0
+2581,7450.0,Renault,Clio,2012,36800.0,Petrol,Hatchback,1.1,75.0
+2583,23500.0,Audi,A6,2016,201167.5,Diesel,Saloon,2.0,190.0
+2585,4650.0,Audi,A6,2009,386241.6,Diesel,Estate,2.0,
+2586,9250.0,Volkswagen,Passat,2014,,Diesel,Saloon,1.6,105.0
+2588,39900.0,Volkswagen,Tiguan,2020,38500.0,Petrol,SUV,1.5,150.0
+2589,8995.0,Peugeot,3008,2015,201085.4237,Diesel,SUV,1.6,115.0
+2590,20950.0,Mercedes,Sprinter,2018,199171.9184,Diesel,Van,2.1,
+2591,17500.0,Ford,Kuga,2016,165000.0,Diesel,SUV,2.0,120.0
+2592,21650.0,Ford,Kuga,2018,173808.72,Diesel,SUV,1.5,
+2593,1000.0,Vauxhall,Insignia,2011,267388.0,Diesel,Hatchback,2.0,
+2595,25995.0,Ford,Mondeo,2018,81415.0,Diesel,Hatchback,2.0,
+2596,11500.0,Hyundai,i40,2014,151004.0,Diesel,Saloon,1.7,116.0
+2597,21995.0,Ford,Focus,2018,47955.0,Diesel,Hatchback,1.5,120.0
+2598,19995.0,Toyota,Prius,2017,129177.0,Hybrid,Hatchback,1.8,122.0
+2599,100.0,Honda,Integra,2001,,Petrol,Coupe,2.0,
+2600,26995.0,Audi,Q3,2018,99345.0,Diesel,SUV,2.0,
+2601,15995.0,Peugeot,3008,2016,81000.0,Diesel,SUV,1.6,120.0
+2602,13995.0,Volkswagen,Tiguan,2015,215918.7104,Diesel,SUV,2.0,110.0
+2603,3950.0,Perodua,Myvi,2011,128747.2,Petrol,Hatchback,1.3,87.0
+2604,21950.0,Lexus,RX,2012,136793.9,Petrol Hybrid,SUV,3.5,299.0
+2605,35168.0,Renault,Captur,2022,0.0,Petrol,Crossover,1.0,90.0
+2606,51878.0,Mercedes,Other,2022,0.0,Diesel,Coupe,2.0,
+2607,3950.0,Toyota,Corolla,2008,228526.28,Petrol,Saloon,1.4,
+2608,7350.0,Volkswagen,Polo,2014,200000.0,Petrol,Hatchback,1.0,60.0
+2609,10950.0,Hyundai,i30,2014,108535.4989,Diesel,Hatchback,1.6,110.0
+2610,1950.0,Mitsubishi,Lancer,2006,214042.22,Petrol,Saloon,1.3,
+2611,45932.0,Ford,Kuga,2022,1.0,Hybrid,SUV,2.5,
+2612,34950.0,Skoda,Kodiaq,2019,97308.7431,Diesel,SUV,2.0,150.0
+2613,7500.0,KIA,Sportage,2011,255423.1794,Diesel,SUV,1.7,115.0
+2614,800.0,Volvo,S40,2008,209214.2,Diesel,Saloon,1.6,
+2615,3150.0,Ford,Focus,2011,296118.56,Diesel,Hatchback,1.6,109.0
+2617,1750.0,Toyota,Corolla,2004,240058.8104,Petrol,Hatchback,1.4,
+2618,20950.0,Audi,Q3,2017,157715.32,Diesel,SUV,2.0,
+2619,13000.0,Audi,A3,2014,200599.403,Diesel,Hatchback,1.6,110.0
+2620,20990.0,Volkswagen,Golf,2019,90464.0,Diesel,Hatchback,1.6,115.0
+2621,22444.0,Ford,Kuga,2017,40000.0,Diesel,Hatchback,1.5,120.0
+2622,14950.0,Nissan,Qashqai,2015,141621.92,Diesel,Hatchback,1.5,110.0
+2623,39950.0,Audi,A6,2018,136793.9,Diesel Hybrid,Estate,2.0,
+2624,19950.0,Skoda,Superb,2019,185074.1,Diesel,Saloon,2.0,150.0
+2625,6950.0,Volvo,S60,2011,300938.5333,Diesel,Saloon,2.0,163.0
+2626,9950.0,Mazda,6,2014,273755.1714,Diesel,Saloon,2.2,150.0
+2627,8750.0,BMW,5-Series,2010,210000.0,Diesel,Saloon,2.0,
+2628,19950.0,Toyota,RAV4,2016,199611.2682,Diesel,SUV,2.0,143.0
+2629,44950.0,BMW,5-Series,2019,155587.7725,Diesel,Estate,2.0,
+2630,22950.0,BMW,5-Series,2016,168980.7,Diesel,Saloon,2.0,190.0
+2631,49900.0,Volkswagen,Tiguan,2020,52351.0,Petrol,SUV,1.5,150.0
+2632,25995.0,Renault,Kadjar,2020,72500.0,Diesel,Hatchback,1.5,
+2633,17950.0,BMW,X1,2015,124802.7077,Diesel,Hatchback,2.0,163.0
+2634,21650.0,Audi,A4,2017,163151.6705,Diesel,Saloon,2.0,150.0
+2635,6995.0,Renault,Fluence,2016,226934.6427,Diesel,Saloon,1.5,95.0
+2636,8500.0,Toyota,Landcruiser,2006,288353.0,Diesel,SUV,3.0,
+2637,19150.0,Volkswagen,Golf,2017,165169.7829,Diesel,Hatchback,1.6,
+2638,5950.0,Volkswagen,Transporter,2009,305774.6,Diesel,Van,2.5,
+2639,38950.0,BMW,5-Series,2018,75576.21574,Diesel,Saloon,2.0,
+2640,16950.0,Ford,Focus,2017,163441.3517,Diesel,Hatchback,1.5,
+2641,9500.0,Nissan,Qashqai,2013,182027.6194,Diesel,MPV,1.5,110.0
+2642,27900.0,Renault,Zoe,2021,15000.0,Electric,Hatchback,,107.0
+2643,52000.0,Land Rover,Range Rover,2015,160934.0,Diesel,SUV,3.0,
+2644,16950.0,Ford,Focus,2017,163275.5897,Diesel,Hatchback,1.5,
+2645,14450.0,Nissan,Navara,2014,177027.4,Diesel,Crew Cab,2.5,
+2646,14900.0,Hyundai,ix35,2015,146000.0,Diesel,SUV,1.7,115.0
+2647,41950.0,BMW,5-Series,2018,51476.34924,Diesel,Saloon,2.0,190.0
+2648,16950.0,Mini,Cooper,2017,156495.4403,Diesel,Hatchback,1.5,
+2650,5750.0,Peugeot,107,2012,141448.1113,Petrol,Hatchback,1.0,68.0
+2651,16950.0,Vauxhall,Insignia,2018,160121.2833,Diesel,Hatchback,1.6,
+2652,17950.0,Volvo,V40,2017,83685.68,Diesel,Hatchback,2.0,120.0
+2653,11950.0,Toyota,Avensis,2015,168000.0,Diesel,Saloon,2.0,110.0
+2654,9950.0,Dacia,Duster,2015,114881.1266,Diesel,SUV,1.5,107.0
+2655,15950.0,Volkswagen,Passat,2015,106000.0,Diesel,Saloon,1.6,120.0
+2656,12650.0,Nissan,Pulsar,2016,164152.68,Diesel,Hatchback,1.5,
+2657,22950.0,Mercedes,E-Class,2013,115000.0,Diesel,Cabriolet,2.1,170.0
+2658,27995.0,Peugeot,208,2022,1000.0,Petrol,Hatchback,1.2,101.0
+2659,900.0,Toyota,Avensis,2000,450615.2,Petrol,Saloon,1.6,
+2662,59950.0,BMW,X5,2018,75638.98,Diesel,SUV,3.0,
+2663,12950.0,Toyota,Auris,2015,201167.5,Diesel,Hatchback,1.4,90.0
+2664,39950.0,Ford,Ranger,2018,72420.3,Diesel,Pick Up,3.2,
+2665,52950.0,Jaguar,F-Pace,2020,47800.0,Diesel,SUV,2.0,180.0
+2666,12950.0,KIA,RIO,2016,73154.15904,Petrol,Hatchback,1.2,84.0
+2667,20995.0,Ford,Ranger,2015,181855.42,Diesel,Pick Up,2.2,
+2668,6750.0,Volkswagen,Touran,2012,257494.4,Diesel,MPV,1.6,105.0
+2669,23950.0,BMW,X5,2012,192316.13,Diesel,SUV,3.0,245.0
+2670,36499.0,Audi,SQ5,2014,141621.92,Diesel,Estate,3.0,
+2671,11950.0,Volvo,S60,2015,177027.4,Diesel,Saloon,1.6,114.0
+2672,2500.0,Volkswagen,Transporter,1988,,Petrol,Van,1.6,
+2673,3950.0,Toyota,Avensis,2008,232453.0696,Petrol,Saloon,1.8,
+2674,21950.0,Nissan,Qashqai,2017,65822.0,Diesel,SUV,1.5,
+2675,49995.0,Porsche,Cayenne,2016,183464.76,Petrol Plug-in Hybrid,SUV,3.0,416.0
+2676,7950.0,Toyota,Prius,2011,231744.96,Petrol Hybrid,Hatchback,1.8,136.0
+2677,1500.0,Audi,A3,2005,200000.0,Petrol,Hatchback,1.6,
+2678,30499.0,Audi,SQ5,2013,196339.48,Diesel,Estate,3.0,
+2679,10950.0,Nissan,Qashqai,2014,190000.0,Diesel,Hatchback,1.5,110.0
+2680,22900.0,Mercedes,A-Class,2017,82076.34,Diesel,Hatchback,1.5,109.0
+2681,20995.0,Toyota,Camry,2017,122504.0,Hybrid,Saloon,2.5,152.0
+2682,7250.0,Ford,Focus,2015,239791.66,Diesel,Estate,1.5,95.0
+2683,11950.0,Lexus,IS,2014,164152.68,Diesel,Saloon,2.2,150.0
+2684,14950.0,Peugeot,Partner,2019,112653.8,Diesel,MPV,1.6,75.0
+2685,9950.0,Toyota,Corolla,2014,218870.24,Diesel,Saloon,1.4,90.0
+2686,14950.0,Volvo,S60,2016,186683.44,Diesel,Saloon,2.0,150.0
+2687,27950.0,BMW,5-Series,2017,104000.0,Diesel,Saloon,2.0,190.0
+2688,13995.0,BMW,X5,2008,175418.06,Diesel,SUV,3.0,
+2689,14950.0,Volkswagen,Passat,2015,218870.24,Diesel,Estate,1.6,120.0
+2690,4950.0,Vauxhall,Astra,2010,180115.7235,Diesel,Hatchback,1.7,
+2691,15950.0,Citroen,C4,2015,195380.3134,Diesel,Hatchback,1.6,115.0
+2692,11950.0,Toyota,Corolla,2014,170441.9807,Diesel,Saloon,1.4,90.0
+2693,13495.0,Nissan,March,2019,101147.0,Petrol,Hatchback,1.2,80.0
+2694,10950.0,Renault,Clio,2015,72420.3,Petrol,Hatchback,1.1,75.0
+2695,2950.0,Ford,Galaxy,2009,286462.52,Diesel,MPV,2.0,
+2696,12950.0,Hyundai,i40,2015,189902.12,Diesel,Estate,1.7,116.0
+2697,5950.0,BMW,7-Series,2008,222998.1971,Diesel,Saloon,3.0,
+2698,10950.0,Nissan,Navara,2014,188000.0,Diesel,Crew Cab,2.5,
+2700,19650.0,Volkswagen,Golf,2017,,Diesel,Estate,1.6,115.0
+2701,18950.0,Hyundai,Santa Fe,2014,199937.0,Diesel,SUV,2.2,197.0
+2702,2995.0,Renault,Laguna,2010,276243.211,Diesel,Estate,1.5,
+2703,17250.0,Audi,A6,2015,220000.0,Diesel,Saloon,2.0,190.0
+2704,52990.0,BMW,X5,2018,102354.024,Petrol Plug-in Hybrid,SUV,2.0,
+2705,2500.0,Opel,Astra,2007,217000.0,Diesel,Estate,1.2,
+2707,7950.0,Vauxhall,Astra,2015,193120.8,Diesel,Hatchback,1.6,
+2708,5950.0,Honda,Jazz,2009,122432.1498,Petrol,Hatchback,1.3,
+2711,26000.0,BMW,Other,1974,,Petrol,Saloon,1.6,
+2713,4650.0,Renault,Clio,2010,56216.0,Ethanol Petrol,Hatchback,1.1,
+2714,12950.0,Ford,Transit Courier,2019,180246.0,Diesel,Van,1.5,
+2715,31950.0,Mercedes,C-Class,2017,51350.0,Petrol,Saloon,2.0,184.0
+2716,5950.0,Volkswagen,Golf,2010,193120.8,Diesel,Hatchback,1.6,
+2717,9950.0,Ford,Fiesta,2014,142412.1059,Petrol,Hatchback,1.2,60.0
+2718,10950.0,Renault,Captur,2014,129891.4407,Diesel,Hatchback,1.5,90.0
+2719,9950.0,Renault,Clio,2014,107162.7319,Petrol,Hatchback,1.1,75.0
+2720,7950.0,Volkswagen,Golf,2010,241951.3943,Diesel,Hatchback,1.6,
+2721,54950.0,Audi,A6,2020,55001.0,Diesel,Saloon,2.0,204.0
+2722,4500.0,Toyota,Avensis,2010,228917.0,Diesel,Saloon,2.0,
+2723,31900.0,Volkswagen,Golf,2020,31900.0,Petrol,Hatchback,1.5,130.0
+2724,,Toyota,Corolla,2022,,Hybrid,Hatchback,1.798,122.0
+2725,23950.0,Honda,Civic,2019,45636.0,Petrol,Hatchback,1.0,110.0
+2726,63000.0,Audi,e-tron,2020,13213.0,Electric,SUV,,
+2727,21999.0,Volkswagen,Passat,2017,162543.34,Diesel,Saloon,2.0,
+2728,8450.0,Honda,Civic,2013,225307.6,Diesel,Hatchback,1.6,120.0
+2730,27995.0,Nissan,X-Trail,2018,57000.0,Diesel,SUV,1.6,130.0
+2733,1250.0,Nissan,Qashqai,2007,251057.04,Petrol,Hatchback,1.6,
+2734,14295.0,Skoda,Yeti,2015,110000.0,Diesel,SUV,2.0,150.0
+2735,42995.0,Audi,A4,2019,32186.8,Diesel,Saloon,2.0,
+2736,14950.0,Citroen,C4,2017,102000.0,Diesel,Hatchback,1.6,92.0
+2738,23495.0,Peugeot,208,2022,18901.0,Petrol,Hatchback,1.2,
+2739,21645.0,Jeep,Wrangler,2009,135184.56,Diesel,SUV,2.8,
+2740,1450.0,Vauxhall,Astra,2007,229559.4763,Petrol,Hatchback,1.4,
+2742,2250.0,Lexus,IS,2008,,Petrol,Saloon,2.5,
+2743,25995.0,Skoda,KAMIQ,2022,6000.0,Petrol,Hatchback,1.0,95.0
+2744,70.2,Volkswagen,Passat,2009,123456.0,Diesel,Coupe,2.0,
+2745,13000.0,SEAT,Leon,2016,163100.0,Diesel,Estate,1.6,110.0
+2746,11694.15,Mitsubishi,L200,2013,203179.175,Diesel,Pick Up,2.5,
+2747,31063.0,Renault,Captur,2022,0.0,Petrol,Crossover,1.0,90.0
+2748,1500.0,Volkswagen,Passat,2007,421099.0,Diesel,Saloon,1.9,
+2749,6500.0,Volkswagen,Golf,2013,214.04222,Diesel,Hatchback,1.6,105.0
+2750,41995.0,Audi,A6,2019,65983.0,Diesel,Saloon,2.0,
+2751,36950.0,BMW,5-Series,2018,77248.0,Hybrid,Saloon,2.0,
+2752,36950.0,BMW,4-Series,2018,83686.0,Diesel,Coupe,2.0,190.0
+2753,7950.0,Ford,Focus,2012,144000.0,Diesel,Hatchback,1.6,95.0
+2754,3214.0,Mercedes,Vito,2019,12345.0,Diesel,Van,2.1,
+2755,6870.0,Volkswagen,Caddy,2017,268000.0,Diesel,Van,2.0,
+2757,29950.0,Hyundai,Tucson,2020,61357.0,Diesel,SUV,1.6,115.0
+2758,34900.0,Audi,Q2,2021,19725.0,Petrol,SUV,1.0,110.0
+2759,,Toyota,Landcruiser,2007,350000.0,Diesel,SUV,3.0,
+2760,3950.0,Ford,C-MAX,2010,202000.0,Diesel,MPV,1.6,
+2761,3750.0,Skoda,Octavia,2009,255885.06,Diesel,Estate,1.9,
+2762,3950.0,Toyota,Yaris,2009,180246.08,Petrol,Hatchback,1.0,
+2763,6550.0,Ford,Fiesta,2011,150000.0,Petrol,Hatchback,1.2,60.0
+2764,23000.0,Renault,Master,2018,45851.0,Diesel,Van,2.3,
+2765,13950.0,Skoda,Octavia,2016,107000.0,Petrol,Saloon,1.2,86.0
+2766,43.0,Ford,Transit,2022,,Diesel,Van,,
+2767,15999.0,Honda,Fit,2019,84000.0,Petrol,Hatchback,1.3,
+2769,19750.0,Hyundai,Tucson,2017,142023.0,Diesel,SUV,1.7,115.0
+2770,65000.0,Audi,e-tron,2021,15372.0,Electric,SUV,,
+2771,16950.0,Skoda,Superb,2016,196339.48,Diesel,Hatchback,2.0,
+2772,10450.0,Citroen,Grand C4 Picasso,2014,156105.98,Diesel,Hatchback,1.6,112.0
+2773,6870.0,Volkswagen,Caddy,2017,268000.0,Diesel,Van,2.0,
+2774,,Toyota,Hilux,2013,,Diesel,Crew Cab,3.0,
+2775,8995.0,Hyundai,i40,2013,205600.0,Diesel,Saloon,1.7,116.0
+2776,26495.0,Hyundai,i30,2022,2000.0,Petrol,Hatchback,1.0,120.0
+2777,,Toyota,Corolla,2022,,Hybrid,Saloon,1.798,122.0
+2778,16700.0,Mitsubishi,GTO,1992,77075.0,Petrol,Coupe,3.0,
+2780,13950.0,Citroen,Grand C4 Picasso,2016,170003.0,Diesel,MPV,1.6,92.0
+2782,13950.0,Renault,Clio,2019,98002.0,Petrol,Hatchback,1.0,90.0
+2783,10950.0,Renault,Clio,2016,145003.0,Petrol,Hatchback,1.2,75.0
+2784,12950.0,Peugeot,2008,2017,145003.0,Diesel,Estate,1.6,75.0
+2785,19950.0,Mazda,6,2019,184004.0,Diesel,Saloon,2.2,184.0
+2786,15450.0,Ford,Mondeo,2018,199558.0,Diesel,Hatchback,1.5,120.0
+2787,35900.0,KIA,Sportage,2020,46000.0,Hybrid,SUV,1.6,115.0
+2788,30950.0,KIA,Sorento,2017,121380.0,Diesel,SUV,2.2,200.0
+2789,5000.0,Ford,Focus,2011,90000.0,Diesel,Hatchback,1.6,95.0
+2790,15950.0,Mercedes,A-Class,2015,212005.0,Diesel,Hatchback,1.5,90.0
+2791,13950.0,Opel,Insignia,2018,217261.0,Diesel,Hatchback,1.6,110.0
+2792,28950.0,Land Rover,Range Rover Evoque,2018,168981.0,Diesel,Estate,2.0,
+2793,18950.0,BMW,1-Series,2019,210824.0,Diesel,Hatchback,1.5,
+2794,19950.0,BMW,5-Series,2015,196339.0,Diesel,Saloon,2.0,184.0
+2795,25950.0,Skoda,Karoq,2018,136794.0,Diesel,Estate,2.0,150.0
+2796,22950.0,Mercedes,E-Class,2016,188003.0,Diesel,Saloon,2.0,194.0
+2797,13950.0,Volvo,V60,2017,199719.0,Diesel,Estate,2.0,
+2798,34175.0,Opel,Movano,2022,0.0,Diesel,Van,2.2,
+2799,8750.0,Toyota,Yaris,2013,117002.0,Petrol,Hatchback,1.3,
+2800,13950.0,Mazda,6,2017,194730.0,Diesel,Saloon,2.2,
+2801,23450.0,Volvo,V60,2019,199845.0,Diesel,Estate,2.0,
+2802,28950.0,Mitsubishi,Outlander,2019,148059.0,Hybrid,Estate,2.4,
+2803,15950.0,Nissan,Qashqai,2018,139403.0,Diesel,MPV,1.5,110.0
+2804,3495.0,Ford,Focus,2008,197000.0,Petrol,Hatchback,1.4,
+2805,16950.0,Mercedes,A-Class,2016,154497.0,Diesel,Hatchback,1.5,109.0
+2806,22450.0,Peugeot,3008,2018,175418.0,Diesel,Hatchback,1.6,120.0
+2807,17950.0,Ford,Kuga,2017,199558.0,Diesel,MPV,2.0,
+2808,14950.0,Ford,Transit,2017,192156.8053,Diesel,Van,2.0,
+2809,7950.0,Peugeot,Partner,2015,193121.0,Diesel,Van,1.6,
+2810,19950.0,Mercedes,C-Class,2014,212433.0,Diesel,Saloon,2.1,170.0
+2811,17950.0,Ford,Mondeo,2018,189902.0,Diesel,Hatchback,2.0,150.0
+2812,17950.0,Ford,Mondeo,2018,173809.0,Diesel,Hatchback,2.0,
+2813,4950.0,Dacia,Duster,2013,299007.0,Diesel,SUV,1.5,107.0
+2814,20950.0,Audi,A4,2016,167371.0,Diesel,Saloon,2.0,150.0
+2815,5750.0,Nissan,Qashqai,2011,140150.9832,Diesel,Hatchback,1.5,106.0
+2816,18303.0,Dacia,Sandero,2022,0.0,Petrol,Hatchback,1.0,67.0
+2817,32950.0,Volkswagen,Tiguan,2019,83214.0,Diesel,SUV,2.0,150.0
+2818,10250.0,Volkswagen,Golf,2014,255885.06,Diesel,Hatchback,2.0,150.0
+2819,30365.0,Renault,Master,2022,10.0,Diesel,Van,2.3,
+2820,3300.0,Mitsubishi,L200,2006,,Diesel,Crew Cab,2.5,
+2821,5800.0,Opel,Astra,2010,240000.0,Diesel,Hatchback,2.0,
+2822,23959.0,Skoda,Karoq,2018,110000.0,Diesel,Jeep,1.6,115.0
+2823,15000.0,Mercedes,E-Class,2013,120000.0,Diesel,Coupe,2.1,170.0
+2824,46000.0,Skoda,Kodiaq,2019,80467.0,Diesel,MPV,2.0,150.0
+2825,53146.0,Ford,Kuga,2022,0.0,Hybrid,SUV,2.5,
+2826,,Toyota,Landcruiser,2007,230000.0,Diesel,SUV,3.0,
+2827,6700.0,KIA,Soul,2011,166405.756,Diesel,Hatchback,1.6,128.0
+2829,22995.0,Honda,VEZEL,2017,49651.0,Hybrid,MPV,1.5,
+2830,44990.0,Audi,A5,2020,29600.59062,Petrol,Hatchback,2.0,190.0
+2831,27950.0,Audi,A6,2018,194730.14,Diesel,Saloon,2.0,
+2832,14995.0,Audi,A1,2013,83702.0,Petrol,Hatchback,1.0,122.0
+2833,10500.0,Volkswagen,Golf,2012,206800.0,Diesel,Estate,1.6,105.0
+2834,2750.0,Ford,Focus,2008,218226.504,Diesel,Hatchback,1.6,
+2835,10500.0,Renault,Master,2015,283243.84,Diesel,Van,2.3,
+2836,10450.0,Audi,A3,2012,180889.816,Diesel,Hatchback,2.0,170.0
+2837,8716.5,Volkswagen,Jetta,2015,168980.7,Diesel,Saloon,2.0,
+2838,25995.0,BMW,5-Series,2016,139800.0,Diesel,Saloon,2.0,190.0
+2839,35950.0,Skoda,Kodiaq,2018,86904.36,Diesel,MPV,2.0,150.0
+2840,51900.0,Audi,A4,2022,200.0,Diesel,Saloon,2.0,136.0
+2841,169950.0,Bentley,Bentayga,2016,24000.0,Petrol,SUV,6.0,
+2842,18950.0,Audi,Q3,2014,164152.68,Diesel,SUV,2.0,
+2843,5750.0,Toyota,Corolla,2012,232810.0,Diesel,Saloon,1.4,90.0
+2844,42500.0,Audi,A5,2019,53000.0,Diesel,Hatchback,2.0,190.0
+2845,17999.0,Skoda,Octavia,2018,207604.86,Diesel,Estate,1.6,
+2847,3250.0,Toyota,Hilux,2004,300000.0,Diesel,Pick Up,2.5,
+2848,16950.0,Skoda,Octavia,2019,158000.0,Diesel,Saloon,1.6,115.0
+2850,44950.0,Audi,A6,2019,27500.0,Diesel,Saloon,2.0,204.0
+2851,,Skoda,Kodiaq,2021,59883.5414,Diesel,SUV,2.0,150.0
+2852,0.0,BMW,4-Series,2015,78052.99,Diesel,Coupe,2.0,184.0
+2853,24950.0,SEAT,Leon,2016,148059.28,Petrol,Hatchback,2.0,280.0
+2854,3750.0,Jeep,Patriot,2008,,Diesel,SUV,2.0,
+2855,39950.0,Ford,Ranger,2018,119091.16,Diesel,Pick Up,3.2,
+2856,37950.0,Jaguar,F-Pace,2017,88500.0,Diesel,SUV,2.0,180.0
+2857,20950.0,Hyundai,ix20,2019,65001.0,Petrol,MPV,1.6,125.0
+2858,43.0,Opel,Movano,2022,,Diesel,Van,2.2,
+2860,52950.0,Land Rover,Defender,2013,181855.42,Diesel,SUV,2.2,122.0
+2861,17950.0,Volkswagen,Tiguan,2015,125529.0,Diesel,SUV,2.0,110.0
+2862,65.0,SAAB,900 Turbo,1987,160934.0,Petrol,Saloon,2.0,
+2863,63950.0,BMW,i8,2015,92000.0,Petrol Plug-in Hybrid,Coupe,1.5,362.0
+2864,95950.0,Porsche,Panamera,2019,98000.0,Petrol Plug-in Hybrid,Estate,3.0,
+2865,15300.0,Mercedes,E-Class,2013,171640.0,Diesel,Saloon,2.1,136.0
+2866,11950.0,Hyundai,i20,2015,81000.0,Petrol,Hatchback,1.2,84.0
+2867,52250.0,SEAT,TARRACO,2022,10.0,Diesel,SUV,2.0,
+2868,7200.0,Ford,Focus,2013,305774.6,Diesel,Hatchback,1.6,95.0
+2869,11000.0,Skoda,Rapid,2015,103000.0,Petrol,Saloon,1.2,86.0
+2870,9000.0,Toyota,Avensis,2013,117000.0,Diesel,Saloon,2.0,124.0
+2871,14995.0,Honda,Shuttle,2017,111667.0,Hybrid,MPV,1.5,
+2872,5950.0,Ford,Transit,2013,279376.596,Diesel,Van,2.2,
+2873,15950.0,Nissan,Juke,2018,110000.0,Petrol,SUV,1.2,116.0
+2875,33950.0,Toyota,Camry,2019,89445.0,Hybrid,Saloon,2.5,218.0
+2876,7995.0,Mazda,6,2013,173808.72,Diesel,Estate,2.2,150.0
+2877,8990.0,Volvo,90 Series,2010,148059.28,Diesel,Estate,2.4,
+2878,29975.0,Ford,Focus,2022,12.0,Petrol,Hatchback,1.0,125.0
+2879,,Skoda,Kodiaq,2020,,Diesel,SUV,2.0,150.0
+2880,11495.0,Mercedes,E-Class,2012,244500.0,Diesel,Coupe,2.1,
+2881,87950.0,BMW,X5,2022,200.0,Hybrid,SUV,3.0,394.0
+2882,8650.0,Ford,Fiesta,2013,143231.26,Petrol,Hatchback,1.2,
+2883,15495.0,Dacia,Sandero Stepway,2019,21850.0,Petrol,Hatchback,0.9,90.0
+2885,8000.0,Renault,Kangoo,2017,223252.0,Diesel,MPV,1.5,
+2886,7900.0,Mitsubishi,Mirage,2012,45884.0,Petrol,Hatchback,1.0,
+2887,47995.0,Audi,Q5,2019,29895.0,Diesel,Estate,2.0,163.0
+2888,7995.0,Nissan,Cube,2013,113000.0,Petrol,MPV,1.5,
+2890,15500.0,SEAT,Leon,2015,151278.0,Petrol,Hatchback,1.4,125.0
+2891,64990.0,BMW,5-Series,2021,65768.89778,Diesel,Saloon,3.0,
+2892,15949.0,Volkswagen,Passat,2016,164701.0,Diesel,Saloon,2.0,150.0
+2893,18000.0,Audi,A7,2012,278000.0,Diesel,Hatchback,3.0,204.0
+2894,9900.0,Opel,Mokka,2015,206766.3939,Diesel,Hatchback,1.6,
+2895,14500.0,BMW,5-Series,2014,196870.5622,Diesel,Saloon,2.0,143.0
+2896,12500.0,Audi,A4,2012,176922.7929,Diesel,Saloon,2.0,177.0
+2897,6395.0,Citroen,C4 Picasso,2013,193200.0,Diesel,MPV,1.6,110.0
+2898,14000.0,Audi,A4,2014,161999.3831,Diesel,Saloon,2.0,136.0
+2899,35950.0,Volkswagen,Golf,2022,1.0,Petrol,Hatchback,1.5,130.0
+2900,16450.0,Mercedes,E-Class,2013,109596.054,Diesel,Saloon,2.1,170.0
+2901,18950.0,Audi,Q3,2014,74100.0,Diesel,SUV,2.0,
+2902,20995.0,Mazda,CX-5,2017,90123.04,Diesel,SUV,2.2,150.0
+2903,25895.0,Nissan,Qashqai,2019,35405.48,Diesel,Hatchback,1.5,
+2904,40495.0,Audi,A5,2019,83000.0,Diesel,Coupe,2.0,190.0
+2905,75995.0,Land Rover,Range Rover Sport,2018,148059.28,Petrol Plug-in Hybrid,Saloon,2.0,
+2906,22603.0,Dacia,Sandero Stepway,2022,0.0,Petrol,Crossover,1.0,91.0
+2907,15995.0,Honda,GRACE,2017,44695.0,Hybrid,Saloon,1.5,
+2908,11495.0,Toyota,Aygo,2017,29000.0,Petrol,Hatchback,1.0,68.0
+2909,9745.0,Ford,Focus,2013,,Diesel,Hatchback,1.6,95.0
+2910,26995.0,BMW,3-Series,2016,79000.0,Petrol Plug-in Hybrid,Saloon,2.0,252.0
+2911,36495.0,Mercedes,C-Class,2018,62764.26,Petrol Plug-in Hybrid,Saloon,2.0,
+2912,79995.0,Land Rover,Range Rover Sport,2018,109435.12,Petrol Plug-in Hybrid,Estate,2.0,
+2913,11495.0,KIA,Optima,2016,225000.0,Diesel,Saloon,1.7,141.0
+2914,25895.0,Nissan,Qashqai,2019,46670.86,Diesel,Hatchback,1.5,
+2915,33995.0,Mercedes,CLA,2018,82076.34,Diesel,Estate,2.1,
+2916,26395.0,BMW,3-Series,2017,83685.68,Petrol Plug-in Hybrid,Saloon,2.0,
+2918,28995.0,Audi,TT,2016,64000.0,Diesel,Coupe,2.0,184.0
+2919,84995.0,Land Rover,Range Rover Sport,2018,53108.22,Petrol Plug-in Hybrid,Estate,2.0,
+2920,1999.0,Peugeot,407,2008,170000.0,Petrol,Saloon,1.7,
+2921,32995.0,Mercedes,C-Class,2017,55600.0,Petrol Plug-in Hybrid,Saloon,2.0,279.0
+2922,2990.0,Ford,Focus,2008,313821.3,Diesel,Hatchback,1.6,
+2923,23495.0,Nissan,Qashqai,2019,90123.04,Diesel,Hatchback,1.5,
+2924,38950.0,Audi,Q5,2017,150020.0,Diesel,SUV,2.0,190.0
+2925,15450.0,SEAT,Leon,2016,122247.0,Petrol,Hatchback,1.2,110.0
+2926,33950.0,Jaguar,F-Pace,2017,100200.0,Diesel,SUV,2.0,180.0
+2927,38950.0,Land Rover,Range Rover Evoque,2019,81250.0,Diesel,SUV,2.0,150.0
+2928,21995.0,Renault,Trafic,2021,42537.0,Diesel,Van,2.0,
+2929,33450.0,Mercedes,A-Class,2020,18451.0,Petrol,Hatchback,1.3,109.0
+2930,29950.0,Mercedes,CLA-Class,2018,75627.71462,Diesel,Saloon,2.1,177.0
+2931,16450.0,Skoda,Superb,2015,106731.0,Diesel,Hatchback,2.0,190.0
+2932,1250.0,Ford,Mondeo,2008,220000.0,Petrol,Hatchback,1.6,
+2933,18500.0,Ford,Focus,2018,114000.0,Diesel,Hatchback,1.5,95.0
+2934,10500.0,Volvo,V40,2015,115486.2384,Diesel,Hatchback,1.6,115.0
+2936,39950.0,BMW,5-Series,2017,107826.0,Diesel,Saloon,3.0,265.0
+2937,10650.0,Ford,Transit Connect,2014,273587.8,Diesel,Van,1.6,
+2938,8950.0,Land Rover,Range Rover Sport,2007,,Diesel,SUV,2.7,
+2939,14950.0,Volvo,V40,2013,62764.26,Petrol,Hatchback,1.6,
+2940,1700.0,Toyota,Corolla,2001,175000.0,Petrol,Saloon,1.4,
+2941,16200.0,Volkswagen,Passat,2016,294000.0,Diesel,Saloon,2.0,150.0
+2942,25950.0,Audi,A1,2019,17556.0,Petrol,Hatchback,1.0,116.0
+2943,17250.0,Ford,Transit Connect,2019,123254.0,Diesel,Van,1.5,
+2944,13750.0,Mitsubishi,ASX,2015,84067.09358,Petrol,SUV,1.6,117.0
+2945,3750.0,Toyota,RAV4,2009,331.52404,Diesel,SUV,2.2,
+2946,22000.0,BMW,5-Series,2016,184048.9504,Diesel,Saloon,2.0,190.0
+2947,7250.0,Volkswagen,Passat,2012,265541.1,Diesel,Saloon,2.0,140.0
+2948,14450.0,Volkswagen,Jetta,2016,159324.66,Diesel,Saloon,2.0,110.0
+2949,12950.0,Volkswagen,Polo,2016,68283.0,Petrol,Hatchback,1.0,60.0
+2950,26750.0,Volkswagen,Transporter,2019,38769.0,Diesel,Van,2.0,
+2951,12950.0,Volkswagen,Polo,2014,116848.0,Petrol,Hatchback,1.2,90.0
+2952,21950.0,Volkswagen,Passat,2018,176706.0,Diesel,Saloon,1.6,105.0
+2953,11950.0,Hyundai,i30,2016,124110.0,Diesel,Hatchback,1.4,90.0
+2954,10950.0,Opel,Zafira,2014,87179.0,Diesel,MPV,2.0,130.0
+2955,24103.0,Dacia,Sandero Stepway,2022,0.0,Petrol,Crossover,1.0,91.0
+2956,6995.0,Ford,Fiesta,2012,152887.3,Petrol,Hatchback,1.2,
+2957,22950.0,Audi,A4,2017,255000.0,Diesel,Estate,2.0,150.0
+2958,19945.0,KIA,Sportage,2017,119091.16,Diesel,SUV,1.7,115.0
+2959,28995.0,Hyundai,Santa Fe,2017,115343.0,Diesel,SUV,2.2,200.0
+2960,3695.0,Volkswagen,Golf,2008,236000.0,Petrol,Hatchback,1.4,
+2961,22000.0,Ford,Galaxie 500,1972,126292.9565,Petrol,Saloon,6.6,
+2962,2795.0,Audi,A3,2007,216000.0,Petrol,Hatchback,1.6,
+2964,20950.0,Opel,Mokka,2019,63426.0,Diesel,MPV,1.6,136.0
+2966,104950.0,Land Rover,Defender,2021,19312.0,Hybrid,Estate,2.0,
+2967,38999.0,Audi,A7,2017,128747.2,Diesel,Hatchback,3.0,218.0
+2968,30900.0,Mercedes,E-Class,2017,98000.0,Diesel,Saloon,2.0,194.0
+2969,3978.0,Land Rover,Discovery,2002,156105.98,Diesel,SUV,2.5,
+2970,15950.0,KIA,Ceed,2017,53001.0,Petrol,Hatchback,1.4,100.0
+2971,26266.5,Volkswagen,Amarok,2018,147656.945,Diesel,Pick Up,3.0,
+2972,3495.0,Volkswagen,Polo,2008,209000.0,Petrol,Hatchback,1.2,
+2973,12999.0,Subaru,XV,2016,95801.0,Diesel,Van,2.0,
+2974,39945.0,Mercedes,E-Class,2019,40000.0,Diesel,Saloon,1.9,194.0
+2975,72995.0,Audi,Q5,2022,13539.0,Diesel,SUV,2.0,163.0
+2976,11995.0,Hyundai,i40,2015,98572.075,Diesel,Saloon,1.7,115.0
+2978,6595.0,Volkswagen,Passat,2013,304000.0,Diesel,Saloon,1.6,105.0
+2979,3695.0,Audi,A3,2008,235000.0,Petrol,Hatchback,1.6,
+2980,3295.0,Toyota,Auris,2007,221000.0,Petrol,Hatchback,1.4,
+2982,17950.0,Opel,Crossland X,2018,76117.0,Petrol,SUV,1.2,81.0
+2983,7950.0,Hyundai,i30,2013,186780.0,Diesel,Hatchback,1.6,110.0
+2984,3995.0,Opel,Astra,2010,218000.0,Petrol,Hatchback,1.4,
+2985,6000.0,Nissan,Juke,2012,159000.0,Diesel,SUV,1.5,110.0
+2986,7995.0,Volkswagen,Caddy,2013,255000.0,Diesel,Van,1.6,
+2987,23900.0,Nissan,Leaf,2018,73000.0,Electric,Hatchback,,150.0
+2988,38500.0,Renault,Master,2022,482.802,Diesel,Van,2.3,
+2989,8000.0,Ford,Focus,2013,148059.28,Petrol,Hatchback,1.0,100.0
+2990,17950.0,Volkswagen,Golf,2016,87001.0,Petrol,Hatchback,1.4,150.0
+2991,20745.0,Vauxhall,Insignia,2018,115949.7283,Diesel,Hatchback,1.6,
+2992,16000.0,Hyundai,i30,2018,60976.28326,Diesel,Estate,1.6,110.0
+2993,3895.0,Hyundai,i10,2010,202776.84,Petrol,Hatchback,1.2,
+2994,2500.0,Toyota,Corolla,2005,287200.0,Diesel,Van,1.4,
+2995,17433.0,Audi,A6,2015,140012.58,Diesel,Saloon,3.0,218.0
+2996,16999.0,Hyundai,i40,2018,90725.0,Diesel,Estate,1.7,115.0
+2997,5495.0,Renault,Clio,2011,233000.0,Diesel,Hatchback,1.5,90.0
+2998,5250.0,SEAT,Ibiza,2011,175000.0,Petrol,Hatchback,1.2,70.0
+2999,1750.0,Ford,Mondeo,2010,245000.0,Diesel,Hatchback,2.0,
+3000,2500.0,Ford,Transit,2007,158000.0,Diesel,Van,2.4,
+3001,15250.0,Toyota,RAV4,2014,143700.0,Diesel,SUV,2.0,124.0
+3002,2500.0,Ford,Mondeo,2008,193121.0,Petrol,Saloon,1.6,
+3003,,Opel,Corsa,2019,87829.7305,Petrol,Hatchback,1.4,75.0
+3004,7650.0,Ford,Fiesta,2015,246229.02,Diesel,MPV,1.5,
+3005,10975.0,Opel,Corsa,2017,94216.0,Petrol,Hatchback,1.4,90.0
+3006,16950.0,BMW,1-Series,2016,98432.0,Diesel,Hatchback,1.5,116.0
+3007,11990.0,Volkswagen,Golf,2013,128002.0,Petrol,Hatchback,1.2,85.0
+3008,41750.0,Ford,Kuga,2022,0.0,Diesel,SUV,1.5,
+3009,14750.0,SEAT,Leon,2014,120701.0,Petrol,Hatchback,1.4,180.0
+3010,8995.0,Hyundai,i10,2015,96560.0,Petrol,Hatchback,1.0,65.0
+3011,63490.0,KIA,Sorento,2022,0.0,Hybrid,SUV,1.6,
+3012,29999.0,Land Rover,Range Rover Sport,2014,270369.12,Diesel,SUV,3.0,258.0
+3013,13500.0,Volkswagen,Golf,2014,193000.0,Diesel,Hatchback,1.6,105.0
+3014,2650.0,Opel,Corsa,2008,212432.88,Petrol,Hatchback,1.0,
+3015,6800.0,Volvo,S60,2012,374171.55,Diesel,Saloon,2.0,163.0
+3016,2995.0,Opel,Corsa,2007,157000.0,Petrol,Hatchback,1.2,
+3017,59999.0,Mercedes,S-Class,2018,81021.0,Diesel,Saloon,2.9,286.0
+3018,2500.0,Volkswagen,Passat,2005,298000.0,Diesel,Jeep,1.9,
+3019,2200.0,Volkswagen,Golf,2008,344398.76,Diesel,Hatchback,1.9,
+3020,8365.5,Hyundai,i30,2015,106504.5119,Diesel,Hatchback,1.6,
+3021,14250.0,Audi,A3,2015,205995.52,Diesel,Hatchback,1.6,105.0
+3023,50950.0,Audi,A4,2021,13490.0,Diesel,Saloon,2.0,
+3024,3295.0,Toyota,Yaris,2008,173808.72,Petrol,Hatchback,1.0,
+3025,5295.0,Nissan,Juke,2011,196000.0,Petrol,SUV,1.6,117.0
+3026,,Volkswagen,Golf,2017,41000.0,Petrol,Hatchback,1.2,
+3027,19995.0,Toyota,Prius,2017,118467.0,Hybrid,Hatchback,1.8,122.0
+3028,24000.0,BMW,1-Series,2018,76923.0,Diesel,Hatchback,1.5,116.0
+3029,2808.0,Mitsubishi,Pajero,2007,212271.946,Diesel,SUV,2.5,
+3030,27500.0,Jaguar,XE,2017,40233.5,Diesel,Saloon,2.0,180.0
+3031,37500.0,Audi,A6,2019,125528.52,Diesel,Saloon,2.0,204.0
+3032,36995.0,BMW,X3,2017,130574.0,Diesel,SUV,2.0,190.0
+3034,15750.0,BMW,2-Series,2015,130000.0,Diesel,Coupe,2.0,143.0
+3035,20450.0,Volkswagen,Golf,2018,112653.8,Diesel,Hatchback,1.6,115.0
+3036,38950.0,Volkswagen,Tiguan,2020,57432.0,Diesel,SUV,2.0,
+3037,16499.0,Opel,Insignia,2018,112206.0,Diesel,Hatchback,1.6,136.0
+3038,8750.0,Ford,Focus,2017,240000.0,Diesel,Van,1.5,
+3039,44000.0,Nissan,Navara,2021,7242.03,Diesel,Pick Up,2.3,
+3040,1900.0,Peugeot,207,2008,217260.9,Petrol,Hatchback,1.4,
+3041,34000.0,Volkswagen,Tiguan,2018,96560.4,Diesel,SUV,2.0,150.0
+3042,27950.0,Audi,A6,2015,75000.0,Diesel,Saloon,2.0,150.0
+3043,25750.0,Nissan,Qashqai,2019,77000.0,Diesel,Hatchback,1.5,115.0
+3044,21950.0,Land Rover,Range Rover Evoque,2014,168980.7,Diesel,SUV,2.2,150.0
+3045,26950.0,Audi,A6,2016,143231.26,Diesel,Saloon,2.0,190.0
+3046,16000.0,Audi,A3,2015,81000.0,Diesel,Hatchback,2.0,150.0
+3047,2695.0,Opel,Corsa,2008,254000.0,Petrol,Hatchback,1.2,
+3049,24800.0,Subaru,Impreza,2006,,Petrol,Saloon,2.5,
+3050,14995.0,Honda,Fit,2017,72496.0,Hybrid,Hatchback,1.5,
+3051,22950.0,Skoda,Octavia,2018,120002.0,Diesel,Hatchback,1.6,115.0
+3052,39000.0,BMW,5-Series,2019,76839.0,Diesel,Saloon,2.0,190.0
+3053,3695.0,Hyundai,i10,2010,212000.0,Petrol,Hatchback,1.2,
+3054,52200.0,Nissan,Qashqai,2022,0.0,Hybrid,SUV,1.3,
+3055,21700.0,Audi,A6,2015,156105.98,Diesel,Saloon,2.0,190.0
+3056,9999.0,Citroen,Berlingo,2016,189902.12,Diesel,MPV,1.6,
+3057,25950.0,Opel,Movano,2022,0.0,Diesel,Van,2.2,
+3058,33695.0,SEAT,Ateca,2021,38201.0,Diesel,SUV,2.0,150.0
+3059,6950.0,Honda,Civic,2011,192004.0,Petrol,Hatchback,1.3,100.0
+3060,20950.0,BMW,3-Series,2014,114000.0,Diesel,Saloon,2.0,
+3061,28950.0,Audi,A6,2017,136002.0,Diesel,Saloon,2.0,190.0
+3062,33950.0,BMW,1-Series,2021,14999.0,Petrol,Hatchback,1.5,140.0
+3063,17950.0,Toyota,Prius,2016,116000.0,Petrol Hybrid,Hatchback,1.8,
+3064,12450.0,Toyota,Prius,2013,122000.0,Petrol Hybrid,Hatchback,1.8,
+3065,33950.0,Audi,S3,2015,106216.0,Petrol,Hatchback,2.0,265.0
+3066,4450.0,Nissan,Qashqai+2,2009,350000.0,Diesel,Hatchback,1.5,
+3067,14950.0,Volkswagen,Golf,2014,122002.0,Petrol,Hatchback,1.4,140.0
+3068,16955.0,Dacia,Logan,2020,71372.0,Diesel,Estate,1.5,95.0
+3069,4999.0,Nissan,Murano,2005,134000.0,Petrol,SUV,3.5,
+3071,12950.0,Volkswagen,Golf,2013,115002.0,Petrol,Hatchback,1.2,85.0
+3072,12950.0,Toyota,Vitz,2018,70001.0,Petrol,Hatchback,1.0,
+3073,14950.0,Volkswagen,Touran,2014,107002.0,Petrol,MPV,1.4,90.0
+3074,18950.0,Audi,A3,2016,123002.0,Petrol,Saloon,1.4,125.0
+3075,9450.0,Volkswagen,Golf,2012,131002.0,Petrol,Hatchback,1.2,85.0
+3076,12950.0,Honda,Fit,2016,91826.0,Hybrid,Hatchback,1.5,
+3077,3800.0,Volkswagen,Golf,2010,263127.09,Diesel,Hatchback,1.6,
+3078,21950.0,BMW,2-Series,2015,94002.0,Petrol,SUV,1.5,136.0
+3079,12950.0,Audi,A1,2014,97001.0,Petrol,Hatchback,1.4,122.0
+3080,12950.0,Audi,A1,2014,108001.0,Petrol,Hatchback,1.4,122.0
+3081,1490.0,Fiat,Panda,2006,82000.0,Petrol,Hatchback,1.1,
+3082,17950.0,Ford,S-MAX,2015,91732.0,Diesel,MPV,1.6,115.0
+3083,22950.0,Mercedes,A-Class,2017,71001.0,Diesel,Hatchback,1.5,90.0
+3084,19950.0,Audi,A6,2014,133002.0,Diesel,Saloon,2.0,150.0
+3085,25950.0,Volkswagen,Golf,2016,101002.0,Petrol,Hatchback,2.0,
+3086,15950.0,Volkswagen,Crafter,2016,146450.0,Diesel,Van,2.0,
+3087,17500.0,BMW,3-Series,2017,193.1208,Petrol Plug-in Hybrid,Saloon,2.0,252.0
+3088,20950.0,Volkswagen,Passat,2016,117002.0,Petrol,Estate,1.4,125.0
+3089,24950.0,Jaguar,XJ,2006,175418.0,Petrol,Saloon,4.2,
+3090,33950.0,Mercedes,CLS-Class,2017,111003.0,Diesel,Coupe,2.1,170.0
+3091,23950.0,Audi,Q3,2015,95001.0,Petrol,SUV,1.4,
+3092,23950.0,Mercedes,CLA-Class,2016,143003.0,Diesel,Saloon,2.1,136.0
+3093,14950.0,Audi,A3,2013,117002.0,Petrol,Hatchback,1.4,122.0
+3094,22995.0,Renault,Captur,2020,6660.0,Petrol,Hatchback,,100.0
+3095,49995.0,Audi,A6,2020,26554.0,Diesel,Saloon,2.0,
+3096,21950.0,Volkswagen,Touran,2016,97983.0,Petrol,MPV,1.4,110.0
+3097,6950.0,Honda,Insight,2010,138003.0,Hybrid,Hatchback,1.3,
+3098,12950.0,Toyota,Yaris,2017,98002.0,Petrol,Hatchback,1.0,69.0
+3101,13250.0,Great Wall,Steed,2014,142000.0,Diesel,Van,2.0,
+3102,43.0,Ford,Transit,2022,,Diesel,Van,,
+3103,11950.0,Hyundai,i20,2015,88002.0,Petrol,Hatchback,1.2,84.0
+3104,16950.0,Audi,A3,2015,109002.0,Petrol,Hatchback,1.4,125.0
+3105,1950.0,Ford,Focus,2009,284853.18,Diesel,Hatchback,1.8,
+3106,15750.0,Peugeot,Partner,2019,50000.0,Diesel,MPV,1.6,
+3107,10237.5,Hyundai,ix35,2015,96576.4934,Diesel,SUV,1.7,
+3108,9950.0,Skoda,Fabia,2015,91732.38,Petrol,Hatchback,1.2,70.0
+3109,1250.0,Opel,Zafira,2009,247838.36,Petrol,MPV,1.6,
+3110,14950.0,Hyundai,i20,2017,89000.0,Petrol,Hatchback,1.2,84.0
+3111,49950.0,Land Rover,Discovery Sport,2020,43790.0,Diesel,SUV,2.0,
+3112,19995.0,Toyota,Prius,2017,105400.0,Hybrid,Hatchback,1.8,
+3113,20950.0,Skoda,Octavia,2019,45500.0,Petrol,Saloon,1.0,115.0
+3114,13450.0,Mazda,Demio,2016,97000.0,Diesel,Hatchback,1.5,
+3117,6500.0,Volkswagen,Caddy,2012,218000.0,Diesel,MPV,1.6,
+3119,23950.0,KIA,Ceed,2019,20130.0,Petrol,Estate,1.0,120.0
+3120,24500.0,Volkswagen,Passat,2018,118547.0,Diesel,Saloon,1.6,120.0
+3121,23950.0,Mercedes,S-Class,2014,390909.0,Diesel,Saloon,3.0,258.0
+3122,4495.0,Ford,Fiesta,2009,210000.0,Petrol,Hatchback,1.2,
+3123,5695.0,Nissan,Micra,2011,139000.0,Petrol,Hatchback,1.2,80.0
+3124,15950.0,BMW,5-Series,2014,167000.0,Diesel,Saloon,2.0,184.0
+3125,13500.0,KIA,Sportage,2014,81696.53576,Diesel,SUV,1.7,115.0
+3126,22950.0,Audi,A6,2016,220000.0,Diesel,Saloon,2.0,190.0
+3127,13162.5,KIA,Sportage,2018,234641.772,Diesel,SUV,1.7,
+3128,58990.0,BMW,5-Series,2021,25749.44,Petrol Plug-in Hybrid,Saloon,2.0,
+3129,4495.0,Toyota,Auris,2009,179000.0,Petrol,Hatchback,1.4,
+3130,26475.0,Peugeot,3008,2018,73954.0,Diesel,Hatchback,1.6,120.0
+3131,19900.0,Opel,Astra,2019,64929.0,Petrol,Hatchback,1.0,105.0
+3133,7250.0,Nissan,Qashqai+2,2012,230135.62,Diesel,MPV,1.5,110.0
+3134,25950.0,Citroen,Relay,2022,0.0,Diesel,Van,2.2,
+3135,3510.0,Lexus,IS,2001,162543.34,Petrol,Saloon,2.0,
+3136,6950.0,Peugeot,5008,2012,164000.0,Diesel,MPV,1.6,112.0
+3137,26995.0,Mitsubishi,Outlander,2016,82125.0,Diesel,Estate,2.3,150.0
+3138,43995.0,Hyundai,Santa Fe,2019,27133.0,Diesel,SUV,2.2,200.0
+3139,4700.0,Toyota,Vitz,2008,107000.0,Petrol,Hatchback,1.0,
+3140,3200.0,Toyota,Auris,2007,307.0,Diesel,Hatchback,1.4,
+3141,9900.0,Nissan,Qashqai+2,2013,174003.0,Diesel,MPV,1.5,110.0
+3142,26900.0,Mercedes,CLA-Class,2017,47001.0,Diesel,Saloon,1.5,109.0
+3143,14900.0,Volkswagen,Jetta,2015,89001.0,Diesel,Saloon,2.0,110.0
+3144,5900.0,SEAT,Ibiza,2010,136002.0,Petrol,Hatchback,1.2,
+3145,5900.0,Ford,S-MAX,2010,219005.0,Diesel,MPV,2.0,
+3146,8900.0,Peugeot,5008,2012,109002.0,Diesel,MPV,1.6,112.0
+3147,16900.0,BMW,X5,2010,219005.0,Diesel,Estate,3.0,
+3148,55950.0,Land Rover,Discovery Sport,2020,29000.0,Diesel,SUV,2.0,150.0
+3149,19995.0,Toyota,Prius,2017,139073.0,Hybrid,Hatchback,1.8,122.0
+3150,17950.0,Volkswagen,Passat,2016,162836.0,Diesel,Saloon,2.0,150.0
+3151,29500.0,Audi,A6,2017,132003.0,Diesel,Saloon,2.0,190.0
+3152,35000.0,BMW,Other,1973,,Petrol,Saloon,1.6,
+3153,7250.0,Ford,Focus,2012,209214.2,Diesel,Hatchback,1.6,95.0
+3154,6950.0,Dacia,Duster,2014,221000.0,Diesel,SUV,1.5,107.0
+3155,7950.0,Opel,Astra,2014,128000.0,Diesel,Saloon,1.7,110.0
+3156,44250.0,Ford,Kuga,2022,0.0,Diesel,SUV,1.5,
+3157,,Skoda,Octavia,2020,18750.0,Petrol,Saloon,1.0,115.0
+3159,4900.0,Opel,Insignia,2013,,Diesel,MPV,2.0,130.0
+3160,6750.0,Volkswagen,Scirocco,2010,246000.0,Diesel,Hatchback,2.0,
+3161,6495.0,Peugeot,3008,2011,216000.0,Diesel,MPV,1.6,111.0
+3162,5695.0,Hyundai,ix35,2010,214042.22,Diesel,SUV,2.0,
+3163,28475.0,BMW,3-Series,2018,94228.0,Diesel,Saloon,2.0,
+3164,38900.0,Audi,A6,2018,60650.0,Diesel,Estate,2.0,190.0
+3165,,Land Rover,Range Rover,2016,121124.0,Diesel,SUV,2.0,
+3166,16950.0,KIA,RIO,2019,24000.0,Petrol,Hatchback,1.2,84.0
+3167,11945.0,Citroen,C4 Picasso,2015,179657.0616,Diesel,MPV,1.6,92.0
+3168,15750.0,BMW,1-Series,2016,165279.218,Diesel,Hatchback,1.5,116.0
+3169,8650.0,Citroen,Berlingo,2013,247838.36,Diesel,MPV,1.6,
+3170,19495.0,Nissan,Qashqai,2016,53862.0,Petrol,SUV,1.2,115.0
+3171,22995.0,Ford,Focus,2019,64212.666,Diesel,Hatchback,1.5,
+3172,23950.0,Ford,Galaxy,2018,166281.8368,Diesel,MPV,2.0,150.0
+3173,33900.0,Toyota,C-HR,2022,7000.0,Hybrid,Hatchback,1.8,122.0
+3174,37699.0,Audi,A4,2020,52101.0,Diesel,Saloon,2.0,136.0
+3175,19995.0,Toyota,Verso,2016,93101.0,Diesel,MPV,1.6,112.0
+3176,8150.0,Toyota,Other,2000,,Petrol,Saloon,2.0,
+3177,11950.0,Audi,A3,2013,233354.3,Diesel,Hatchback,2.0,150.0
+3178,17699.0,Audi,A8,2012,225758.0,Diesel,Saloon,3.0,250.0
+3179,15895.0,Toyota,Aygo,2021,40434.6675,Petrol,Hatchback,1.0,
+3180,19995.0,Toyota,Prius,2017,112099.0,Hybrid,Hatchback,1.8,122.0
+3181,90995.0,BMW,7-Series,2020,25086.0,Diesel,Saloon,3.0,258.0
+3182,39950.0,Porsche,Panamera,2014,239443.0,Petrol Hybrid,Hatchback,3.0,416.0
+3183,21950.0,Mercedes,C-Class,2016,91165.0,Diesel,Saloon,1.6,116.0
+3184,2450.0,Ford,Mondeo,2010,328371.0,Diesel,Hatchback,2.0,
+3186,10990.0,Volkswagen,Golf,2012,130002.0,Petrol,Hatchback,1.4,122.0
+3187,4750.0,Alfa Romeo,Giulietta,2012,302758.6968,Diesel,Hatchback,1.6,105.0
+3188,18950.0,Volvo,S60,2017,175845.0,Diesel,Saloon,2.0,190.0
+3189,39950.0,Lexus,NX,2018,82076.34,Petrol Hybrid,SUV,2.5,197.0
+3190,18950.0,Ford,Focus,2019,136793.9,Petrol,Hatchback,1.0,
+3191,28950.0,Volkswagen,Tiguan,2018,131168.0,Diesel,SUV,2.0,150.0
+3192,12950.0,Volkswagen,Polo,2016,61154.92,Petrol,Hatchback,1.0,
+3193,16850.0,Ford,Focus,2017,135184.56,Diesel,Hatchback,1.5,
+3194,34750.0,Jaguar,F-Pace,2017,145868.0,Diesel,SUV,2.0,180.0
+3195,2450.0,Nissan,Qashqai,2008,265541.1,Diesel,Hatchback,1.5,
+3196,10995.0,Volkswagen,Golf,2013,144859.9121,Diesel,Hatchback,1.6,105.0
+3197,28950.0,Land Rover,Discovery,2015,221330.0,Diesel,SUV,3.0,
+3198,5995.0,Opel,Insignia,2013,164171.9921,Diesel,MPV,2.0,130.0
+3199,18950.0,Mitsubishi,Outlander,2014,123549.0318,Diesel,SUV,2.3,150.0
+3200,21950.0,Honda,Civic,2019,51498.88,Petrol,Hatchback,1.0,
+3201,8995.0,Hyundai,i30,2014,161128.7301,Diesel,Hatchback,1.4,90.0
+3202,20950.0,Audi,A4,2017,178636.74,Diesel,Estate,2.0,
+3203,19950.0,Jaguar,XJ,2013,186776.0,Diesel,Saloon,3.0,510.0
+3204,13950.0,Opel,Mokka,2017,83704.99208,Petrol,SUV,1.6,115.0
